@@ -271,6 +271,59 @@
         "padding_top": 0,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_nHyC9D": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_xYADa9": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3M6qR7": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7gk9xn": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_xYADa9",
+        "column_3M6qR7",
+        "column_7gk9xn"
+      ],
+      "settings": {
+        "title": "Trending Jewelry From Israel",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -279,6 +332,7 @@
     "slideshow_RjFtA9",
     "featured_collection_GU4LgW",
     "collection_list_6F9RBW",
-    "featured_collection_XkTBjV"
+    "featured_collection_XkTBjV",
+    "multicolumn_nHyC9D"
   ]
 }
