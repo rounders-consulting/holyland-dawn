@@ -67,6 +67,16 @@
             "page": ""
           }
         },
+        "collapsible_tab_nPKGVx": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ingredients",
+            "icon": "none",
+            "metaID": "{{product.metafields.custom.ingredients.value}}",
+            "content": "",
+            "page": ""
+          }
+        },
         "complementary_89bzte": {
           "type": "complementary",
           "settings": {
@@ -98,6 +108,7 @@
         "buy_buttons",
         "description",
         "collapsible-row-0",
+        "collapsible_tab_nPKGVx",
         "complementary_89bzte",
         "share"
       ],
