@@ -108,11 +108,12 @@
         "slide_fDM4Pm": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/IMG_2813_copy.jpg",
+            "heading": "Authentic Olive Wood",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
+            "subheading": "From Israel",
+            "button_label": "Take A Look",
+            "link": "shopify:\/\/collections\/olive-wood-home-decor",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -125,11 +126,12 @@
         "slide_nFDmPD": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/IMG_8781_copy.jpg",
+            "heading": "Sabbath Essentials",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
+            "subheading": "",
+            "button_label": "Take A Look",
+            "link": "shopify:\/\/collections\/holiday-sabbath",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
