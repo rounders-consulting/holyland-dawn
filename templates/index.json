@@ -203,12 +203,53 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collection_list_6F9RBW": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_CbfnAh": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gifts-gift-ideas-gift-cards"
+          }
+        },
+        "featured_collection_T9NCrV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gifts-home-flags"
+          }
+        },
+        "featured_collection_gFwdz7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gifts-clothing-accessories-shirts-jackets"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_CbfnAh",
+        "featured_collection_T9NCrV",
+        "featured_collection_gFwdz7"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "slideshow_xz6dgG",
     "featured_collection",
     "slideshow_RjFtA9",
-    "featured_collection_GU4LgW"
+    "featured_collection_GU4LgW",
+    "collection_list_6F9RBW"
   ]
 }
