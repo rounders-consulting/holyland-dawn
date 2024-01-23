@@ -62,7 +62,8 @@
           "settings": {
             "heading": "Additional Information",
             "icon": "none",
-            "content": "<p>{{ product.metafields.custom.additional_info | metafield_tag }}<\/p>",
+            "metaID": "{{product.metafields.custom.additional_info.value}}",
+            "content": "",
             "page": ""
           }
         },
