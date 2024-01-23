@@ -378,6 +378,40 @@
         "stack_images_on_mobile": true,
         "show_text_below": false
       }
+    },
+    "newsletter_6AcCzp": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_KNhNAz": {
+          "type": "heading",
+          "settings": {
+            "heading": "Be the first to save!",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_bBzV9w": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Your one stop shop for jewelry and more!<\/p>"
+          }
+        },
+        "email_form_WtL7fW": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_KNhNAz",
+        "paragraph_bBzV9w",
+        "email_form_WtL7fW"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -388,6 +422,7 @@
     "collection_list_6F9RBW",
     "featured_collection_XkTBjV",
     "multicolumn_nHyC9D",
-    "image_banner_p8MfkX"
+    "image_banner_p8MfkX",
+    "newsletter_6AcCzp"
   ]
 }
