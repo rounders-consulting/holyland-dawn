@@ -278,28 +278,31 @@
         "column_xYADa9": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/IMG_3846_copy.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Eilat Floating Circle Earrings",
+            "link": "shopify:\/\/products\/floating-circle-earrings"
           }
         },
         "column_3M6qR7": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/IMG_3973_copy.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Mustard Seed Necklace",
+            "link": "shopify:\/\/products\/mustard-seed-tube-necklace"
           }
         },
         "column_7gk9xn": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/necklace_-1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Western Wall Menorah Necklace",
+            "link": "shopify:\/\/products\/menorah-on-western-wall"
           }
         }
       },
