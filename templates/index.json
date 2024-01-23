@@ -140,11 +140,30 @@
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_jtMDXi": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2863_copy.jpg",
+            "heading": "Noah's Ark Kids Backpack",
+            "heading_size": "h1",
+            "subheading": "Bright and fun kid's backpack perfect for kids on the go!",
+            "button_label": "Take a Look",
+            "link": "shopify:\/\/products\/noah-s-ark-kids-backpack",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_fDM4Pm",
-        "slide_nFDmPD"
+        "slide_nFDmPD",
+        "slide_jtMDXi"
       ],
       "settings": {
         "layout": "full_bleed",
