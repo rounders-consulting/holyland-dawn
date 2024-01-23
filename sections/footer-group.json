@@ -8,7 +8,7 @@
         "footer-0": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "Information",
             "menu": "footer"
           }
         },
@@ -19,25 +19,34 @@
             "menu": "footer"
           }
         },
+        "link_list_X4kiEU": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
         "footer-2": {
           "type": "text",
           "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "heading": "Contact Us",
+            "subtext": "<p>Monday through Friday<br\/>9:00 am - 5:00 pm EDT<br\/>800-279-6531<br\/><a href=\"mailto:service@holylandmarketplace.com\" target=\"_blank\" title=\"mailto:service@holylandmarketplace.com\">service@holylandmarketplace.com<br\/><\/a>6355 N Courtenay Pkwy<br\/>Merritt Island, FL 32953  USA<\/p>"
           }
         }
       },
       "block_order": [
         "footer-0",
         "footer-1",
+        "link_list_X4kiEU",
         "footer-2"
       ],
       "settings": {
         "color_scheme": "scheme-1",
         "newsletter_enable": true,
         "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
         "show_social": true,
-        "enable_country_selector": false,
+        "enable_country_selector": true,
         "enable_language_selector": false,
         "payment_enable": true,
         "show_policy": false,
