@@ -412,6 +412,53 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "featured_blog_fmW4cN": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "RECENT POSTS FROM OUR BLOG",
+        "heading_size": "h2",
+        "blog": "news",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "scheme-1",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_ja3Crg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ny3aia": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your one stop shop for jewelry and more!",
+            "heading_size": "h2"
+          }
+        },
+        "text_iTaE8h": {
+          "type": "text",
+          "settings": {
+            "text": "<p>HolyLand MarketPlace is your one stop shop for Israeli jewelry, prayer shawls, hebrew - english bibles, star of david jewelry and so much more! Invest in the lives of Jewish believers and buy their products such as grafted-in pendants and necklaces, dead sea skin care products, olive wood cross, menorah or a chanukiah. Made in Israel, stocked in the USA, you will find the best Israeli jewelry, pashmina scarves, scripture scarves, hebrew bible in english, essential oils, holy land gifts and christian gifts right here at Holyland Marketplace. We have messianic gifts, hebrew gifts, holyland gifts, children's gifts, holy products andmuch more. Let's go shopping in Israel!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ny3aia",
+        "text_iTaE8h"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 16
+      }
     }
   },
   "order": [
@@ -423,6 +470,8 @@
     "featured_collection_XkTBjV",
     "multicolumn_nHyC9D",
     "image_banner_p8MfkX",
-    "newsletter_6AcCzp"
+    "newsletter_6AcCzp",
+    "featured_blog_fmW4cN",
+    "rich_text_ja3Crg"
   ]
 }
