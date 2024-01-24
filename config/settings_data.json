@@ -115,6 +115,8 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/HLMP_2022_Logo_w_SOAM_13f9e305-c286-414b-9be3-5be177286c6b.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
+    "checkout_accent_color": "#80abc9",
+    "checkout_button_color": "#113a60",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
