@@ -253,19 +253,19 @@
                   <div id="QuickAddInfo-{{ card_product.id }}" class="quick-add-modal__content-info"></div>
                 </div>
               </quick-add-modal>
-    {%- elsif card_product.metafields.custom.amazon_link.value -%}
-        <a href="{{ card_product.metafields.custom.amazon_link.value }}" target="_new" style="text-decoration:none;">
-        <button type="submit" name="add" class="product-form__submit button button--full-width button--secondary">
-          <span>Buy on Amazon</span>
-        </button>
-        </a>
-    {%- elsif card_product.metafields.custom.book_patch_link.value -%}
-        <a href="{{ card_product.metafields.custom.book_patch_link.value }}" target="_new" style="text-decoration:none;">
-        <button type="submit" name="add" class="product-form__submit button button--full-width button--secondary">
-          <span>Buy on Book Patch</span>
-        </button>
-        </a>
-    {%- else -%}
+              {%- elsif card_product.metafields.custom.amazon_link.value -%}
+                  <a href="{{ card_product.metafields.custom.amazon_link.value }}" target="_new" style="text-decoration:none;">
+                  <button type="submit" name="add" class="product-form__submit button button--full-width button--secondary amazon">
+                    <span>Buy on Amazon</span>
+                  </button>
+                  </a>
+              {%- elsif card_product.metafields.custom.book_patch_link.value -%}
+                  <a href="{{ card_product.metafields.custom.book_patch_link.value }}" target="_new" style="text-decoration:none;">
+                  <button type="submit" name="add" class="product-form__submit button button--full-width button--secondary bookpatch">
+                    <span>Buy on Book Patch</span>
+                  </button>
+                  </a>
+              {%- else -%}
               <product-form data-section-id="{{ section.id }}">
                 {%- form 'product',
                   card_product,
