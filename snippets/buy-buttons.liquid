@@ -25,13 +25,13 @@
     -%}
     {%- if product.metafields.custom.amazon_link.value -%}
         <a href="{{ product.metafields.custom.amazon_link.value }}" target="_new" style="text-decoration:none;">
-        <button type="submit" name="add" class="product-form__submit button button--full-width button--secondary">
+        <button type="submit" name="add" class="product-form__submit button button--full-width button--secondary amazon">
           <span>Buy on Amazon</span>
         </button>
         </a>
     {%- elsif product.metafields.custom.book_patch_link.value -%}
         <a href="{{ product.metafields.custom.book_patch_link.value }}" target="_new" style="text-decoration:none;">
-        <button type="submit" name="add" class="product-form__submit button button--full-width button--secondary">
+        <button type="submit" name="add" class="product-form__submit button button--full-width button--secondary bookpatch">
           <span>Buy on Book Patch</span>
         </button>
         </a>
