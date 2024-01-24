@@ -37,7 +37,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/ECFA_Seal_Header.png",
-            "image_link": "",
+            "image_link": "https:\/\/www.ecfa.org\/MemberProfile.aspx?ID=39425",
             "image_width": 100,
             "alignment": "center"
           }
