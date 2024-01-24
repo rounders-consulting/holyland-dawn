@@ -112,6 +112,9 @@
     "show_vendor": false,
     "show_cart_note": true,
     "cart_drawer_collection": "new",
+    "checkout_logo_image": "shopify:\/\/shop_images\/HLMP_2022_Logo_w_SOAM_13f9e305-c286-414b-9be3-5be177286c6b.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
