@@ -23,7 +23,19 @@
         assign show_dynamic_checkout = true
       endif
     -%}
-
+    {%- if product.metafields.custom.amazon_link.value -%}
+        <a href="{{ product.metafields.custom.amazon_link.value }}" target="_new" style="text-decoration:none;">
+        <button type="submit" name="add" class="product-form__submit button button--full-width button--secondary">
+          <span>Buy on Amazon</span>
+        </button>
+        </a>
+    {%- elsif product.metafields.custom.book_patch_link.value -%}
+        <a href="{{ product.metafields.custom.book_patch_link.value }}" target="_new" style="text-decoration:none;">
+        <button type="submit" name="add" class="product-form__submit button button--full-width button--secondary">
+          <span>Buy on Book Patch</span>
+        </button>
+        </a>
+    {%- else -%}
     <product-form
       class="product-form"
       data-hide-errors="{{ gift_card_recipient_feature_active }}"
@@ -66,19 +78,6 @@
         {%- endif -%}
 
         <div class="product-form__buttons">
-          {%- if product.metafields.custom.amazon_link.value -%}
-              <a href="{{ product.metafields.custom.amazon_link.value }}" target="_new" style="text-decoration:none;">
-              <button type="submit" name="add" class="product-form__submit button button--full-width button--secondary">
-                <span>Buy on Amazon</span>
-              </button>
-              </a>
-          {%- elsif product.metafields.custom.book_patch_link.value -%}
-              <a href="{{ product.metafields.custom.book_patch_link.value }}" target="_new" style="text-decoration:none;">
-              <button type="submit" name="add" class="product-form__submit button button--full-width button--secondary">
-                <span>Buy on Book Patch</span>
-              </button>
-              </a>
-          {%- else -%}
           {%- liquid
             assign check_against_inventory = true
             if product.selected_or_first_available_variant.inventory_management != 'shopify' or product.selected_or_first_available_variant.inventory_policy == 'continue'
@@ -109,11 +108,10 @@
           {%- if show_dynamic_checkout -%}
             {{ form | payment_button }}
           {%- endif -%}
-
-          {%- endif -%}
         </div>
       {%- endform -%}
     </product-form>
+  {%- endif -%}
   {%- else -%}
     <div class="product-form">
       <div class="product-form__buttons form">
