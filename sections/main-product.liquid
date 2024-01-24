@@ -189,7 +189,7 @@
                 role="status"
                 {{ block.shopify_attributes }}
               >
-                <span class="visually-hidden">{{ 'products.product.sku' | t }}:</span> {{- product.selected_or_first_available_variant.sku -}}
+                <span>{{ 'products.product.sku' | t }}: </span> {{- product.selected_or_first_available_variant.sku -}}
               </p>
             {%- when 'custom_liquid' -%}
               {{ block.settings.custom_liquid }}
@@ -206,6 +206,7 @@
                     {% render 'icon-caret' %}
                   </summary>
                   <div class="accordion__content rte" id="ProductAccordion-{{ block.id }}-{{ section.id }}">
+                    {{ block.settings.metaID }}
                     {{ block.settings.content }}
                     {{ block.settings.page.content }}
                   </div>
@@ -1097,6 +1098,11 @@
           "default": "check_mark",
           "label": "t:sections.main-product.blocks.collapsible_tab.settings.icon.label"
         },
+        { 
+          "type": "liquid",
+          "id": "metaID",
+          "label": "MetaID for Raw HTML text"
+        }, 
         {
           "type": "richtext",
           "id": "content",
