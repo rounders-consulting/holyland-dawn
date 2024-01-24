@@ -15,15 +15,15 @@
         "footer-1": {
           "type": "link_list",
           "settings": {
-            "heading": "Info",
-            "menu": "footer"
+            "heading": "Customer Service",
+            "menu": "customer-service"
           }
         },
         "link_list_X4kiEU": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
+            "heading": "My Account",
+            "menu": "my-account"
           }
         },
         "footer-2": {
