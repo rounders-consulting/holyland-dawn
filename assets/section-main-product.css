@@ -1287,7 +1287,7 @@ a.product__text {
 .product__sku.visibility-hidden::after {
   content: '#';
 }
-.product__sku {font-size:1.25rem;}
+
 /* Product-thumbnail snippet */
 
 .product-media-container {
