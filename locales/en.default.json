@@ -532,7 +532,9 @@
         "custom_label": "Custom $ Amount",
         "add_tip": "Donate Now!",
         "update_tip": "Update Donation",
-        "description": "Donate to {{ shop_name }} Seed of Abraham"
+        "description": "Donate to {{ shop_name }} Seed of Abraham",
+        "message": " Thank you for your support, we truly appreciate it.",
+        "no_tip_label": "Not Today"
       }
     }
   }
