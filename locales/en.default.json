@@ -527,11 +527,11 @@
         "tip_label": "Donation"
       },
       "tips": {
-        "title": "Add donation",
-        "presets_description": "Select a donation percentage",
-        "custom_label": "Custom donation",
-        "add_tip": "Add donation",
-        "update_tip": "Update donation"
+        "title": "Add a donation",
+        "presets_description": "Your support means so much to us",
+        "custom_label": "Custom $ Amount",
+        "add_tip": "Donate Now!",
+        "update_tip": "Update Donation"
       }
     }
   }
