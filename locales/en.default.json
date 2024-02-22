@@ -531,7 +531,8 @@
         "presets_description": "Your support means so much to us",
         "custom_label": "Custom $ Amount",
         "add_tip": "Donate Now!",
-        "update_tip": "Update Donation"
+        "update_tip": "Update Donation",
+        "description": "Donate to {{ shop_name }} Seed of Abraham"
       }
     }
   }
