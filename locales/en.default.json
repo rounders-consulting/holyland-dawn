@@ -522,6 +522,16 @@
             "currency_change_reset": "Donation has been reset due to currency change."
           }
         }
+      },
+      "order_summary": {
+        "tip_label": "Donation"
+      },
+      "tips": {
+        "title": "Add donation",
+        "presets_description": "Select a donation percentage",
+        "custom_label": "Custom donation",
+        "add_tip": "Add donation",
+        "update_tip": "Update donation"
       }
     }
   }
