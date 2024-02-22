@@ -511,5 +511,18 @@
       "send_on": "YYYY-MM-DD",
       "send_on_label": "Send on (optional)"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "general": {
+        "errors": {
+          "tip": {
+            "not_accepted_by_shop": "Shop does not accept donations",
+            "only_one_tip_line_allowed": "Multiple donation lines are not supported",
+            "currency_change_reset": "Donation has been reset due to currency change."
+          }
+        }
+      }
+    }
   }
 }
