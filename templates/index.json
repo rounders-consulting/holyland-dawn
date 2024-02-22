@@ -3,10 +3,10 @@
     "slideshow_xz6dgG": {
       "type": "slideshow",
       "blocks": {
-        "slide_A3XhBH": {
+        "slide_fkE9Bq": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Flat_Rate_Shipping_HLMP_Slider.png",
+            "image": "shopify:\/\/shop_images\/20_Off_Ceramics_2162024.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -21,10 +21,10 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_fkE9Bq": {
+        "slide_A3XhBH": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20_Off_Bath_Body_1192023.png",
+            "image": "shopify:\/\/shop_images\/Flat_Rate_Shipping_HLMP_Slider.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -59,8 +59,8 @@
         }
       },
       "block_order": [
-        "slide_A3XhBH",
         "slide_fkE9Bq",
+        "slide_A3XhBH",
         "slide_wbUrKr"
       ],
       "settings": {
