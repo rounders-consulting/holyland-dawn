@@ -50,6 +50,7 @@
         "footer-2",
         "image_QikjUC"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-2",
         "newsletter_enable": true,
