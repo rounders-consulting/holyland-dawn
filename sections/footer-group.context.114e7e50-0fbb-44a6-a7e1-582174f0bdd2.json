@@ -1,0 +1,8 @@
+{
+  "parent": "footer-group.json",
+  "context": {
+    "market": "114e7e50-0fbb-44a6-a7e1-582174f0bdd2"
+  },
+  "sections": {
+  }
+}
