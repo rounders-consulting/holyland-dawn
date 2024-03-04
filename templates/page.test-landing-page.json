@@ -14,13 +14,20 @@
         "heading_W6iYPK": {
           "type": "heading",
           "settings": {
-            "heading": "CJSB REVIEW",
-            "heading_size": "h0"
+            "heading": "Learn How To Celebrate Passover",
+            "heading_size": "h1"
+          }
+        },
+        "text_bmbzRg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Would You Like To Learn How To Celebrate Passover As Our Messiah Did?  This Video Will Teach You From Beginning To End How To BIBLICALLY Celebrate A Passover Seder.<\/p>"
           }
         }
       },
       "block_order": [
-        "heading_W6iYPK"
+        "heading_W6iYPK",
+        "text_bmbzRg"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -31,19 +38,20 @@
         "padding_bottom": 16
       }
     },
-    "video_RPPJ6M": {
-      "type": "video",
+    "image_banner_4zXJRT": {
+      "type": "image-banner",
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/vimeo.com\/896340614\/b254cba77b?share=copy",
-        "cover_image": "shopify:\/\/shop_images\/The_Complete_Jewish_Study_Bible_Review.png",
-        "description": "",
-        "full_width": false,
+        "image": "shopify:\/\/shop_images\/The_Beginners_Guide_To_Passover.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "multicolumn_hEddem": {
@@ -69,7 +77,7 @@
   "order": [
     "main",
     "rich_text_XpXeW4",
-    "video_RPPJ6M",
+    "image_banner_4zXJRT",
     "multicolumn_hEddem"
   ]
 }
