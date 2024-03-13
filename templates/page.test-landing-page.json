@@ -14,14 +14,14 @@
         "heading_W6iYPK": {
           "type": "heading",
           "settings": {
-            "heading": "Learn How To Celebrate Passover",
+            "heading": "Passover Essentials",
             "heading_size": "h1"
           }
         },
         "text_bmbzRg": {
           "type": "text",
           "settings": {
-            "text": "<p>Would You Like To Learn How To Celebrate Passover As Our Messiah Did?  This Video Will Teach You From Beginning To End How To BIBLICALLY Celebrate A Passover Seder.<\/p>"
+            "text": "<p>Passover Essentials<\/p>"
           }
         }
       },
@@ -38,48 +38,14 @@
         "padding_bottom": 16
       }
     },
-    "image_banner_4zXJRT": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/The_Beginners_Guide_To_Passover.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "multicolumn_hEddem": {
-      "type": "multicolumn",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Click Here To Access The PDF",
-        "button_link": "#",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video_eTeNQA": {
+    "video_DwwJ6c": {
       "type": "video",
       "settings": {
-        "heading": "Video",
-        "heading_size": "h2",
+        "heading": "",
+        "heading_size": "h1",
         "enable_video_looping": false,
-        "video_url": "https:\/\/vimeo.com\/922547834\/ffb137eb5a?share=copy",
+        "video_url": "https:\/\/vimeo.com\/923086034\/3d1ffa2dc1",
+        "cover_image": "shopify:\/\/shop_images\/Passover_Essentials.png",
         "description": "",
         "full_width": false,
         "color_scheme": "",
@@ -87,22 +53,39 @@
         "padding_bottom": 36
       }
     },
-    "custom_liquid_XBGYJC": {
-      "type": "custom-liquid",
+    "featured_collection_tQAiHe": {
+      "type": "featured-collection",
       "settings": {
-        "custom_liquid": "<div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https:\/\/player.vimeo.com\/video\/922547834?h=ffb137eb5a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"Passover Essentials\"><\/iframe><\/div><script src=\"https:\/\/player.vimeo.com\/api\/player.js\"><\/script>",
+        "title": "Passover Starter Sets",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "passover-starter-sets",
+        "products_to_show": 2,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
     "rich_text_XpXeW4",
-    "image_banner_4zXJRT",
-    "multicolumn_hEddem",
-    "video_eTeNQA",
-    "custom_liquid_XBGYJC"
+    "video_DwwJ6c",
+    "featured_collection_tQAiHe"
   ]
 }
