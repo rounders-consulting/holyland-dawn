@@ -17,17 +17,10 @@
             "heading": "Passover Essentials",
             "heading_size": "h1"
           }
-        },
-        "text_bmbzRg": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Passover Essentials<\/p>"
-          }
         }
       },
       "block_order": [
-        "heading_W6iYPK",
-        "text_bmbzRg"
+        "heading_W6iYPK"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -49,8 +42,8 @@
         "description": "",
         "full_width": false,
         "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 8,
+        "padding_bottom": 8
       }
     },
     "featured_collection_tQAiHe": {
