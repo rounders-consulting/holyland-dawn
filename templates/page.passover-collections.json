@@ -3,12 +3,12 @@
     "video_yijzMz": {
       "type": "video",
       "settings": {
-        "heading": "\"Passover Essentials\" by Tom Bradford",
+        "heading": "Passover Essentials by Tom Bradford",
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https:\/\/vimeo.com\/923086034?share=copy",
         "cover_image": "shopify:\/\/shop_images\/Passover_Essentials.png",
-        "description": "How to celebrate Passover with Seder plate walk through",
+        "description": "",
         "full_width": false,
         "color_scheme": "",
         "padding_top": 36,
