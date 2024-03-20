@@ -41,6 +41,13 @@
             "image_width": 100,
             "alignment": "center"
           }
+        },
+        "text_PTtwTr": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "subtext": "<p>Copyright ©2024 Seed of Abraham Ministries, Inc.<br\/>All Rights Reserved | Copyright & Terms<\/p>"
+          }
         }
       },
       "block_order": [
@@ -48,7 +55,8 @@
         "footer-1",
         "link_list_X4kiEU",
         "footer-2",
-        "image_QikjUC"
+        "image_QikjUC",
+        "text_PTtwTr"
       ],
       "settings": {
         "color_scheme": "scheme-2",
