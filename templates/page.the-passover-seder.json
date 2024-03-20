@@ -38,7 +38,7 @@
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https:\/\/vimeo.com\/925170225",
-        "cover_image": "shopify:\/\/shop_images\/Passover_Essentials.png",
+        "cover_image": "shopify:\/\/shop_images\/The_Passover_Seder.png",
         "description": "",
         "full_width": false,
         "color_scheme": "",
@@ -76,36 +76,28 @@
     },
     "newsletter_ezPXi4": {
       "type": "newsletter",
-      "blocks": {
-        "heading_JNPgPj": {
-          "type": "heading",
-          "settings": {
-            "heading": "Come On A Passover Journey With Us",
-            "heading_size": "h1"
-          }
-        },
-        "paragraph_K7YQYL": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Enter Your Best Email Below<\/p>"
-          }
-        },
-        "email_form_4fd4Ka": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "heading_JNPgPj",
-        "paragraph_K7YQYL",
-        "email_form_4fd4Ka"
-      ],
       "settings": {
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "featured_blog_qC9j7Y": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Blog posts",
+        "heading_size": "h1",
+        "blog": "",
+        "post_limit": 2,
+        "columns_desktop": 1,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -114,6 +106,7 @@
     "rich_text_XpXeW4",
     "video_DwwJ6c",
     "featured_collection_tQAiHe",
-    "newsletter_ezPXi4"
+    "newsletter_ezPXi4",
+    "featured_blog_qC9j7Y"
   ]
 }
