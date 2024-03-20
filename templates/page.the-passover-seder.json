@@ -34,7 +34,7 @@
     "custom_liquid_VyRRqx": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https:\/\/player.vimeo.com\/video\/925568151?h=875c45f358&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"The Believer's Passover Seder CTA BLOG\"><\/iframe><\/div><script src=\"https:\/\/player.vimeo.com\/api\/player.js\"><\/script>",
+        "custom_liquid": "<iframe src=\"https:\/\/player.vimeo.com\/video\/925568151?h=875c45f358&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" width=\"1280\" height=\"720\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write\" title=\"The Believer's Passover Seder CTA BLOG\"><\/iframe>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
