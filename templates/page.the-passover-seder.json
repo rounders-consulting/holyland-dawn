@@ -46,34 +46,6 @@
         "padding_bottom": 8
       }
     },
-    "featured_collection_tQAiHe": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Passover Starter Sets",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "passover-starter-sets",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "newsletter_ezPXi4": {
       "type": "newsletter",
       "settings": {
@@ -83,19 +55,49 @@
         "padding_bottom": 52
       }
     },
-    "featured_blog_qC9j7Y": {
-      "type": "featured-blog",
+    "image_with_text_hHVjEQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_y6A6Yi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Latest From The Blog",
+            "heading_size": "h1"
+          }
+        },
+        "text_dXm96j": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Passover & What It Means To All Believers<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_pR6gfC": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read Article",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_y6A6Yi",
+        "text_dXm96j",
+        "button_pR6gfC"
+      ],
       "settings": {
-        "heading": "Blog posts",
-        "heading_size": "h1",
-        "blog": "",
-        "post_limit": 2,
-        "columns_desktop": 1,
+        "image": "shopify:\/\/shop_images\/Passover_And_What_It_Means_To_All_Believers.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "",
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "show_view_all": true,
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -105,8 +107,7 @@
     "main",
     "rich_text_XpXeW4",
     "video_DwwJ6c",
-    "featured_collection_tQAiHe",
     "newsletter_ezPXi4",
-    "featured_blog_qC9j7Y"
+    "image_with_text_hHVjEQ"
   ]
 }
