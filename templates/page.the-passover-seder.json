@@ -14,7 +14,7 @@
         "custom_liquid": "<div align=\"center\"><h1>Believer's Passover Seder by Tom Bradford<\/h1><\/div>\n<p align=\"center\"><iframe src=\"https:\/\/player.vimeo.com\/video\/925568151?h=875c45f358&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" width=\"1280\" height=\"720\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write\" title=\"The Believer's Passover Seder CTA BLOG\"><\/iframe><\/p>",
         "color_scheme": "",
         "padding_top": 0,
-        "padding_bottom": 52
+        "padding_bottom": 0
       }
     },
     "newsletter_ezPXi4": {
@@ -26,24 +26,24 @@
         "padding_bottom": 52
       }
     },
-    "image_with_text_hHVjEQ": {
+    "image_with_text_mxkdaq": {
       "type": "image-with-text",
       "blocks": {
-        "heading_y6A6Yi": {
+        "heading_HNfpre": {
           "type": "heading",
           "settings": {
             "heading": "Go Deeper Into The Meaning Of Passover",
             "heading_size": "h1"
           }
         },
-        "text_dXm96j": {
+        "text_KVtF8y": {
           "type": "text",
           "settings": {
             "text": "<p>Passover & What It Means To All Believers<\/p>",
             "text_style": "body"
           }
         },
-        "button_pR6gfC": {
+        "button_hMpfmx": {
           "type": "button",
           "settings": {
             "button_label": "Read Article",
@@ -53,14 +53,14 @@
         }
       },
       "block_order": [
-        "heading_y6A6Yi",
-        "text_dXm96j",
-        "button_pR6gfC"
+        "heading_HNfpre",
+        "text_KVtF8y",
+        "button_hMpfmx"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Passover-And-What-It-Means-For-Beginners.png",
+        "image": "shopify:\/\/shop_images\/Passover.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -78,6 +78,6 @@
     "main",
     "custom_liquid_VyRRqx",
     "newsletter_ezPXi4",
-    "image_with_text_hHVjEQ"
+    "image_with_text_mxkdaq"
   ]
 }
