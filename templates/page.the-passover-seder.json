@@ -8,17 +8,6 @@
         "padding_bottom": 28
       }
     },
-    "rich_text_XpXeW4": {
-      "type": "rich-text",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 16
-      }
-    },
     "custom_liquid_VyRRqx": {
       "type": "custom-liquid",
       "settings": {
@@ -87,7 +76,6 @@
   },
   "order": [
     "main",
-    "rich_text_XpXeW4",
     "custom_liquid_VyRRqx",
     "newsletter_ezPXi4",
     "image_with_text_hHVjEQ"
