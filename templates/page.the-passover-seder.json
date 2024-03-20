@@ -10,18 +10,6 @@
     },
     "rich_text_XpXeW4": {
       "type": "rich-text",
-      "blocks": {
-        "heading_W6iYPK": {
-          "type": "heading",
-          "settings": {
-            "heading": "The Passover Seder by Tom Bradford",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_W6iYPK"
-      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
