@@ -1,0 +1,83 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "custom_liquid_VyRRqx": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div align=\"center\"><h1>Believer's Passover Seder by Tom Bradford<\/h1><\/div>\n<p align=\"center\"><iframe src=\"https:\/\/player.vimeo.com\/video\/925568151?h=875c45f358&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" width=\"1280\" height=\"720\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write\" title=\"The Believer's Passover Seder CTA BLOG\"><\/iframe><\/p>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "newsletter_ezPXi4": {
+      "type": "newsletter",
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_mxkdaq": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_HNfpre": {
+          "type": "heading",
+          "settings": {
+            "heading": "Go Deeper Into The Meaning Of Passover",
+            "heading_size": "h1"
+          }
+        },
+        "text_KVtF8y": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Passover & What It Means To All Believers<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_hMpfmx": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read Article",
+            "button_link": "https:\/\/holylandmarketplace.com\/blogs\/news\/passover-what-it-means-to-all-believers",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HNfpre",
+        "text_KVtF8y",
+        "button_hMpfmx"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Passover.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "custom_liquid_VyRRqx",
+    "newsletter_ezPXi4",
+    "image_with_text_mxkdaq"
+  ]
+}
