@@ -11,7 +11,7 @@
     "custom_liquid_VyRRqx": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div align=\"center\"><h1>Believer's Passover Seder by Tom Bradford<\/h1><\/div>\n<p align=\"center\"><iframe src=\"https:\/\/player.vimeo.com\/video\/925568151?h=875c45f358&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479\" width=\"1280\" height=\"720\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write\" title=\"The Believer's Passover Seder CTA BLOG\"><\/iframe><\/p>",
+        "custom_liquid": "<div align=\"center\"><h1>The Beginners Guide To Passover<\/h1>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
@@ -26,39 +26,39 @@
         "padding_bottom": 52
       }
     },
-    "image_with_text_mxkdaq": {
+    "image_with_text_hrjEM6": {
       "type": "image-with-text",
       "blocks": {
-        "heading_HNfpre": {
+        "heading_AVxXLV": {
           "type": "heading",
           "settings": {
-            "heading": "Go Deeper Into The Meaning Of Passover",
+            "heading": "Thank you for confirming your email. Here's Your Download. Click The Button Below",
             "heading_size": "h1"
           }
         },
-        "text_KVtF8y": {
+        "text_nDJKnz": {
           "type": "text",
           "settings": {
-            "text": "<p>Passover & What It Means To All Believers<\/p>",
+            "text": "",
             "text_style": "body"
           }
         },
-        "button_hMpfmx": {
+        "button_C8jfcK": {
           "type": "button",
           "settings": {
-            "button_label": "Read Article",
-            "button_link": "https:\/\/holylandmarketplace.com\/blogs\/news\/passover-what-it-means-to-all-believers",
+            "button_label": "Button label",
+            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0576\/7213\/8884\/files\/The_Beginner_s_Guide_To_Passover_Ebook.png?v=1711569802",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "heading_HNfpre",
-        "text_KVtF8y",
-        "button_hMpfmx"
+        "heading_AVxXLV",
+        "text_nDJKnz",
+        "button_C8jfcK"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Passover.jpg",
+        "image": "shopify:\/\/shop_images\/The_Beginner_s_Guide_To_Passover_Ebook.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -78,6 +78,6 @@
     "main",
     "custom_liquid_VyRRqx",
     "newsletter_ezPXi4",
-    "image_with_text_mxkdaq"
+    "image_with_text_hrjEM6"
   ]
 }
