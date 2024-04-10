@@ -8,30 +8,43 @@
         "padding_bottom": 28
       }
     },
-    "custom_liquid_VyRRqx": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div align=\"center\"><h1>Thank You For Confirming Your Email.<\/h1>",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "newsletter_ezPXi4": {
-      "type": "newsletter",
+    "rich_text_Xe7jaU": {
+      "type": "rich-text",
       "blocks": {
-        "heading_Wezd4U": {
+        "heading_ngedPV": {
           "type": "heading",
           "settings": {
-            "heading": "If you have signed up to receive a download, please anticipate an email containing your download in the next few minutes.",
-            "heading_size": "h2"
+            "heading": "Thank You For Confirming Your Email",
+            "heading_size": "h1"
+          }
+        },
+        "text_ygf4t7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you have signed up to receive a download, please anticipate an email containing your download in the next few minutes.<\/p>"
+          }
+        },
+        "button_9xQXrf": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_Wezd4U"
+        "heading_ngedPV",
+        "text_ygf4t7",
+        "button_9xQXrf"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
@@ -41,7 +54,6 @@
   },
   "order": [
     "main",
-    "custom_liquid_VyRRqx",
-    "newsletter_ezPXi4"
+    "rich_text_Xe7jaU"
   ]
 }
