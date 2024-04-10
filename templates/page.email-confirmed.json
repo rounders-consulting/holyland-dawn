@@ -11,7 +11,7 @@
     "custom_liquid_VyRRqx": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div align=\"center\"><h1>Thank You For Confirming Your Email<\/h1>",
+        "custom_liquid": "<div align=\"center\"><h1>Thank You For Confirming Your Email.<\/h1>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
@@ -32,7 +32,7 @@
         "heading_AVxXLV": {
           "type": "heading",
           "settings": {
-            "heading": "If you have signed up to receive a download, please anticipate an email containing your download in the next few minutes",
+            "heading": "If you have signed up to receive a download, please anticipate an email containing your download in the next few minutes.",
             "heading_size": "h1"
           }
         },
