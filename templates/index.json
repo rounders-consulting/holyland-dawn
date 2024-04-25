@@ -23,6 +23,7 @@
         },
         "slide_4cEftY": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Passover_Sets.jpg",
             "heading": "",
