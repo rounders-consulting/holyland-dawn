@@ -6,9 +6,67 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "multirow_MbPkVb": {
+      "type": "multirow",
+      "blocks": {
+        "row_EBipdn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PK005_1.png",
+            "caption": "",
+            "heading": "Pentecost (Shavuot) Starter Set",
+            "text": "<p>Don't know where to start? Check out our hand picked Shavuot Starter Set. This set is perfect for those new to this celebration or seeking a convenient option. Click below to get yours today!<\/p>",
+            "button_label": "Shop Now!",
+            "button_link": ""
+          }
+        },
+        "row_cPxzFH": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PK006.png",
+            "caption": "",
+            "heading": "Pentecost (Shavuot) Celebration Set",
+            "text": "<p>Elevate your Shavuot celebration with our hand picked Shavuot Celebration Set packed with informative and insightful products. <\/p><p>Don't miss out, get yours today!<\/p>",
+            "button_label": "Shop Now!",
+            "button_link": ""
+          }
+        },
+        "row_FkjDgq": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Pentecost (Shavuot) Deluxe Celebration Set",
+            "text": "<p>Experience the ultimate <\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_EBipdn",
+        "row_cPxzFH",
+        "row_FkjDgq"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "multirow_MbPkVb"
   ]
 }
