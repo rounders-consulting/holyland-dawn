@@ -10,17 +10,6 @@
     "multirow_MbPkVb": {
       "type": "multirow",
       "blocks": {
-        "row_EBipdn": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PK005_1.png",
-            "caption": "",
-            "heading": "Pentecost (Shavuot) Starter Set",
-            "text": "<p>Don't know where to start? Check out our hand picked Shavuot Starter Set. This set is perfect for those new to this celebration or seeking a convenient option. Click below to get yours today!<\/p>",
-            "button_label": "Shop Now!",
-            "button_link": ""
-          }
-        },
         "row_cPxzFH": {
           "type": "row",
           "settings": {
@@ -32,20 +21,32 @@
             "button_link": ""
           }
         },
+        "row_EBipdn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PK005_1.png",
+            "caption": "",
+            "heading": "Pentecost (Shavuot) Starter Set",
+            "text": "<p>Don't know where to start? Check out our hand picked Shavuot Starter Set. This set is perfect for those new to this celebration or seeking a convenient option. Click below to get yours today!<\/p>",
+            "button_label": "Shop Now!",
+            "button_link": ""
+          }
+        },
         "row_FkjDgq": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/pk007.png",
             "caption": "",
             "heading": "Pentecost (Shavuot) Deluxe Celebration Set",
-            "text": "<p>Experience the ultimate <\/p>",
-            "button_label": "Button label",
+            "text": "<p>Experience a deeper understanding and connection of Pentecost (Shavuot) with our deluxe set.<\/p><p>Click below to secure yours today!<\/p>",
+            "button_label": "Shop Now!",
             "button_link": ""
           }
         }
       },
       "block_order": [
-        "row_EBipdn",
         "row_cPxzFH",
+        "row_EBipdn",
         "row_FkjDgq"
       ],
       "settings": {
