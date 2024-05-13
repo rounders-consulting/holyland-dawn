@@ -11,10 +11,18 @@
             "text": "Limited Time: Contiguous USA Flat Rate $4.99 Shipping for order over $49.95 * Restrictions Apply",
             "link": ""
           }
+        },
+        "announcement_AAaTWy": {
+          "type": "announcement",
+          "settings": {
+            "text": "New Standard shipping! *Email support for Express options.",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement_ngBfQy"
+        "announcement_ngBfQy",
+        "announcement_AAaTWy"
       ],
       "settings": {
         "color_scheme": "scheme-2",
