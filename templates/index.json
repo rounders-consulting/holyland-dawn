@@ -23,6 +23,7 @@
         },
         "slide_A3XhBH": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Flat_Rate_Shipping_HLMP_Slider.png",
             "heading": "",
