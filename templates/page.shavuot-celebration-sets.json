@@ -10,24 +10,24 @@
     "multirow_MbPkVb": {
       "type": "multirow",
       "blocks": {
-        "row_cPxzFH": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PK006.png",
-            "caption": "",
-            "heading": "Pentecost (Shavuot) Celebration Set",
-            "text": "<p>Elevate your Shavuot celebration with our hand picked Shavuot Celebration Set packed with informative and insightful products. <\/p><p>Don't miss out, get yours today!<\/p>",
-            "button_label": "Shop Now!",
-            "button_link": ""
-          }
-        },
         "row_EBipdn": {
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/PK005_1.png",
             "caption": "",
             "heading": "Pentecost (Shavuot) Starter Set",
-            "text": "<p>Don't know where to start? Check out our hand picked Shavuot Starter Set. This set is perfect for those new to this celebration or seeking a convenient option. Click below to get yours today!<\/p>",
+            "text": "<p>Don't know where to start? Check out our carefully selected Pentecost (Shavuot) Starter Set. This set is perfect for those new to this celebration or seeking a convenient option. <\/p><p>Click below to get yours today!<\/p>",
+            "button_label": "Shop Now!",
+            "button_link": ""
+          }
+        },
+        "row_cPxzFH": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PK006.png",
+            "caption": "",
+            "heading": "Pentecost (Shavuot) Celebration Set",
+            "text": "<p>Experience a deeper understanding and connection of Pentecost (Shavuot) with our hand picked Shavuot Celebration Set packed with informative and insightful products. <\/p><p>Don't miss out, get yours today!<\/p>",
             "button_label": "Shop Now!",
             "button_link": ""
           }
@@ -38,15 +38,15 @@
             "image": "shopify:\/\/shop_images\/pk007.png",
             "caption": "",
             "heading": "Pentecost (Shavuot) Deluxe Celebration Set",
-            "text": "<p>Experience a deeper understanding and connection of Pentecost (Shavuot) with our deluxe set.<\/p><p>Click below to secure yours today!<\/p>",
+            "text": "<p>Elevate your Pentecost (Shavuot) celebration with our custom-selected, deluxe set. This expertly curated set features carefully selected products designed to deliver unparalleled satisfaction and value. <\/p><p>Click below to secure yours today!<\/p>",
             "button_label": "Shop Now!",
             "button_link": ""
           }
         }
       },
       "block_order": [
-        "row_cPxzFH",
         "row_EBipdn",
+        "row_cPxzFH",
         "row_FkjDgq"
       ],
       "settings": {
