@@ -21,6 +21,25 @@
             "text_alignment_mobile": "center"
           }
         },
+        "slide_hVtVNc": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Shavuot_Deluxe_Kit.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/pages\/shavuot-celebration-sets",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_A3XhBH": {
           "type": "slide",
           "disabled": true,
@@ -61,6 +80,7 @@
       },
       "block_order": [
         "slide_fkE9Bq",
+        "slide_hVtVNc",
         "slide_A3XhBH",
         "slide_wbUrKr"
       ],
