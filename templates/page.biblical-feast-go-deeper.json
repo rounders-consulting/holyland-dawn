@@ -6,9 +6,25 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "video_PAzBxt": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/vimeo.com\/947542940",
+        "cover_image": "shopify:\/\/shop_images\/Shavout_2020_video_T.B..jpg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "video_PAzBxt"
   ]
 }
