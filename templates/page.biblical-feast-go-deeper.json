@@ -46,41 +46,29 @@
         "padding_bottom": 36
       }
     },
-    "collection_list_pdq7W9": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_zneiFV": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "pentecost-shavout-celebration-sets"
-          }
-        },
-        "featured_collection_yjryzL": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_abYqQG": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_zneiFV",
-        "featured_collection_yjryzL",
-        "featured_collection_abYqQG"
-      ],
+    "featured_collection_N6D9Yg": {
+      "type": "featured-collection",
       "settings": {
-        "title": "Collections",
+        "title": "Featured collection",
         "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "holiday-pentecost",
+        "products_to_show": 3,
+        "columns_desktop": 4,
+        "full_width": false,
         "show_view_all": false,
-        "columns_mobile": "1",
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
@@ -91,6 +79,6 @@
     "main",
     "rich_text_LcUty8",
     "video_PAzBxt",
-    "collection_list_pdq7W9"
+    "featured_collection_N6D9Yg"
   ]
 }
