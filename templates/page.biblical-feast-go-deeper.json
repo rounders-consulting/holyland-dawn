@@ -112,32 +112,10 @@
             "button_label": "Click Here",
             "button_link": "https:\/\/torahclass.com\/old-testament-ruth-lesson-1-intro\/?format=video&lang=en"
           }
-        },
-        "row_Cg3KcJ": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "row_mWhKJX": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
-        "row_Dexjt4",
-        "row_Cg3KcJ",
-        "row_mWhKJX"
+        "row_Dexjt4"
       ],
       "settings": {
         "image_height": "medium",
