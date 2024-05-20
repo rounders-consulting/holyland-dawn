@@ -123,11 +123,23 @@
             "button_label": "Start Here",
             "button_link": "https:\/\/torahclass.com\/old-testament-genesis-lesson-1-intro\/?format=video&lang=en"
           }
+        },
+        "row_eYFzrF": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-05-20_at_11.59.19_AM.png",
+            "caption": "PDF",
+            "heading": "Pentecost (Shavuot) Terms & Definitions",
+            "text": "<p>When learning about Pentecost (Shavout) you’ll inevitably encounter some words and phrases that may be unfamiliar to you.So we’ve complied this list of some commonly used words and terms that will help you along your journey!<\/p>",
+            "button_label": "Click Here",
+            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0576\/7213\/8884\/files\/shavuot-relatedtermsdefinitions_664779f1.pdf?v=1716222294"
+          }
         }
       },
       "block_order": [
         "row_Dexjt4",
-        "row_V7Rzzq"
+        "row_V7Rzzq",
+        "row_eYFzrF"
       ],
       "settings": {
         "image_height": "medium",
