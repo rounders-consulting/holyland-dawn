@@ -112,10 +112,21 @@
             "button_label": "Click Here",
             "button_link": "https:\/\/torahclass.com\/old-testament-ruth-lesson-1-intro\/?format=video&lang=en"
           }
+        },
+        "row_V7Rzzq": {
+          "type": "row",
+          "settings": {
+            "caption": "Going Deeper",
+            "heading": "Study The Torah",
+            "text": "<p>If you want to go deeper into the <strong>first 5 books of the bible (Pentateuch)<\/strong> then this is a great place to begin.  Tom Bradford will take you on a journey through the first 5 book of the Bible.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
-        "row_Dexjt4"
+        "row_Dexjt4",
+        "row_V7Rzzq"
       ],
       "settings": {
         "image_height": "medium",
