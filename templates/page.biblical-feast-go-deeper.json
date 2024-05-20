@@ -46,36 +46,6 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_XprJdC": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_jxqdKL": {
-          "type": "heading",
-          "settings": {
-            "heading": "Here Are  Some More Teachings By Our Founder Tom Bradford To Help You Go Deeper Into The Meaning Of Pentecost (Shavuot) as Well As All The Other Biblical Feasts",
-            "heading_size": "h2"
-          }
-        },
-        "text_aGjxKT": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_jxqdKL",
-        "text_aGjxKT"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "multicolumn_BKW7ji": {
       "type": "multicolumn",
       "blocks": {
@@ -113,7 +83,7 @@
         "column_3VqCXw"
       ],
       "settings": {
-        "title": "Go Deeper into the Biblical Feasts",
+        "title": "Going Deeper into the Biblical Feasts",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -126,7 +96,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     }
   },
@@ -134,7 +104,6 @@
     "main",
     "rich_text_LcUty8",
     "video_PAzBxt",
-    "rich_text_XprJdC",
     "multicolumn_BKW7ji"
   ]
 }
