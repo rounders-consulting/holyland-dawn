@@ -45,11 +45,96 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_XprJdC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jxqdKL": {
+          "type": "heading",
+          "settings": {
+            "heading": "Here Are  Some More Teachings By Our Founder Tom Bradford To Help You Go Deeper Into The Meaning Of Pentecost (Shavuot) as Well As All The Other Biblical Feasts",
+            "heading_size": "h2"
+          }
+        },
+        "text_aGjxKT": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_jxqdKL",
+        "text_aGjxKT"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_BKW7ji": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_YweJzL": {
+          "type": "column",
+          "settings": {
+            "title": "A Believer’s Guide to God's Holy Days - Part 1",
+            "text": "<p>Understand the deeper meaning of Pentecost (Shavuot) by understanding how all the Feast Days tie in together.  Here are the links:  <br\/><a href=\"https:\/\/vimeo.com\/917149073?share=copy\" target=\"_blank\" title=\"https:\/\/vimeo.com\/917149073?share=copy\">A Believer’s Guide to God's Holy Days - Part 1<\/a><br\/><\/p><p><a href=\"https:\/\/vimeo.com\/919349270\" target=\"_blank\" title=\"https:\/\/vimeo.com\/919349270\">A Believer’s Guide to God's Holy Days - Part 2<\/a><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_U9LD6m": {
+          "type": "column",
+          "settings": {
+            "title": "A Believer’s Guide to God's Holy Days - Part 2",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3VqCXw": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_YweJzL",
+        "column_U9LD6m",
+        "column_3VqCXw"
+      ],
+      "settings": {
+        "title": "Go Deeper into the Biblical Feasts",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "rich_text_LcUty8",
-    "video_PAzBxt"
+    "video_PAzBxt",
+    "rich_text_XprJdC",
+    "multicolumn_BKW7ji"
   ]
 }
