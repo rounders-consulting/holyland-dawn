@@ -15,11 +15,23 @@
           "settings": {
             "text": "<p>Holyland Marketplace has been dedicated to supporting the Jewish people since 2004. As a faith-based, non-denominational, and non-profit organization, we are incorporated in the State of Florida and registered with the IRS as a 501 c3 non-profit charitable corporation.<\/p><p>Our sole purpose is to demonstrate Christian and Messianic support and comfort for the Jewish people of Israel by providing a market and sales channel for their quality products. We source our products from talented and industrious Israelis who craft, produce, or distribute them. We purchase these products outright and ship them from Israel to our central Florida warehouse. Our dedicated staff ensures that all orders are processed accurately, items are fully inspected for quality, and are shipped in a timely manner.<\/p><p>Our warehouse and shipping facilities in Florida are provided at no charge. The proceeds from our sales are used to help our many Israeli vendors expand their businesses, employ more people, produce new and different items for our customers' enjoyment, and support Jewish families in the Holyland. We do not use the profits from our sales to fund any of our other four ministries.<\/p><p>At Holyland Marketplace, we are committed to providing exceptional service and high-quality products while supporting the Jewish people of Israel.<\/p>"
           }
+        },
+        "button_dXaDPj": {
+          "type": "button",
+          "settings": {
+            "button_label": "Donate Now!",
+            "button_link": "https:\/\/www.paypal.com\/cgi-bin\/webscr",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "heading_nzYwKF",
-        "text_QVQ74d"
+        "text_QVQ74d",
+        "button_dXaDPj"
       ],
       "settings": {
         "desktop_content_position": "center",
