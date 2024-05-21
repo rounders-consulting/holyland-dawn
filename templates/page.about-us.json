@@ -64,6 +64,48 @@
         "padding_bottom": 28
       }
     },
+    "rich_text_EM44A8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zxdC3n": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Charitable Donations are greatly welcomed!<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_TXAHbm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All donations go directly to add more Israeli vendors, buy more Israeli products, and to support their families in time of need.<\/p>"
+          }
+        },
+        "button_YMp49b": {
+          "type": "button",
+          "settings": {
+            "button_label": "Donate Now!",
+            "button_link": "https:\/\/www.paypal.com\/cgi-bin\/webscr",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_zxdC3n",
+        "text_TXAHbm",
+        "button_YMp49b"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "newsletter_7gertA": {
       "type": "newsletter",
       "blocks": {
@@ -103,6 +145,7 @@
     "rich_text_G7TeTq",
     "video_CzYTm4",
     "main",
+    "rich_text_EM44A8",
     "newsletter_7gertA"
   ]
 }
