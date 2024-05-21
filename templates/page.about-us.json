@@ -1,5 +1,35 @@
 {
   "sections": {
+    "rich_text_G7TeTq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_nzYwKF": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Us",
+            "heading_size": "h1"
+          }
+        },
+        "text_QVQ74d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Holyland Marketplace has been dedicated to supporting the Jewish people since 2004. As a faith-based, non-denominational, and non-profit organization, we are incorporated in the State of Florida and registered with the IRS as a 501 c3 non-profit charitable corporation.<\/p><p>Our sole purpose is to demonstrate Christian and Messianic support and comfort for the Jewish people of Israel by providing a market and sales channel for their quality products. We source our products from talented and industrious Israelis who craft, produce, or distribute them. We purchase these products outright and ship them from Israel to our central Florida warehouse. Our dedicated staff ensures that all orders are processed accurately, items are fully inspected for quality, and are shipped in a timely manner.<\/p><p>Our warehouse and shipping facilities in Florida are provided at no charge. The proceeds from our sales are used to help our many Israeli vendors expand their businesses, employ more people, produce new and different items for our customers' enjoyment, and support Jewish families in the Holyland. We do not use the profits from our sales to fund any of our other four ministries.<\/p><p>At Holyland Marketplace, we are committed to providing exceptional service and high-quality products while supporting the Jewish people of Israel.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nzYwKF",
+        "text_QVQ74d"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "video_CzYTm4": {
       "type": "video",
       "settings": {
@@ -16,14 +46,51 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "newsletter_7gertA": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_CLnyCf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_8bdjik": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "email_form_be4b9f": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_CLnyCf",
+        "paragraph_8bdjik",
+        "email_form_be4b9f"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
+    "rich_text_G7TeTq",
     "video_CzYTm4",
-    "main"
+    "main",
+    "newsletter_7gertA"
   ]
 }
