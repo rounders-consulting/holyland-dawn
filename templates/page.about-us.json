@@ -160,9 +160,10 @@
         "button_Fi7Tic"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Torah_Class_Logo_2021.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
+        "desktop_image_width": "small",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
