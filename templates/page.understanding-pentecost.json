@@ -17,10 +17,18 @@
             "heading": "Understanding Pentecost (Shavuot)",
             "heading_size": "h1"
           }
+        },
+        "heading_9cY7NR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Play Video Below",
+            "heading_size": "h1"
+          }
         }
       },
       "block_order": [
-        "heading_mG6N4X"
+        "heading_mG6N4X",
+        "heading_9cY7NR"
       ],
       "settings": {
         "desktop_content_position": "center",
