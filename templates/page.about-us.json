@@ -106,7 +106,7 @@
           "type": "button",
           "settings": {
             "button_label": "Donate Now!",
-            "button_link": "https:\/\/www.paypal.com\/cgi-bin\/webscr",
+            "button_link": "https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_s-xclick&hosted_button_id=C47ED6DSY7GKE",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
