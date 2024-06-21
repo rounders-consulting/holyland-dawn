@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "slideshow_xz6dgG": {
@@ -6,7 +15,7 @@
         "slide_fkE9Bq": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Buy_More_Save_More_6142024.png",
+            "image": "shopify:\/\/shop_images\/20_Off_Home_Goods_6212024_1.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
