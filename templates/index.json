@@ -189,15 +189,9 @@
     "image_banner_CGqhGX": {
       "type": "image-banner",
       "blocks": {
-        "heading_RgbXd4": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
         "text_LdWAt3": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Give customers details about the banner image(s) or content on the template.",
             "text_style": "body"
@@ -205,6 +199,7 @@
         },
         "buttons_Am4dy8": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Button label",
             "button_link_1": "",
@@ -216,22 +211,50 @@
         }
       },
       "block_order": [
-        "heading_RgbXd4",
         "text_LdWAt3",
         "buttons_Am4dy8"
       ],
       "disabled": true,
       "settings": {
+        "image": "shopify:\/\/shop_images\/End_of_summer_sale_slider_HLMP_2.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
+      }
+    },
+    "rich_text_bXaVHa": {
+      "type": "rich-text",
+      "blocks": {
+        "button_YWzdUD": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop the Sale",
+            "button_link": "shopify:\/\/collections\/end-of-summer-clearance",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_YWzdUD"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "featured_collection_GU4LgW": {
@@ -524,6 +547,7 @@
     "featured_collection",
     "slideshow_RjFtA9",
     "image_banner_CGqhGX",
+    "rich_text_bXaVHa",
     "featured_collection_GU4LgW",
     "collection_list_6F9RBW",
     "featured_collection_XkTBjV",
