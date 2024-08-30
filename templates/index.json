@@ -66,12 +66,31 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_AD6cmb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/End_of_summer_sale_slider_HLMP_3.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/end-of-summer-clearance",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_fkE9Bq",
         "slide_A3XhBH",
-        "slide_wbUrKr"
+        "slide_wbUrKr",
+        "slide_AD6cmb"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -175,6 +194,7 @@
         "slide_nFDmPD",
         "slide_jtMDXi"
       ],
+      "disabled": true,
       "settings": {
         "layout": "full_bleed",
         "slide_height": "small",
@@ -214,7 +234,6 @@
         "text_LdWAt3",
         "buttons_Am4dy8"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/End_of_summer_sale_slider_HLMP_2.png",
         "image_overlay_opacity": 0,
@@ -247,7 +266,6 @@
       "block_order": [
         "button_YWzdUD"
       ],
-      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
