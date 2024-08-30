@@ -12,6 +12,41 @@
     "slideshow_xz6dgG": {
       "type": "slideshow",
       "blocks": {
+        "slide_4GHCAG": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_AD6cmb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/End_of_summer_sale_slider_HLMP_3.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/end-of-summer-clearance",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_fkE9Bq": {
           "type": "slide",
           "settings": {
@@ -66,31 +101,14 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_AD6cmb": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/End_of_summer_sale_slider_HLMP_3.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify:\/\/collections\/end-of-summer-clearance",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
+        "slide_4GHCAG",
+        "slide_AD6cmb",
         "slide_fkE9Bq",
         "slide_A3XhBH",
-        "slide_wbUrKr",
-        "slide_AD6cmb"
+        "slide_wbUrKr"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -206,73 +224,40 @@
         "accessibility_info": "Slideshow about Holyland Marketplace Features"
       }
     },
-    "image_banner_CGqhGX": {
-      "type": "image-banner",
+    "slideshow_BFEGbz": {
+      "type": "slideshow",
       "blocks": {
-        "text_LdWAt3": {
-          "type": "text",
-          "disabled": true,
+        "slide_BFe9Ft": {
+          "type": "slide",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_Am4dy8": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "text_LdWAt3",
-        "buttons_Am4dy8"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/End_of_summer_sale_slider_HLMP_2.png",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
-    "rich_text_bXaVHa": {
-      "type": "rich-text",
-      "blocks": {
-        "button_YWzdUD": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop the Sale",
-            "button_link": "shopify:\/\/collections\/end-of-summer-clearance",
+            "image": "shopify:\/\/shop_images\/End_of_summer_sale_slider_HLMP_2_7b08866b-56f6-4107-9287-a6efc631ce32.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/end-of-summer-clearance",
             "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "button_YWzdUD"
+        "slide_BFe9Ft"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "featured_collection_GU4LgW": {
@@ -564,8 +549,7 @@
     "slideshow_xz6dgG",
     "featured_collection",
     "slideshow_RjFtA9",
-    "image_banner_CGqhGX",
-    "rich_text_bXaVHa",
+    "slideshow_BFEGbz",
     "featured_collection_GU4LgW",
     "collection_list_6F9RBW",
     "featured_collection_XkTBjV",
