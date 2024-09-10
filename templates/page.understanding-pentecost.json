@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -14,7 +23,7 @@
         "heading_mG6N4X": {
           "type": "heading",
           "settings": {
-            "heading": "Understanding Pentecost (Shavuot)",
+            "heading": "Understanding Yom Teruah<\/br> (Feast of Trumpets)",
             "heading_size": "h1"
           }
         },
@@ -45,8 +54,8 @@
         "heading": "",
         "heading_size": "h1",
         "enable_video_looping": false,
-        "video_url": "https:\/\/vimeo.com\/947542940\/949808ddad?share=copy",
-        "cover_image": "shopify:\/\/shop_images\/Shavout_2020_video_T.B..jpg",
+        "video_url": "https:\/\/vimeo.com\/1008183236\/7a40a8f75f?share=copy",
+        "cover_image": "shopify:\/\/shop_images\/Yom_Teruah_Feast_Of_Trumpets.png",
         "description": "",
         "full_width": false,
         "color_scheme": "",
