@@ -63,36 +63,52 @@
         "padding_bottom": 36
       }
     },
-    "image_banner_JQUMHm": {
-      "type": "image-banner",
+    "image_with_text_7c3jD7": {
+      "type": "image-with-text",
       "blocks": {
-        "buttons_dHtxzJ": {
-          "type": "buttons",
+        "heading_RfrUjN": {
+          "type": "heading",
           "settings": {
-            "button_label_1": "CLICK HERE To Learn More About The Feast of Trumpets",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": true
+            "heading": "Learn More About The Feast of Trumpets",
+            "heading_size": "h1"
+          }
+        },
+        "text_94EEhf": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "button_TBBYcQ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Click Here",
+            "button_link": "",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "buttons_dHtxzJ"
+        "heading_RfrUjN",
+        "text_94EEhf",
+        "button_TBBYcQ"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2024-09-09_at_1.36.05_PM.png",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
+        "image": "shopify:\/\/shop_images\/1_c427a23f-b630-4c0c-8293-bd5ca61e669c.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
         "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_BKW7ji": {
@@ -245,7 +261,7 @@
     "main",
     "rich_text_LcUty8",
     "video_PAzBxt",
-    "image_banner_JQUMHm",
+    "image_with_text_7c3jD7",
     "multicolumn_BKW7ji",
     "multirow_AQqJ7P",
     "newsletter_nTPEge"
