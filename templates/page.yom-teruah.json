@@ -52,7 +52,7 @@
       "type": "video",
       "settings": {
         "heading": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "enable_video_looping": false,
         "video_url": "https:\/\/vimeo.com\/1008183236\/7a40a8f75f?share=copy",
         "cover_image": "shopify:\/\/shop_images\/Yom_Teruah_Feast_Of_Trumpets.png",
@@ -66,21 +66,6 @@
     "image_banner_JQUMHm": {
       "type": "image-banner",
       "blocks": {
-        "heading_KHXz3h": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "",
-            "heading_size": "h2"
-          }
-        },
-        "text_Lg3pXt": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
         "buttons_dHtxzJ": {
           "type": "buttons",
           "settings": {
@@ -89,17 +74,16 @@
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_style_secondary_2": true
           }
         }
       },
       "block_order": [
-        "heading_KHXz3h",
-        "text_Lg3pXt",
         "buttons_dHtxzJ"
       ],
       "settings": {
-        "image_overlay_opacity": 40,
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-09-09_at_1.36.05_PM.png",
+        "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
