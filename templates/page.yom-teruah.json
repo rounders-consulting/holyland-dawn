@@ -169,6 +169,17 @@
             "button_link": "https:\/\/torahclass.com\/old-testament-genesis-lesson-1-intro\/?format=video&lang=en"
           }
         },
+        "row_PGYLyh": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PB631.1-HARD-COVER-THUMBINDEX-THE-SCRIPTURES-3.png",
+            "caption": "Bibles",
+            "heading": "The Scriptures 2009",
+            "text": "<p>If you want to go deeper into the Word of God then you need an acurate and literal translation of the Bible.  The Scriptures 2009 is a Messianic version of the Holy Scriptures meaning it restores the \"Jewishness\" of the Bible. A wonderful translation to take you on a journey through God's Word.<\/p>",
+            "button_label": "Click Here To Learn More",
+            "button_link": "https:\/\/holylandmarketplace.com\/collections\/books-bibles-bibles-the-scriptures"
+          }
+        },
         "row_eYFzrF": {
           "type": "row",
           "settings": {
@@ -184,6 +195,7 @@
       "block_order": [
         "row_Dexjt4",
         "row_V7Rzzq",
+        "row_PGYLyh",
         "row_eYFzrF"
       ],
       "settings": {
