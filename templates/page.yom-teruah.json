@@ -292,7 +292,7 @@
         "button_pVagga": {
           "type": "button",
           "settings": {
-            "button_label": "Click Here To Watch The Video",
+            "button_label": "Watch Now!",
             "button_link": "https:\/\/holylandmarketplace.com\/pages\/about-us",
             "button_style_secondary": false
           }
