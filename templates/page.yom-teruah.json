@@ -168,23 +168,11 @@
             "button_label": "Click Here",
             "button_link": "https:\/\/holylandmarketplace.com\/products\/a-family-guide-to-the-biblical-holidays"
           }
-        },
-        "row_PGYLyh": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PB631.1-HARD-COVER-THUMBINDEX-THE-SCRIPTURES-3.png",
-            "caption": "Bibles",
-            "heading": "The Scriptures 2009",
-            "text": "<p>If you want to go deeper into the Word of God then you need an acurate and literal translation of the Bible.  The Scriptures 2009 is a Messianic version of the Holy Scriptures meaning it restores the \"Jewishness\" of the Bible. A wonderful translation to take you on a journey through God's Word.<\/p>",
-            "button_label": "Click Here To Learn More",
-            "button_link": "https:\/\/holylandmarketplace.com\/collections\/books-bibles-bibles-the-scriptures"
-          }
         }
       },
       "block_order": [
         "row_Dexjt4",
-        "row_V7Rzzq",
-        "row_PGYLyh"
+        "row_V7Rzzq"
       ],
       "settings": {
         "image_height": "medium",
@@ -199,6 +187,53 @@
         "row_color_scheme": "",
         "mobile_content_alignment": "left",
         "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_UJW9FB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_cartzy": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Scriptures 2009",
+            "heading_size": "h1"
+          }
+        },
+        "text_XqY7Nw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you want to go deeper into the Word of God then you need an accurate and literal translation of the Bible. The Scriptures 2009 is a Messianic version of the Holy Scriptures meaning it restores the \"Jewishness\" of the Bible. A wonderful translation to take you on a journey through God's Word.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_AK8qKX": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "https:\/\/holylandmarketplace.com\/collections\/books-bibles-bibles-the-scriptures",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_cartzy",
+        "text_XqY7Nw",
+        "button_AK8qKX"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PB631.1-HARD-COVER-THUMBINDEX-THE-SCRIPTURES-3.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -282,53 +317,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "image_with_text_UJW9FB": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_cartzy": {
-          "type": "heading",
-          "settings": {
-            "heading": "The Scriptures 2009",
-            "heading_size": "h1"
-          }
-        },
-        "text_XqY7Nw": {
-          "type": "text",
-          "settings": {
-            "text": "<p>If you want to go deeper into the Word of God then you need an accurate and literal translation of the Bible. The Scriptures 2009 is a Messianic version of the Holy Scriptures meaning it restores the \"Jewishness\" of the Bible. A wonderful translation to take you on a journey through God's Word.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_AK8qKX": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "https:\/\/holylandmarketplace.com\/collections\/books-bibles-bibles-the-scriptures",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_cartzy",
-        "text_XqY7Nw",
-        "button_AK8qKX"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/PB631.1-HARD-COVER-THUMBINDEX-THE-SCRIPTURES-3.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -338,8 +326,8 @@
     "image_banner_TExwYC",
     "image_with_text_7c3jD7",
     "multirow_AQqJ7P",
+    "image_with_text_UJW9FB",
     "image_with_text_H7McmY",
-    "newsletter_nTPEge",
-    "image_with_text_UJW9FB"
+    "newsletter_nTPEge"
   ]
 }
