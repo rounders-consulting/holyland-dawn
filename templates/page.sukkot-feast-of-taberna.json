@@ -124,7 +124,7 @@
           "type": "button",
           "settings": {
             "button_label": "Discover More!",
-            "button_link": "https://holylandmarketplace.com/products/a-family-guide-to-the-biblical-holidays",
+            "button_link": "https://holylandmarketplace.com/products/olive-wood-communion-set-engraved",
             "button_style_secondary": false
           }
         }
@@ -150,53 +150,6 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_EbpUqV": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_QWDRef": {
-          "type": "heading",
-          "settings": {
-            "heading": "Olive Wood Communion Set - Engraved",
-            "heading_size": "h1"
-          }
-        },
-        "text_RyVUrM": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "button_zVytRd": {
-          "type": "button",
-          "settings": {
-            "button_label": "Buy Now!",
-            "button_link": "https://holylandmarketplace.com/products/olive-wood-communion-set-engraved",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_QWDRef",
-        "text_RyVUrM",
-        "button_zVytRd"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/ow192_2022_1.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 72,
-        "padding_bottom": 16
-      }
-    },
     "multirow_AQqJ7P": {
       "type": "multirow",
       "settings": {
@@ -213,181 +166,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 44,
         "padding_bottom": 36
-      }
-    },
-    "image_with_text_7m3FKD": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_DEYBfn": {
-          "type": "heading",
-          "settings": {
-            "heading": "A Family Guide to the Biblical Holidays",
-            "heading_size": "h1"
-          }
-        },
-        "text_FDkR4w": {
-          "type": "text",
-          "settings": {
-            "text": "<p>If you have a desire to go deeper into the meaning of the Biblical  feast and the Messianic significance of each one of them then this is a great tool to start with.  It has been well thought out and is packed full of information that will deepen your understanding of the Father's <em><strong>Appointed Times.</strong></em></p>",
-            "text_style": "body"
-          }
-        },
-        "button_Hyr8GP": {
-          "type": "button",
-          "settings": {
-            "button_label": "Discover More!",
-            "button_link": "https://holylandmarketplace.com/products/a-family-guide-to-the-biblical-holidays",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_DEYBfn",
-        "text_FDkR4w",
-        "button_Hyr8GP"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/PB145-A-Family-Guide-to-the-Biblical-Holidays-1.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 40,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_UJW9FB": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_cartzy": {
-          "type": "heading",
-          "settings": {
-            "heading": "The Scriptures 2009",
-            "heading_size": "h1"
-          }
-        },
-        "text_XqY7Nw": {
-          "type": "text",
-          "settings": {
-            "text": "<p>If you want to go deeper into the Word of God then you need an accurate and literal translation of the Bible. The Scriptures 2009 is a Messianic version of the Holy Scriptures meaning it restores the \"Jewishness\" of the Bible. A wonderful translation to take you on a journey through God's Word.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_AK8qKX": {
-          "type": "button",
-          "settings": {
-            "button_label": "Add to Cart Now!",
-            "button_link": "https://holylandmarketplace.com/collections/books-bibles-bibles-the-scriptures",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_cartzy",
-        "text_XqY7Nw",
-        "button_AK8qKX"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/PB631.1-HARD-COVER-THUMBINDEX-THE-SCRIPTURES-3.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 72,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_H7McmY": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_htLaW9": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Vision & Mission",
-            "heading_size": "h1"
-          }
-        },
-        "text_fAUMhi": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Holyland Marketplace has been serving customers and supporting the Jewish people since 2004. Hear more from our founder Tom Bradford as he shares the vision and mission of Holyland Marketplace.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_pVagga": {
-          "type": "button",
-          "settings": {
-            "button_label": "Watch Now!",
-            "button_link": "https://holylandmarketplace.com/pages/about-us",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_htLaW9",
-        "text_fAUMhi",
-        "button_pVagga"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/HLMP_ABOUT_VIDEO_TN.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
-    "newsletter_nTPEge": {
-      "type": "newsletter",
-      "blocks": {
-        "heading_TVjPNN": {
-          "type": "heading",
-          "settings": {
-            "heading": "Stay Updated. Subscribe To Our Email.",
-            "heading_size": "h1"
-          }
-        },
-        "paragraph_9BaNzn": {
-          "type": "paragraph",
-          "settings": {
-            "text": ""
-          }
-        },
-        "email_form_AKffXx": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "heading_TVjPNN",
-        "paragraph_9BaNzn",
-        "email_form_AKffXx"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "image_with_text_6xT6jc": {
@@ -436,6 +214,181 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_7m3FKD": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_DEYBfn": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Family Guide to the Biblical Holidays",
+            "heading_size": "h1"
+          }
+        },
+        "text_FDkR4w": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you have a desire to go deeper into the meaning of the Biblical  feast and the Messianic significance of each one of them then this is a great tool to start with.  It has been well thought out and is packed full of information that will deepen your understanding of the Father's <em><strong>Appointed Times.</strong></em></p>",
+            "text_style": "body"
+          }
+        },
+        "button_Hyr8GP": {
+          "type": "button",
+          "settings": {
+            "button_label": "Discover More!",
+            "button_link": "https://holylandmarketplace.com/products/a-family-guide-to-the-biblical-holidays",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_DEYBfn",
+        "text_FDkR4w",
+        "button_Hyr8GP"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/PB145-A-Family-Guide-to-the-Biblical-Holidays-1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 40,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_UJW9FB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_cartzy": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Scriptures 2009",
+            "heading_size": "h1"
+          }
+        },
+        "text_XqY7Nw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you want to go deeper into the Word of God then you need an accurate and literal translation of the Bible. The Scriptures 2009 is a Messianic version of the Holy Scriptures meaning it restores the \"Jewishness\" of the Bible. A wonderful translation to take you on a journey through God's Word.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_AK8qKX": {
+          "type": "button",
+          "settings": {
+            "button_label": "Add to Cart Now!",
+            "button_link": "https://holylandmarketplace.com/collections/books-bibles-bibles-the-scriptures",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_cartzy",
+        "text_XqY7Nw",
+        "button_AK8qKX"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/PB631.1-HARD-COVER-THUMBINDEX-THE-SCRIPTURES-3.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_H7McmY": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_htLaW9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Vision & Mission",
+            "heading_size": "h1"
+          }
+        },
+        "text_fAUMhi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Holyland Marketplace has been serving customers and supporting the Jewish people since 2004. Hear more from our founder Tom Bradford as he shares the vision and mission of Holyland Marketplace.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_pVagga": {
+          "type": "button",
+          "settings": {
+            "button_label": "Watch Now!",
+            "button_link": "https://holylandmarketplace.com/pages/about-us",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_htLaW9",
+        "text_fAUMhi",
+        "button_pVagga"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/HLMP_ABOUT_VIDEO_TN.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "newsletter_nTPEge": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_TVjPNN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stay Updated. Subscribe To Our Email.",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_9BaNzn": {
+          "type": "paragraph",
+          "settings": {
+            "text": ""
+          }
+        },
+        "email_form_AKffXx": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_TVjPNN",
+        "paragraph_9BaNzn",
+        "email_form_AKffXx"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -444,12 +397,11 @@
     "video_PAzBxt",
     "image_with_text_7c3jD7",
     "image_with_text_eyP3YD",
-    "image_with_text_EbpUqV",
     "multirow_AQqJ7P",
+    "image_with_text_6xT6jc",
     "image_with_text_7m3FKD",
     "image_with_text_UJW9FB",
     "image_with_text_H7McmY",
-    "newsletter_nTPEge",
-    "image_with_text_6xT6jc"
+    "newsletter_nTPEge"
   ]
 }
