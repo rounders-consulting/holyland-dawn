@@ -123,7 +123,7 @@
         "button_QaheBw": {
           "type": "button",
           "settings": {
-            "button_label": "Discover More!",
+            "button_label": "Buy Now!",
             "button_link": "https://holylandmarketplace.com/products/olive-wood-communion-set-engraved",
             "button_style_secondary": false
           }
@@ -188,8 +188,8 @@
         "button_ap8LxD": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Buy Now!",
+            "button_link": "https://holylandmarketplace.com/products/armenian-ceramic-teapot-set-multi-color-l",
             "button_style_secondary": false
           }
         }
@@ -200,7 +200,7 @@
         "button_ap8LxD"
       ],
       "settings": {
-        "image": "shopify://shop_images/tea_pot_2.png",
+        "image": "shopify://shop_images/Armenian-Tea-Pots.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
