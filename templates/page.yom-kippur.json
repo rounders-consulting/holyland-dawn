@@ -46,8 +46,8 @@
         "heading": "",
         "heading_size": "h1",
         "enable_video_looping": false,
-        "video_url": "https:\/\/vimeo.com\/1008183236\/7a40a8f75f?share=copy",
-        "cover_image": "shopify:\/\/shop_images\/Yom-Kippur-Thumbnai_fin.jpg",
+        "video_url": "https://vimeo.com/1012030859?share=copy",
+        "cover_image": "shopify://shop_images/Yom-Kippur-Thumbnai_fin.jpg",
         "description": "",
         "full_width": false,
         "color_scheme": "",
@@ -77,7 +77,7 @@
           "type": "button",
           "settings": {
             "button_label": "Click Here",
-            "button_link": "https:\/\/holylandmarketplace.com\/blogs\/news\/the-feast-of-trumpets-a-call-to-awakening-and-reflection",
+            "button_link": "https://holylandmarketplace.com/blogs/news/the-feast-of-trumpets-a-call-to-awakening-and-reflection",
             "button_style_secondary": false
           }
         }
@@ -88,7 +88,7 @@
         "button_TBBYcQ"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/The_Day_of_Atonement.webp",
+        "image": "shopify://shop_images/The_Day_of_Atonement.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -124,7 +124,7 @@
           "type": "button",
           "settings": {
             "button_label": "Buy Now!",
-            "button_link": "https:\/\/holylandmarketplace.com\/products\/prayer-shawl-anointing-oil-shofar-set",
+            "button_link": "https://holylandmarketplace.com/products/prayer-shawl-anointing-oil-shofar-set",
             "button_style_secondary": false
           }
         }
@@ -135,7 +135,7 @@
         "button_zVytRd"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/The-Feasts-of-the-Lord_lg.png",
+        "image": "shopify://shop_images/The-Feasts-of-the-Lord_lg.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -181,7 +181,7 @@
         "text_FDkR4w": {
           "type": "text",
           "settings": {
-            "text": "<p>If you have a desire to go deeper into the meaning of the Biblical  feast and the Messianic significance of each one of them then this is a great tool to start with.  It has been well thought out and is packed full of information that will deepen your understanding of the Father's <em><strong>Appointed Times.<\/strong><\/em><\/p>",
+            "text": "<p>If you have a desire to go deeper into the meaning of the Biblical  feast and the Messianic significance of each one of them then this is a great tool to start with.  It has been well thought out and is packed full of information that will deepen your understanding of the Father's <em><strong>Appointed Times.</strong></em></p>",
             "text_style": "body"
           }
         },
@@ -189,7 +189,7 @@
           "type": "button",
           "settings": {
             "button_label": "Discover More!",
-            "button_link": "https:\/\/holylandmarketplace.com\/products\/a-family-guide-to-the-biblical-holidays",
+            "button_link": "https://holylandmarketplace.com/products/a-family-guide-to-the-biblical-holidays",
             "button_style_secondary": false
           }
         }
@@ -200,7 +200,7 @@
         "button_Hyr8GP"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/PB145-A-Family-Guide-to-the-Biblical-Holidays-1.png",
+        "image": "shopify://shop_images/PB145-A-Family-Guide-to-the-Biblical-Holidays-1.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -228,7 +228,7 @@
         "text_XqY7Nw": {
           "type": "text",
           "settings": {
-            "text": "<p>If you want to go deeper into the Word of God then you need an accurate and literal translation of the Bible. The Scriptures 2009 is a Messianic version of the Holy Scriptures meaning it restores the \"Jewishness\" of the Bible. A wonderful translation to take you on a journey through God's Word.<\/p>",
+            "text": "<p>If you want to go deeper into the Word of God then you need an accurate and literal translation of the Bible. The Scriptures 2009 is a Messianic version of the Holy Scriptures meaning it restores the \"Jewishness\" of the Bible. A wonderful translation to take you on a journey through God's Word.</p>",
             "text_style": "body"
           }
         },
@@ -236,7 +236,7 @@
           "type": "button",
           "settings": {
             "button_label": "Add to Cart Now!",
-            "button_link": "https:\/\/holylandmarketplace.com\/collections\/books-bibles-bibles-the-scriptures",
+            "button_link": "https://holylandmarketplace.com/collections/books-bibles-bibles-the-scriptures",
             "button_style_secondary": false
           }
         }
@@ -247,7 +247,7 @@
         "button_AK8qKX"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/PB631.1-HARD-COVER-THUMBINDEX-THE-SCRIPTURES-3.png",
+        "image": "shopify://shop_images/PB631.1-HARD-COVER-THUMBINDEX-THE-SCRIPTURES-3.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -275,7 +275,7 @@
         "text_fAUMhi": {
           "type": "text",
           "settings": {
-            "text": "<p>Holyland Marketplace has been serving customers and supporting the Jewish people since 2004. Hear more from our founder Tom Bradford as he shares the vision and mission of Holyland Marketplace.<\/p>",
+            "text": "<p>Holyland Marketplace has been serving customers and supporting the Jewish people since 2004. Hear more from our founder Tom Bradford as he shares the vision and mission of Holyland Marketplace.</p>",
             "text_style": "body"
           }
         },
@@ -283,7 +283,7 @@
           "type": "button",
           "settings": {
             "button_label": "Watch Now!",
-            "button_link": "https:\/\/holylandmarketplace.com\/pages\/about-us",
+            "button_link": "https://holylandmarketplace.com/pages/about-us",
             "button_style_secondary": false
           }
         }
@@ -294,7 +294,7 @@
         "button_pVagga"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/HLMP_ABOUT_VIDEO_TN.png",
+        "image": "shopify://shop_images/HLMP_ABOUT_VIDEO_TN.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
