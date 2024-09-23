@@ -23,8 +23,8 @@
         "heading_mG6N4X": {
           "type": "heading",
           "settings": {
-            "heading": "Understanding Yom Kippur (The Day of Atonement)",
-            "heading_size": "h0"
+            "heading": "Understanding Sukkot (Feast of Tabernacles)",
+            "heading_size": "h1"
           }
         }
       },
@@ -47,7 +47,7 @@
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https://vimeo.com/1012030859?share=copy",
-        "cover_image": "shopify://shop_images/Yom-Kippur-Thumbnai_fin.jpg",
+        "cover_image": "shopify://shop_images/Sukkot_-_Feast_of_Tabernacles.jpg",
         "description": "",
         "full_width": false,
         "color_scheme": "",
@@ -61,7 +61,7 @@
         "heading_RfrUjN": {
           "type": "heading",
           "settings": {
-            "heading": "Learn More About The Day of Atonement",
+            "heading": "Learn More About Sukkot - The Feast of Tabernacles",
             "heading_size": "h1"
           }
         },
