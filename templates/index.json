@@ -212,6 +212,7 @@
       "blocks": {
         "slide_BFe9Ft": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/2_edf25b8d-b10b-4eab-a9bb-b5396fe6edfc.png",
             "heading": "",
