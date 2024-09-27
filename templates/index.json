@@ -15,12 +15,12 @@
         "slide_AD6cmb": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_b2c606a2-86f3-4d7b-aedc-5b59e9cd64d7.png",
+            "image": "shopify://shop_images/1_b2c606a2-86f3-4d7b-aedc-5b59e9cd64d7.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/collections\/end-of-summer-clearance",
+            "link": "shopify://collections/end-of-summer-clearance",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -33,12 +33,12 @@
         "slide_fkE9Bq": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/10_Off_50_92024_HLMP.png",
+            "image": "shopify://shop_images/Welcome_Slider_11_f4711009-2da6-40f3-aa16-cee63a06ea41.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/collections\/end-of-summer-clearance",
+            "link": "shopify://collections/end-of-summer-clearance",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -52,7 +52,7 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Flat_Rate_Shipping_HLMP_Slider.png",
+            "image": "shopify://shop_images/Flat_Rate_Shipping_HLMP_Slider.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -70,7 +70,7 @@
         "slide_wbUrKr": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Pray_for_Israel_HLMP_Size.png",
+            "image": "shopify://shop_images/Pray_for_Israel_HLMP_Size.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -137,12 +137,12 @@
         "slide_fDM4Pm": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_2813_copy.jpg",
+            "image": "shopify://shop_images/IMG_2813_copy.jpg",
             "heading": "Authentic Olive Wood",
             "heading_size": "h1",
             "subheading": "From Israel",
             "button_label": "Take A Look",
-            "link": "shopify:\/\/collections\/olive-wood-home-decor",
+            "link": "shopify://collections/olive-wood-home-decor",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -155,12 +155,12 @@
         "slide_nFDmPD": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_8781_copy.jpg",
+            "image": "shopify://shop_images/IMG_8781_copy.jpg",
             "heading": "Sabbath Essentials",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "Take A Look",
-            "link": "shopify:\/\/collections\/holiday-sabbath",
+            "link": "shopify://collections/holiday-sabbath",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -173,12 +173,12 @@
         "slide_jtMDXi": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_2863_copy.jpg",
+            "image": "shopify://shop_images/IMG_2863_copy.jpg",
             "heading": "Noah's Ark Kids Backpack",
             "heading_size": "h1",
             "subheading": "Bright and fun kid's backpack perfect for kids on the go!",
             "button_label": "Take a Look",
-            "link": "shopify:\/\/products\/noah-s-ark-kids-backpack",
+            "link": "shopify://products/noah-s-ark-kids-backpack",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -212,12 +212,12 @@
         "slide_BFe9Ft": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_edf25b8d-b10b-4eab-a9bb-b5396fe6edfc.png",
+            "image": "shopify://shop_images/2_edf25b8d-b10b-4eab-a9bb-b5396fe6edfc.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/collections\/end-of-summer-clearance",
+            "link": "shopify://collections/end-of-summer-clearance",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -344,31 +344,31 @@
         "column_xYADa9": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3846_copy.jpg",
+            "image": "shopify://shop_images/IMG_3846_copy.jpg",
             "title": "",
             "text": "",
             "link_label": "Eilat Floating Circle Earrings",
-            "link": "shopify:\/\/products\/floating-circle-earrings"
+            "link": "shopify://products/floating-circle-earrings"
           }
         },
         "column_3M6qR7": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_3973_copy.jpg",
+            "image": "shopify://shop_images/IMG_3973_copy.jpg",
             "title": "",
             "text": "",
             "link_label": "Mustard Seed Necklace",
-            "link": "shopify:\/\/products\/mustard-seed-tube-necklace"
+            "link": "shopify://products/mustard-seed-tube-necklace"
           }
         },
         "column_7gk9xn": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/necklace_-1.jpg",
+            "image": "shopify://shop_images/necklace_-1.jpg",
             "title": "",
             "text": "",
             "link_label": "Western Wall Menorah Necklace",
-            "link": "shopify:\/\/products\/menorah-on-western-wall"
+            "link": "shopify://products/menorah-on-western-wall"
           }
         }
       },
@@ -432,7 +432,7 @@
         "buttons_Qt3W7d"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Welcome_Slider_11_SB_bdfcaa8f-2dae-4090-8154-3842914b90ad.jpg",
+        "image": "shopify://shop_images/Welcome_Slider_11_SB_bdfcaa8f-2dae-4090-8154-3842914b90ad.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -458,7 +458,7 @@
         "paragraph_bBzV9w": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Your one stop shop for jewelry and more!<\/p>"
+            "text": "<p>Your one stop shop for jewelry and more!</p>"
           }
         },
         "email_form_WtL7fW": {
@@ -509,7 +509,7 @@
         "text_iTaE8h": {
           "type": "text",
           "settings": {
-            "text": "<p>HolyLand MarketPlace is your one stop shop for Israeli jewelry, prayer shawls, hebrew - english bibles, star of david jewelry and so much more! Invest in the lives of Jewish believers and buy their products such as grafted-in pendants and necklaces, dead sea skin care products, olive wood cross, menorah or a chanukiah. Made in Israel, stocked in the USA, you will find the best Israeli jewelry, pashmina scarves, scripture scarves, hebrew bible in english, essential oils, holy land gifts and christian gifts right here at Holyland Marketplace. We have messianic gifts, hebrew gifts, holyland gifts, children's gifts, holy products andmuch more. Let's go shopping in Israel!<\/p>"
+            "text": "<p>HolyLand MarketPlace is your one stop shop for Israeli jewelry, prayer shawls, hebrew - english bibles, star of david jewelry and so much more! Invest in the lives of Jewish believers and buy their products such as grafted-in pendants and necklaces, dead sea skin care products, olive wood cross, menorah or a chanukiah. Made in Israel, stocked in the USA, you will find the best Israeli jewelry, pashmina scarves, scripture scarves, hebrew bible in english, essential oils, holy land gifts and christian gifts right here at Holyland Marketplace. We have messianic gifts, hebrew gifts, holyland gifts, children's gifts, holy products andmuch more. Let's go shopping in Israel!</p>"
           }
         }
       },
