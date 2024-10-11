@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow_xz6dgG": {
@@ -34,7 +34,7 @@
         "slide_fkE9Bq": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/20_Bath_Body_10424_HLMP.png",
+            "image": "shopify://shop_images/Welcome_Slider_11_f4711009-2da6-40f3-aa16-cee63a06ea41.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
