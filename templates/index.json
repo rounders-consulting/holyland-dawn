@@ -33,6 +33,7 @@
         },
         "slide_fkE9Bq": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/20_Ministries_101824_HLMP.png",
             "heading": "",
