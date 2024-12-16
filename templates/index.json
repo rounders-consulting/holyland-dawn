@@ -70,6 +70,7 @@
         },
         "slide_wbUrKr": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Pray_for_Israel_HLMP_Size.png",
             "heading": "",
@@ -451,6 +452,7 @@
         "text_zacY4t",
         "buttons_Qt3W7d"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Welcome_Slider_11_SB_bdfcaa8f-2dae-4090-8154-3842914b90ad.jpg",
         "image_overlay_opacity": 0,
