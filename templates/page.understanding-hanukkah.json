@@ -55,68 +55,20 @@
         "padding_bottom": 76
       }
     },
-    "image_with_text_7c3jD7": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_RfrUjN": {
-          "type": "heading",
-          "settings": {
-            "heading": "Learn More About Sukkot - The Feast of Tabernacles",
-            "heading_size": "h1"
-          }
-        },
-        "text_94EEhf": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "button_TBBYcQ": {
-          "type": "button",
-          "settings": {
-            "button_label": "Click Here",
-            "button_link": "https://holylandmarketplace.com/blogs/news/the-feast-of-tabernacles-sukkot-god-dwelling-among-us",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_RfrUjN",
-        "text_94EEhf",
-        "button_TBBYcQ"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Feast-of-Tabernacles---Sukkot.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 28,
-        "padding_bottom": 72
-      }
-    },
     "image_with_text_eyP3YD": {
       "type": "image-with-text",
       "blocks": {
         "heading_4hapFN": {
           "type": "heading",
           "settings": {
-            "heading": "Olive Wood Communion Set - Engraved",
+            "heading": "Brass Shofar Hanukkiah",
             "heading_size": "h1"
           }
         },
         "text_kdhrKe": {
           "type": "text",
           "settings": {
-            "text": "<p>This communion set has a round olive wood serving dish engraved with <strong>\"DO THIS IN REMEMBRANCE OF ME\"</strong> and 4 olive wood cups presented in a sackcloth bag.</p>",
+            "text": "<p>This brass Hanukkah menorah, crafted in Israel, features a unique design inspired by the shofar. Its branches gracefully curve up from the base, echoing the flowing form of a shofar, and Hanukkah (חֲנוּכָּה‎ ) is written across the bottom in Hebrew. This menorah beautifully blends tradition with artistic creativity, making it a striking centerpiece for your Hanukkah celebration and a meaningful decorative piece. Its distinct design honors heritage with a modern touch, perfect for adding a unique element to the celebration.</p>",
             "text_style": "body"
           }
         },
@@ -135,7 +87,7 @@
         "button_QaheBw"
       ],
       "settings": {
-        "image": "shopify://shop_images/ow192_2022_1.png",
+        "image": "shopify://shop_images/CH140-Brass-Shofar-Hanukkiah.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -394,11 +346,10 @@
     "main",
     "rich_text_LcUty8",
     "video_PAzBxt",
-    "image_with_text_7c3jD7",
     "image_with_text_eyP3YD",
     "multirow_AQqJ7P",
-    "image_with_text_6xT6jc",
     "image_with_text_7m3FKD",
+    "image_with_text_6xT6jc",
     "image_with_text_UJW9FB",
     "image_with_text_H7McmY",
     "newsletter_nTPEge"
