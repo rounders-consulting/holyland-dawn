@@ -122,8 +122,8 @@
         "button_TmG3qh": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Add to Cart",
+            "button_link": "https://holylandmarketplace.com/products/wise-virgins-clay-lamp-filler-oil-set-jesus-period",
             "button_style_secondary": false
           }
         }
