@@ -1,0 +1,405 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_LcUty8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mG6N4X": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hanukkah Is For Christians Too",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mG6N4X"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "video_PAzBxt": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https://vimeo.com/1042006054/7ea8cd089d?ts=0&share=copy",
+        "cover_image": "shopify://shop_images/Hanukkah_is_for_Christian_Too_TN_A.jpg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 28,
+        "padding_bottom": 76
+      }
+    },
+    "image_with_text_eyP3YD": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_4hapFN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Brass Shofar Hanukkiah",
+            "heading_size": "h1"
+          }
+        },
+        "text_kdhrKe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This brass Hanukkah menorah, crafted in Israel, features a unique design inspired by the shofar. Its branches gracefully curve up from the base, echoing the flowing form of a shofar, and Hanukkah (חֲנוּכָּה‎ ) is written across the bottom in Hebrew. This menorah beautifully blends tradition with artistic creativity, making it a striking centerpiece for your Hanukkah celebration and a meaningful decorative piece. Its distinct design honors heritage with a modern touch, perfect for adding a unique element to the celebration.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_QaheBw": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now!",
+            "button_link": "https://holylandmarketplace.com/products/olive-wood-communion-set-engraved",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_4hapFN",
+        "text_kdhrKe",
+        "button_QaheBw"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/CH140-Brass-Shofar-Hanukkiah.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_L4r4wd": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iLaPmJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wise Virgins Clay Lamp, Filler & Oil Set - Jesus Period",
+            "heading_size": "h1"
+          }
+        },
+        "text_ENBdyQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This inspiring clay lamp set comes with a pamphlet describing Jesus' parable of the wise virgins.  This is the type of oil lamp and filler that would have been used by Jesus and His disciples in Jerusalem.</p><p><em><strong>Then the kingdom of heaven shall be likened to ten virgins who took their lamps and went out to meet the bridegroom.<br/>(Matthew 25:1)</strong></em></p><p>This is a fully functional clay lamp and filler set from the heart of Jerusalem.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_TmG3qh": {
+          "type": "button",
+          "settings": {
+            "button_label": "Add to Cart",
+            "button_link": "https://holylandmarketplace.com/products/wise-virgins-clay-lamp-filler-oil-set-jesus-period",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_iLaPmJ",
+        "text_ENBdyQ",
+        "button_TmG3qh"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/sp158.1-1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_AQqJ7P": {
+      "type": "multirow",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_7m3FKD": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_DEYBfn": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Family Guide to the Biblical Holidays",
+            "heading_size": "h1"
+          }
+        },
+        "text_FDkR4w": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you have a desire to go deeper into the meaning of the Biblical  feast and the Messianic significance of each one of them then this is a great tool to start with.  It has been well thought out and is packed full of information that will deepen your understanding of the Father's <em><strong>Appointed Times.</strong></em></p>",
+            "text_style": "body"
+          }
+        },
+        "button_Hyr8GP": {
+          "type": "button",
+          "settings": {
+            "button_label": "Discover More!",
+            "button_link": "https://holylandmarketplace.com/products/a-family-guide-to-the-biblical-holidays",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_DEYBfn",
+        "text_FDkR4w",
+        "button_Hyr8GP"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/PB145-A-Family-Guide-to-the-Biblical-Holidays-1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 40,
+        "padding_bottom": 72
+      }
+    },
+    "image_with_text_UJW9FB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_cartzy": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Scriptures 2009",
+            "heading_size": "h1"
+          }
+        },
+        "text_XqY7Nw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you want to go deeper into the Word of God then you need an accurate and literal translation of the Bible. The Scriptures 2009 is a Messianic version of the Holy Scriptures meaning it restores the \"Jewishness\" of the Bible. A wonderful translation to take you on a journey through God's Word.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_AK8qKX": {
+          "type": "button",
+          "settings": {
+            "button_label": "Add to Cart Now!",
+            "button_link": "https://holylandmarketplace.com/collections/books-bibles-bibles-the-scriptures",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_cartzy",
+        "text_XqY7Nw",
+        "button_AK8qKX"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/PB631.1-HARD-COVER-THUMBINDEX-THE-SCRIPTURES-3.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "image_with_text_6xT6jc": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_BzUXXd": {
+          "type": "heading",
+          "settings": {
+            "heading": "D-I-Y Menorah Kit - (Chanukiah)",
+            "heading_size": "h1"
+          }
+        },
+        "text_bWc9E6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ignite your child's creativity and have them build their own Chanukiah Menorah with this DIY Menorah Kit! The kit includes all the necessary components to construct a sturdy Menorah.  With step-by-step instructions and precision-cut pieces, your child will experience a sense of accomplishment as they build their very own Menorah. Once completed, they can proudly light it during Hanukkah with a deep sense of pride. Foster a spirit of creativity and celebration in your child as they embark on this hands-on project.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_ap8LxD": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now!",
+            "button_link": "https://holylandmarketplace.com/products/armenian-ceramic-teapot-set-multi-color-l",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_BzUXXd",
+        "text_bWc9E6",
+        "button_ap8LxD"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/CH069-D-I-Y-Menorah-Kit-1_72cf450c-4260-464b-8a02-c102f65702b2.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_H7McmY": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_htLaW9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Vision & Mission",
+            "heading_size": "h1"
+          }
+        },
+        "text_fAUMhi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Holyland Marketplace has been serving customers and supporting the Jewish people since 2004. Hear more from our founder Tom Bradford as he shares the vision and mission of Holyland Marketplace.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_pVagga": {
+          "type": "button",
+          "settings": {
+            "button_label": "Watch Now!",
+            "button_link": "https://holylandmarketplace.com/pages/about-us",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_htLaW9",
+        "text_fAUMhi",
+        "button_pVagga"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/HLMP_ABOUT_VIDEO_TN.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "newsletter_nTPEge": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_TVjPNN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stay Updated. Subscribe To Our Email.",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_9BaNzn": {
+          "type": "paragraph",
+          "settings": {
+            "text": ""
+          }
+        },
+        "email_form_AKffXx": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_TVjPNN",
+        "paragraph_9BaNzn",
+        "email_form_AKffXx"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_LcUty8",
+    "video_PAzBxt",
+    "image_with_text_eyP3YD",
+    "image_with_text_L4r4wd",
+    "multirow_AQqJ7P",
+    "image_with_text_7m3FKD",
+    "image_with_text_UJW9FB",
+    "image_with_text_6xT6jc",
+    "image_with_text_H7McmY",
+    "newsletter_nTPEge"
+  ]
+}
