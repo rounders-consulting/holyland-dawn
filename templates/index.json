@@ -291,7 +291,7 @@
         "featured_collection_gFwdz7"
       ],
       "settings": {
-        "title": "",
+        "title": "Our Collections",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
@@ -384,6 +384,53 @@
         "padding_top": 40,
         "padding_bottom": 16
       }
+    },
+    "image_banner_ibFCdQ": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_HXRFGh": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_G4Hpdk": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_rDymwh": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HXRFGh",
+        "text_G4Hpdk",
+        "buttons_rDymwh"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -396,6 +443,7 @@
     "collection_list_6F9RBW",
     "newsletter_6AcCzp",
     "featured_blog_fmW4cN",
-    "rich_text_ja3Crg"
+    "rich_text_ja3Crg",
+    "image_banner_ibFCdQ"
   ]
 }
