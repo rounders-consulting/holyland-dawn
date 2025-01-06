@@ -1,17 +1,17 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/HLMP_2022_Logo_w_SOAM_13f9e305-c286-414b-9be3-5be177286c6b.png",
+    "logo": "shopify://shop_images/hlmp-logo-2025.png",
     "logo_width": 300,
-    "favicon": "shopify:\/\/shop_images\/hl-favicon-white.png",
+    "favicon": "shopify://shop_images/hl-favicon-white.png",
     "type_header_font": "bitter_n4",
     "heading_scale": 100,
     "type_body_font": "lato_n4",
@@ -106,13 +106,13 @@
     "badge_corner_radius": 40,
     "sale_badge_color_scheme": "scheme-5",
     "sold_out_badge_color_scheme": "scheme-3",
-    "social_facebook_link": "https:\/\/www.facebook.com\/holylandmarketplace\/",
-    "social_instagram_link": "https:\/\/www.instagram.com\/holylandmarketplace",
-    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCT8TCyQi2s4htU28gAWBmhw\/videos",
+    "social_facebook_link": "https://www.facebook.com/holylandmarketplace/",
+    "social_instagram_link": "https://www.instagram.com/holylandmarketplace",
+    "social_youtube_link": "https://www.youtube.com/channel/UCT8TCyQi2s4htU28gAWBmhw/videos",
     "social_tiktok_link": "",
     "social_twitter_link": "",
     "social_snapchat_link": "",
-    "social_pinterest_link": "https:\/\/www.pinterest.ca\/holyland_marketplace\/",
+    "social_pinterest_link": "https://www.pinterest.ca/holyland_marketplace/",
     "social_tumblr_link": "",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
@@ -123,7 +123,7 @@
     "show_vendor": false,
     "show_cart_note": true,
     "cart_drawer_collection": "new",
-    "checkout_logo_image": "shopify:\/\/shop_images\/HLMP_2022_Logo_w_SOAM_13f9e305-c286-414b-9be3-5be177286c6b.png",
+    "checkout_logo_image": "shopify://shop_images/HLMP_2022_Logo_w_SOAM_13f9e305-c286-414b-9be3-5be177286c6b.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
     "checkout_accent_color": "#80abc9",
@@ -142,16 +142,14 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "color_schemes": {
       "scheme-1": {
         "settings": {
-          "background": "#ffffff",
+          "background": "#faf4ec",
           "background_gradient": "",
-          "text": "#121212",
-          "button": "#113a60",
+          "text": "#092841",
+          "button": "#092841",
           "button_label": "#ffffff",
           "secondary_button_label": "#113a60",
           "shadow": "#121212"
