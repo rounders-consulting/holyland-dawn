@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -30,14 +39,14 @@
           "type": "text",
           "settings": {
             "heading": "Contact Us",
-            "subtext": "<p>Monday through Friday<br\/>9:00 am - 5:00 pm EDT<br\/>800-279-6531<br\/><a href=\"mailto:service@holylandmarketplace.com\" target=\"_blank\" title=\"mailto:service@holylandmarketplace.com\">service@holylandmarketplace.com<br\/><\/a>6355 N Courtenay Pkwy<br\/>Merritt Island, FL 32953  USA<\/p>"
+            "subtext": "<p>Monday through Friday<br/>9:00 am - 5:00 pm EDT<br/>800-279-6531<br/><a href=\"mailto:service@holylandmarketplace.com\" target=\"_blank\" title=\"mailto:service@holylandmarketplace.com\">service@holylandmarketplace.com<br/></a>6355 N Courtenay Pkwy<br/>Merritt Island, FL 32953  USA</p>"
           }
         },
         "image_QikjUC": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ECFA_Seal_Header.png",
-            "image_link": "https:\/\/www.ecfa.org\/MemberProfile.aspx?ID=39425",
+            "image": "shopify://shop_images/ECFA_Seal_Header.png",
+            "image_link": "https://www.ecfa.org/MemberProfile.aspx?ID=39425",
             "image_width": 100,
             "alignment": "center"
           }
@@ -46,7 +55,7 @@
           "type": "text",
           "settings": {
             "heading": "",
-            "subtext": "<p>Copyright ©2024 Seed of Abraham Ministries, Inc.<br\/>All Rights Reserved | Copyright & Terms<\/p>"
+            "subtext": "<p>Copyright ©2024 Seed of Abraham Ministries, Inc.<br/>All Rights Reserved | Copyright & Terms</p>"
           }
         }
       },
@@ -59,7 +68,7 @@
         "text_PTtwTr"
       ],
       "settings": {
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-4",
         "newsletter_enable": true,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": true,
