@@ -408,7 +408,8 @@
         "text_G4Hpdk"
       ],
       "settings": {
-        "image_overlay_opacity": 0,
+        "image": "shopify://shop_images/torah-scroll-in-silver-case.jpg",
+        "image_overlay_opacity": 60,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
