@@ -12,65 +12,8 @@
     "slideshow_xz6dgG": {
       "type": "slideshow",
       "blocks": {
-        "slide_AD6cmb": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/1_b2c606a2-86f3-4d7b-aedc-5b59e9cd64d7.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/end-of-summer-clearance",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_fkE9Bq": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/20_Off_Storewide_121324.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/all",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_A3XhBH": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Flat_Rate_Shipping_HLMP_Slider.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_wbUrKr": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Pray_for_Israel_HLMP_Size.png",
             "heading": "",
@@ -89,9 +32,6 @@
         }
       },
       "block_order": [
-        "slide_AD6cmb",
-        "slide_fkE9Bq",
-        "slide_A3XhBH",
         "slide_wbUrKr"
       ],
       "settings": {
