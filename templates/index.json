@@ -266,35 +266,70 @@
     "collection_list_6F9RBW": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_MJGgCD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "judaica-prayer-shawls-prayer-shawl-sets"
+          }
+        },
+        "featured_collection_LNNjiX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "olive-wood"
+          }
+        },
+        "featured_collection_rpYECN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "food-seasoning-olive-oil"
+          }
+        },
         "featured_collection_CbfnAh": {
           "type": "featured_collection",
           "settings": {
             "collection": "jewelry-hers-grafted-in"
           }
         },
+        "featured_collection_bMVLfL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "nav-bath-body"
+          }
+        },
         "featured_collection_T9NCrV": {
           "type": "featured_collection",
           "settings": {
-            "collection": "gifts-other-anointing-oils"
+            "collection": "nav-books-bibles"
           }
         },
         "featured_collection_gFwdz7": {
           "type": "featured_collection",
           "settings": {
-            "collection": "gifts-kids-toys-games"
+            "collection": "nav-ceramics"
+          }
+        },
+        "featured_collection_UaLw4T": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "judaica-shofars"
           }
         }
       },
       "block_order": [
+        "featured_collection_MJGgCD",
+        "featured_collection_LNNjiX",
+        "featured_collection_rpYECN",
         "featured_collection_CbfnAh",
+        "featured_collection_bMVLfL",
         "featured_collection_T9NCrV",
-        "featured_collection_gFwdz7"
+        "featured_collection_gFwdz7",
+        "featured_collection_UaLw4T"
       ],
       "settings": {
         "title": "Our Collections",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "color_scheme": "scheme-3",
         "show_view_all": false,
         "columns_mobile": "1",
@@ -355,36 +390,6 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_ja3Crg": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_ny3aia": {
-          "type": "heading",
-          "settings": {
-            "heading": "Your one stop shop for jewelry and more!",
-            "heading_size": "h2"
-          }
-        },
-        "text_iTaE8h": {
-          "type": "text",
-          "settings": {
-            "text": "<p>HolyLand MarketPlace is your one stop shop for Israeli jewelry, prayer shawls, hebrew - english bibles, star of david jewelry and so much more! Invest in the lives of Jewish believers and buy their products such as grafted-in pendants and necklaces, dead sea skin care products, olive wood cross, menorah or a chanukiah. Made in Israel, stocked in the USA, you will find the best Israeli jewelry, pashmina scarves, scripture scarves, hebrew bible in english, essential oils, holy land gifts and christian gifts right here at Holyland Marketplace. We have messianic gifts, hebrew gifts, holyland gifts, children's gifts, holy products andmuch more. Let's go shopping in Israel!</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_ny3aia",
-        "text_iTaE8h"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 16
-      }
-    },
     "image_banner_ibFCdQ": {
       "type": "image-banner",
       "blocks": {
@@ -432,7 +437,6 @@
     "collection_list_6F9RBW",
     "newsletter_6AcCzp",
     "featured_blog_fmW4cN",
-    "rich_text_ja3Crg",
     "image_banner_ibFCdQ"
   ]
 }
