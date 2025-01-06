@@ -164,32 +164,32 @@
     "image_with_text_yfWcWY": {
       "type": "image-with-text",
       "blocks": {
-        "heading_QxUgV3": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
         "text_xHMzDd": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Israeli Made</p>",
             "text_style": "body"
+          }
+        },
+        "heading_QxUgV3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Seder Plates",
+            "heading_size": "h1"
           }
         },
         "button_T4CHAH": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify://collections/holiday-passover-seder-plates",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "heading_QxUgV3",
         "text_xHMzDd",
+        "heading_QxUgV3",
         "button_T4CHAH"
       ],
       "settings": {
