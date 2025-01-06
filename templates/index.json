@@ -391,41 +391,29 @@
         "heading_HXRFGh": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
+            "heading": "Since 2004",
+            "heading_size": "h0"
           }
         },
         "text_G4Hpdk": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "HolyLand MarketPlace is a faith-based, non-denominational, and non-profit organization. We are  your one stop shop for Israeli jewelry, prayer shawls, hebrew - english bibles, star of david jewelry and so much more! Invest in the lives of Jewish believers and buy their products such as grafted-in pendants and necklaces, dead sea skin care products, olive wood cross, menorah or a chanukiah. Made in Israel, stocked in the USA, you will find the best Israeli jewelry, pashmina scarves, scripture scarves, hebrew bible in english, essential oils, holy land gifts and christian gifts right here at Holyland Marketplace. We have messianic gifts, hebrew gifts, holyland gifts, children's gifts, holy products and much more. Let's go shopping in Israel!",
             "text_style": "body"
-          }
-        },
-        "buttons_rDymwh": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
         "heading_HXRFGh",
-        "text_G4Hpdk",
-        "buttons_rDymwh"
+        "text_G4Hpdk"
       ],
       "settings": {
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
