@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/warehousesale1.jpg",
             "heading": "",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "",
             "link": "shopify://collections/20-off-storewide",
@@ -35,7 +35,7 @@
           "settings": {
             "image": "shopify://shop_images/shopwithmeaning.jpg",
             "heading": "",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "",
             "link": "shopify://collections",
