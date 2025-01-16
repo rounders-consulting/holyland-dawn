@@ -17,55 +17,29 @@
         "footer-0": {
           "type": "link_list",
           "settings": {
-            "heading": "Information",
+            "heading": "HLMP",
             "menu": "footer"
           }
         },
         "footer-1": {
           "type": "link_list",
           "settings": {
-            "heading": "Customer Service",
+            "heading": "HELP",
             "menu": "customer-service"
           }
         },
         "link_list_X4kiEU": {
           "type": "link_list",
           "settings": {
-            "heading": "My Account",
+            "heading": "MORE INFO",
             "menu": "my-account"
-          }
-        },
-        "footer-2": {
-          "type": "text",
-          "settings": {
-            "heading": "Contact Us",
-            "subtext": "<p>Monday through Friday<br/>9:00 am - 5:00 pm EDT<br/>800-279-6531<br/><a href=\"mailto:service@holylandmarketplace.com\" target=\"_blank\" title=\"mailto:service@holylandmarketplace.com\">service@holylandmarketplace.com<br/></a>6355 N Courtenay Pkwy<br/>Merritt Island, FL 32953  USA</p>"
-          }
-        },
-        "image_QikjUC": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ECFA_Seal_Header.png",
-            "image_link": "https://www.ecfa.org/MemberProfile.aspx?ID=39425",
-            "image_width": 100,
-            "alignment": "center"
-          }
-        },
-        "text_PTtwTr": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "subtext": "<p>Copyright ©2024 Seed of Abraham Ministries, Inc.<br/>All Rights Reserved | Copyright & Terms</p>"
           }
         }
       },
       "block_order": [
         "footer-0",
         "footer-1",
-        "link_list_X4kiEU",
-        "footer-2",
-        "image_QikjUC",
-        "text_PTtwTr"
+        "link_list_X4kiEU"
       ],
       "settings": {
         "color_scheme": "scheme-4",
