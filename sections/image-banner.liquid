@@ -121,7 +121,7 @@
         {%- case block.type -%}
           {%- when 'heading' -%}
             <h2
-              class="banner__heading inline-richtext {{ block.settings.heading_size }}"
+              class="banner__heading inline-richtext {{ block.settings.heading_size }}" style="color:{{ block.settings.heading_color }}"
               {{ block.shopify_attributes }}
             >
               {{ block.settings.heading }}
@@ -365,7 +365,7 @@
     {
       "type": "heading",
       "name": "t:sections.image-banner.blocks.heading.name",
-      "limit": 1,
+      "limit": 2,
       "settings": [
         {
           "type": "inline_richtext",
@@ -400,7 +400,13 @@
           ],
           "default": "h1",
           "label": "t:sections.all.heading_size.label"
-        }
+        },
+        {
+          "type": "color",
+          "id": "heading_color",
+          "label": "Text Colour",
+          "default": "#000000"
+        } 
       ]
     },
     {
