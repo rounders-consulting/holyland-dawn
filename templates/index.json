@@ -352,11 +352,20 @@
     "image_banner_ibFCdQ": {
       "type": "image-banner",
       "blocks": {
+        "heading_kQrhma": {
+          "type": "heading",
+          "settings": {
+            "heading": "MAKING AN IMPACT",
+            "heading_size": "h2",
+            "heading_color": "#edd6b7"
+          }
+        },
         "heading_HXRFGh": {
           "type": "heading",
           "settings": {
-            "heading": "Since 2004",
-            "heading_size": "h0"
+            "heading": "SINCE 2004",
+            "heading_size": "h0",
+            "heading_color": "#ffffff"
           }
         },
         "text_G4Hpdk": {
@@ -368,6 +377,7 @@
         }
       },
       "block_order": [
+        "heading_kQrhma",
         "heading_HXRFGh",
         "text_G4Hpdk"
       ],
