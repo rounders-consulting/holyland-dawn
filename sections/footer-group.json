@@ -44,7 +44,7 @@
       "settings": {
         "color_scheme": "scheme-4",
         "newsletter_enable": true,
-        "newsletter_heading": "<p style=\"margin-top:0;font-size:13px;\"><span style=\"color:#edd6b7;text-transform:uppercase;\">Want to know How you can help?</span> Sign Up\nto Learn More About our Vendors from\nIsrael and How you Can Support them.</p>",
+        "newsletter_heading": "<p style=\"margin-top:0;font-size:13px;\"><span style=\"color:#edd6b7;text-transform:uppercase;font-weight:bold;\">Want to know How you can help?</span> Sign Up\nto Learn More About our Vendors from\nIsrael and How you Can Support them.</p>",
         "enable_follow_on_shop": false,
         "show_social": true,
         "enable_country_selector": true,
