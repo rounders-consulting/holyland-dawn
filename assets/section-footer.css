@@ -41,8 +41,10 @@
 }
 
 .footer__content-bottom {
-  border-top: solid 0.1rem rgba(var(--color-foreground), 0.08);
-  padding-top: 3rem;
+  /* border-top: solid 0.1rem rgba(var(--color-foreground), 0.08); */
+  padding: none;
+  background: #faf4ec;
+  color:#444;
 }
 
 .footer__content-bottom:only-child {
@@ -52,6 +54,8 @@
 .footer__content-bottom-wrapper {
   display: flex;
   width: 100%;
+  justify-content: center;
+  padding-bottom:1rem;
 }
 
 @media screen and (max-width: 749px) {
@@ -104,7 +108,7 @@
   .footer__column--info {
     padding-left: 0;
     padding-right: 0;
-    align-items: flex-end;
+    align-items: center;
   }
 }
 
@@ -127,8 +131,7 @@
 
 .footer-block--newsletter {
   display: flex;
-  align-items: flex-end;
-  margin-top: 3rem;
+  align-items: flex-start;
   gap: 1rem;
 }
 
@@ -150,14 +153,17 @@
 }
 
 .footer-block__heading {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   margin-top: 0;
-  font-size: calc(var(--font-heading-scale) * 1.6rem);
+  font-size: calc(var(--font-heading-scale) * 1.2rem);
+  letter-spacing:.1em;
+  font-weight:800;
+  color:#edd6b7;
 }
 
 @media screen and (min-width: 990px) {
   .footer-block__heading {
-    font-size: calc(var(--font-heading-scale) * 1.8rem);
+    font-size: calc(var(--font-heading-scale) * 1.4rem);
   }
 }
 
@@ -176,7 +182,6 @@
 }
 
 .footer-block__newsletter {
-  text-align: center;
   flex-grow: 1;
 }
 
@@ -218,6 +223,9 @@
     justify-content: flex-end;
     text-align: right;
   }
+  .footer .grid--4-col-tablet .grid__item {
+      width: calc(24% - var(--grid-desktop-horizontal-spacing) * 4/ 4);
+  }
 }
 
 @media screen and (max-width: 749px) {
@@ -238,12 +246,14 @@
   .footer-block__newsletter {
     display: flex;
     justify-content: center;
+    align-items:center;
   }
 
   .footer-block__newsletter {
     flex-direction: column;
   }
 }
+
 
 @media screen and (min-width: 750px) {
   .footer-block__newsletter + .footer__list-social {
@@ -257,7 +267,7 @@
   justify-content: center;
   align-content: center;
   flex-wrap: wrap;
-  padding: 1rem 1rem 0;
+  padding: 0 1rem 0;
 }
 
 .footer__localization:empty {
@@ -266,12 +276,12 @@
 
 .footer__localization h2 {
   margin: 1rem 1rem 0.5rem;
-  color: rgba(var(--color-foreground), 0.75);
+  color: rgba(var(--color-background));
 }
 
 @media screen and (min-width: 750px) {
   .footer__localization {
-    padding: 0.4rem 0;
+    padding: 0;
     justify-content: flex-start;
   }
 
@@ -293,11 +303,12 @@
 .footer__copyright {
   text-align: center;
   margin-top: 1.5rem;
+  text-transform:uppercase;
 }
 
 @media screen and (min-width: 750px) {
   .footer__content-bottom-wrapper:not(.footer__content-bottom-wrapper--center) .footer__copyright {
-    text-align: right;
+    text-align: center;
   }
 }
 
@@ -335,9 +346,12 @@
   }
 }
 
-.footer-block__details-content .list-menu__item--link,
-.copyright__content a {
+.footer-block__details-content .list-menu__item--link {
   color: rgba(var(--color-foreground), 0.75);
+}
+
+.copyright__content a {
+  color: rgba(var(--color-background), 0.75);
 }
 
 .footer-block__details-content .list-menu__item--active {
@@ -346,9 +360,14 @@
 }
 
 @media screen and (min-width: 750px) {
-  .footer-block__details-content .list-menu__item--link:hover,
-  .copyright__content a:hover {
+  .footer-block__details-content .list-menu__item--link:hover {
     color: rgb(var(--color-foreground));
+    text-decoration: underline;
+    text-underline-offset: 0.3rem;
+  }
+
+  .copyright__content a:hover {
+    color: rgb(var(--color-background));
     text-decoration: underline;
     text-underline-offset: 0.3rem;
   }
@@ -434,8 +453,10 @@
   justify-content: center;
 }
 
-.footer-block__brand-info .footer__list-social.list-social {
-  justify-content: flex-start;
+.footer-block__brand-info .footer__list-social.list-social,
+.footer__content-bottom .footer__list-social.list-social {
+  justify-content: flex-end;
+  align-items: center;
 }
 
 .footer-block__details-content .placeholder-svg {
@@ -443,7 +464,7 @@
 }
 
 .copyright__content {
-  font-size: 1.1rem;
+  font-size: 1.3rem;
 }
 
 .copyright__content a {
