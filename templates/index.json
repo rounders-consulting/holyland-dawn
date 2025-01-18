@@ -12,15 +12,15 @@
     "slideshow_xz6dgG": {
       "type": "slideshow",
       "blocks": {
-        "slide_wbUrKr": {
+        "slide_YG9grP": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/shopwithmeaning.jpg",
+            "image": "shopify://shop_images/hlmp-move-sale.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "",
+            "link": "shopify://collections/20-off-storewide",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -33,12 +33,30 @@
         "slide_paYK8P": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/warehousesale1.jpg",
+            "image": "shopify://shop_images/hlmp-free-shipping-v2.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "",
+            "link": "shopify://pages/free-shipping-policy",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_wbUrKr": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/hlmp-non-profit-v2.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/20-off-storewide",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -50,8 +68,9 @@
         }
       },
       "block_order": [
-        "slide_wbUrKr",
-        "slide_paYK8P"
+        "slide_YG9grP",
+        "slide_paYK8P",
+        "slide_wbUrKr"
       ],
       "settings": {
         "layout": "full_bleed",

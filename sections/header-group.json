@@ -14,24 +14,24 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_ngBfQy": {
-          "type": "announcement",
-          "settings": {
-            "text": "NEW STANDARD SHIPPING!",
-            "link": ""
-          }
-        },
         "announcement_AAaTWy": {
           "type": "announcement",
           "settings": {
-            "text": "WE ARE A NON-PROFIT ORGANIZATION",
+            "text": "WE ARE A REGISTERED NON-PROFIT ORGANIZATION",
+            "link": ""
+          }
+        },
+        "announcement_ngBfQy": {
+          "type": "announcement",
+          "settings": {
+            "text": "FREE SHIPPING ON US ORDERS OVER $99",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement_ngBfQy",
-        "announcement_AAaTWy"
+        "announcement_AAaTWy",
+        "announcement_ngBfQy"
       ],
       "settings": {
         "color_scheme": "scheme-2334e1bb-b126-4ccc-a390-00b834accc20",
