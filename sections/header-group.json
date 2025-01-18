@@ -21,6 +21,13 @@
             "link": ""
           }
         },
+        "announcement_ebT3PF": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Shipping to Canada on Orders $300 or more",
+            "link": ""
+          }
+        },
         "announcement_AAaTWy": {
           "type": "announcement",
           "settings": {
@@ -31,6 +38,7 @@
       },
       "block_order": [
         "announcement_ngBfQy",
+        "announcement_ebT3PF",
         "announcement_AAaTWy"
       ],
       "settings": {
