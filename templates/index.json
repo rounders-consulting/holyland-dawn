@@ -47,11 +47,30 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_LEbzaU": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/hlmp-free-shipping.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://pages/free-shipping-policy",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_fkE9Bq",
-        "slide_AD6cmb"
+        "slide_AD6cmb",
+        "slide_LEbzaU"
       ],
       "settings": {
         "layout": "full_bleed",
