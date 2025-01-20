@@ -71,7 +71,9 @@
     >
       {%- if section.settings.title != blank -%}
         <h2 class="title inline-richtext {{ section.settings.heading_size }}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
-          {{ section.settings.title }}
+          <a href="{{ section.settings.collection.url }}">
+            {{ section.settings.title -}}
+          </a>
         </h2>
       {%- endif -%}
       {%- if section.settings.description != blank
@@ -83,6 +85,7 @@
             {{ section.settings.collection.description }}
           {%- else -%}
             {{ section.settings.description -}}
+            </a>
           {%- endif %}
         </div>
       {%- endif -%}
