@@ -171,6 +171,7 @@
         "button_T4CHAH"
       ],
       "settings": {
+        "image": "shopify://shop_images/sederplate.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
