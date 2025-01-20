@@ -76,6 +76,11 @@
   align-items:center;
   justify-content:space-between;
 }
+.collection__title.title-wrapper h2 {
+  font-weight:600;
+  letter-spacing:.4rem;
+  font-size: calc(var(--font-heading-scale)* 1.5rem);
+}
 .collection__title.title-wrapper h2 a {
   text-decoration:none;
 }

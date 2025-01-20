@@ -304,6 +304,8 @@
   margin-top: 0;
   margin-bottom: 0;
   min-height:40px;
+  text-transform:uppercase;
+  letter-spacing: .2rem;
 }
 
 .card__heading:last-child {
@@ -332,6 +334,9 @@
   .card--horizontal .price__container .price-item,
   .card--horizontal__quick-add {
     font-size: calc(var(--font-heading-scale) * 1.3rem);
+  }
+  .card__heading {
+    font-size: calc(var(--font-heading-scale)* 1.3rem);
   }
 }
 
@@ -380,6 +385,10 @@
   box-shadow: none;
   outline: 0;
 }
+
+.card__heading a:hover {
+  text-decoration:underline;
+} 
 
 @media screen and (min-width: 990px) {
   .card .media.media--hover-effect > img:only-child,
