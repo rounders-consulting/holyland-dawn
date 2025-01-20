@@ -330,9 +330,26 @@
   word-break: break-word;
 }
 
+.image-with-text__text h2 {
+  letter-spacing:.6rem;
+}
+
+.image-with-text__heading.h1 {
+    letter-spacing:.8rem;
+    margin-top:.2rem;
+    font-size: calc(var(--font-heading-scale)* 2.5rem);
+}
+
 @media screen and (min-width: 990px) {
   .image-with-text__content {
     padding: 6rem 7rem 7rem;
+  }
+
+  .image-with-text__text h2:first-child {
+    margin-bottom:.2rem;
+  }
+  .image-with-text__heading.h1 {
+    font-size: calc(var(--font-heading-scale)* 4rem);
   }
 }
 
