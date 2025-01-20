@@ -247,49 +247,57 @@
         "featured_collection_MJGgCD": {
           "type": "featured_collection",
           "settings": {
-            "collection": "judaica-prayer-shawls-prayer-shawl-sets"
+            "collection": "judaica-prayer-shawls-prayer-shawl-sets",
+            "collection_title": "Shawls & Pashminas"
           }
         },
         "featured_collection_LNNjiX": {
           "type": "featured_collection",
           "settings": {
-            "collection": "olive-wood"
+            "collection": "olive-wood",
+            "collection_title": "Olive Wood"
           }
         },
         "featured_collection_rpYECN": {
           "type": "featured_collection",
           "settings": {
-            "collection": "food-seasoning-olive-oil"
+            "collection": "food-seasoning-olive-oil",
+            "collection_title": "Seasoning & Oil"
           }
         },
         "featured_collection_CbfnAh": {
           "type": "featured_collection",
           "settings": {
-            "collection": "jewelry-hers-grafted-in"
+            "collection": "jewelry-hers-grafted-in",
+            "collection_title": "Jewelry for Her"
           }
         },
         "featured_collection_bMVLfL": {
           "type": "featured_collection",
           "settings": {
-            "collection": "nav-bath-body"
+            "collection": "nav-bath-body",
+            "collection_title": "Bath & Body"
           }
         },
         "featured_collection_T9NCrV": {
           "type": "featured_collection",
           "settings": {
-            "collection": "nav-books-bibles"
+            "collection": "nav-books-bibles",
+            "collection_title": "Books & Bibles"
           }
         },
         "featured_collection_gFwdz7": {
           "type": "featured_collection",
           "settings": {
-            "collection": "nav-ceramics"
+            "collection": "nav-ceramics",
+            "collection_title": "Ceramics"
           }
         },
         "featured_collection_UaLw4T": {
           "type": "featured_collection",
           "settings": {
-            "collection": "judaica-shofars"
+            "collection": "judaica-shofars",
+            "collection_title": "Shofars"
           }
         }
       },
