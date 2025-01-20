@@ -336,27 +336,43 @@
                   <div id="QuickAddInfo-{{ card_product.id }}" class="quick-add-modal__content-info"></div>
                 </div>
               </quick-add-modal>
-              {%- elsif card_product.metafields.custom.amazon_link.value -%}
-                  <a href="{{ card_product.metafields.custom.amazon_link.value }}" target="_new" style="text-decoration:none;">
-                  <button type="submit" name="add" class="quick-add__submit {% if horizontal_quick_add %} card--horizontal__quick-add animate-arrow{% endif %} button button--full-width button--primary amazon">
-                    <span>Buy on Amazon</span>
-                    {%- if horizontal_quick_add -%}
-                      <span class="icon-wrap">{% render 'icon-arrow' %}</span>
-                    {%- endif -%}
-                    {%- render 'loading-spinner' -%}
-                  </button>
-                  </a>
-              {%- elsif card_product.metafields.custom.book_patch_link.value -%}
-                  <a href="{{ card_product.metafields.custom.book_patch_link.value }}" target="_new" style="text-decoration:none;">
-                  <button type="submit" name="add" class="quick-add__submit {% if horizontal_quick_add %} card--horizontal__quick-add animate-arrow{% endif %} button button--full-width button--primary bookpatch">
-                    <span>Buy on the Book Patch</span>
-                    {%- if horizontal_quick_add -%}
-                      <span class="icon-wrap">{% render 'icon-arrow' %}</span>
-                    {%- endif -%}
-                    {%- render 'loading-spinner' -%}
-                  </button>
-                  </a>
-              {%- else -%}
+            {%- elsif card_product.metafields.custom.amazon_link.value -%}
+              <a
+                href="{{ card_product.metafields.custom.amazon_link.value }}"
+                target="_new"
+                style="text-decoration:none;"
+              >
+                <button
+                  type="submit"
+                  name="add"
+                  class="quick-add__submit {% if horizontal_quick_add %} card--horizontal__quick-add animate-arrow{% endif %} button button--full-width button--primary amazon"
+                >
+                  <span>Buy on Amazon</span>
+                  {%- if horizontal_quick_add -%}
+                    <span class="icon-wrap">{% render 'icon-arrow' %}</span>
+                  {%- endif -%}
+                  {%- render 'loading-spinner' -%}
+                </button>
+              </a>
+            {%- elsif card_product.metafields.custom.book_patch_link.value -%}
+              <a
+                href="{{ card_product.metafields.custom.book_patch_link.value }}"
+                target="_new"
+                style="text-decoration:none;"
+              >
+                <button
+                  type="submit"
+                  name="add"
+                  class="quick-add__submit {% if horizontal_quick_add %} card--horizontal__quick-add animate-arrow{% endif %} button button--full-width button--primary bookpatch"
+                >
+                  <span>Buy on the Book Patch</span>
+                  {%- if horizontal_quick_add -%}
+                    <span class="icon-wrap">{% render 'icon-arrow' %}</span>
+                  {%- endif -%}
+                  {%- render 'loading-spinner' -%}
+                </button>
+              </a>
+            {%- else -%}
               <product-form data-section-id="{{ section.id }}">
                 {%- form 'product',
                   card_product,

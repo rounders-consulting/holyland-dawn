@@ -136,7 +136,7 @@
 
 .card__information {
   grid-row-start: 2;
-  padding: 1.3rem 1rem;
+  padding: 1.3rem .25rem;
 }
 
 .card:not(.ratio) > .card__content {
@@ -303,6 +303,7 @@
 .card__heading {
   margin-top: 0;
   margin-bottom: 0;
+  min-height:40px;
 }
 
 .card__heading:last-child {
