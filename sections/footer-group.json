@@ -18,21 +18,21 @@
           "type": "link_list",
           "settings": {
             "heading": "HLMP",
-            "menu": "footer"
+            "menu": "hlmp"
           }
         },
         "footer-1": {
           "type": "link_list",
           "settings": {
             "heading": "HELP",
-            "menu": "customer-service"
+            "menu": "help"
           }
         },
         "link_list_X4kiEU": {
           "type": "link_list",
           "settings": {
             "heading": "MORE INFO",
-            "menu": "my-account"
+            "menu": "more-info"
           }
         }
       },
