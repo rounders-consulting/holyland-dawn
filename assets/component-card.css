@@ -305,8 +305,11 @@
   margin-bottom: 0;
   min-height:40px;
   text-transform:uppercase;
+}
+.collection-list .card__heading {
   letter-spacing: .2rem;
 }
+
 
 .card__heading:last-child {
   margin-bottom: 0;
