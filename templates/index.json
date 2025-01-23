@@ -35,7 +35,7 @@
           "settings": {
             "image": "shopify://shop_images/hlmp-free-shipping-v2.jpg",
             "heading": "",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "",
             "link": "shopify://pages/free-shipping-policy",
