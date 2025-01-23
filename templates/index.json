@@ -12,12 +12,12 @@
     "slideshow_xz6dgG": {
       "type": "slideshow",
       "blocks": {
-        "slide_fkE9Bq": {
+        "slide_YG9grP": {
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/hlmp-move-sale.jpg",
             "heading": "",
-            "heading_size": "h2",
+            "heading_size": "h1",
             "subheading": "",
             "button_label": "",
             "link": "shopify://collections/20-off-storewide",
@@ -26,16 +26,16 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
         },
-        "slide_LEbzaU": {
+        "slide_paYK8P": {
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/hlmp-free-shipping-v2.jpg",
             "heading": "",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "",
             "link": "shopify://pages/free-shipping-policy",
@@ -48,12 +48,12 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_AD6cmb": {
+        "slide_wbUrKr": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/hlmp-non-profit-v2.jpg",
+            "image": "shopify://shop_images/hlmp-non-profit3.jpg",
             "heading": "",
-            "heading_size": "h2",
+            "heading_size": "h1",
             "subheading": "",
             "button_label": "",
             "link": "shopify://collections/20-off-storewide",
@@ -68,9 +68,9 @@
         }
       },
       "block_order": [
-        "slide_fkE9Bq",
-        "slide_LEbzaU",
-        "slide_AD6cmb"
+        "slide_YG9grP",
+        "slide_paYK8P",
+        "slide_wbUrKr"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -86,7 +86,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "",
+        "title": "STAFF FAVOURITES",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -96,7 +96,7 @@
         "columns_desktop": 5,
         "full_width": false,
         "show_view_all": true,
-        "view_all_style": "link",
+        "view_all_style": "outline",
         "enable_desktop_slider": false,
         "color_scheme": "scheme-1",
         "image_ratio": "square",
@@ -104,17 +104,17 @@
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": true,
+        "quick_add": "standard",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 28,
-        "padding_bottom": 36
+        "padding_bottom": 4
       }
     },
     "featured_collection_GU4LgW": {
       "type": "featured-collection",
       "settings": {
-        "title": "Shop Hanukkah",
+        "title": "HANUKKAH GIFTS FROM ISRAEL",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -124,65 +124,72 @@
         "columns_desktop": 5,
         "full_width": false,
         "show_view_all": true,
-        "view_all_style": "link",
+        "view_all_style": "outline",
         "enable_desktop_slider": false,
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": true,
+        "quick_add": "standard",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 28,
-        "padding_bottom": 36
+        "padding_bottom": 4
       }
     },
-    "collection_list_6F9RBW": {
-      "type": "collection-list",
+    "image_with_text_yfWcWY": {
+      "type": "image-with-text",
       "blocks": {
-        "featured_collection_CbfnAh": {
-          "type": "featured_collection",
+        "text_xHMzDd": {
+          "type": "text",
           "settings": {
-            "collection": "jewelry-hers-grafted-in"
+            "text": "<h2>ISRAELI MADE</h2>",
+            "text_style": "body"
           }
         },
-        "featured_collection_T9NCrV": {
-          "type": "featured_collection",
+        "heading_QxUgV3": {
+          "type": "heading",
           "settings": {
-            "collection": "gifts-other-anointing-oils"
+            "heading": "SEDER PLATES",
+            "heading_size": "h1"
           }
         },
-        "featured_collection_gFwdz7": {
-          "type": "featured_collection",
+        "button_T4CHAH": {
+          "type": "button",
           "settings": {
-            "collection": "gifts-kids-toys-games"
+            "button_label": "SHOP NOW",
+            "button_link": "shopify://collections/holiday-passover-seder-plates",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "featured_collection_CbfnAh",
-        "featured_collection_T9NCrV",
-        "featured_collection_gFwdz7"
+        "text_xHMzDd",
+        "heading_QxUgV3",
+        "button_T4CHAH"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 12,
+        "image": "shopify://shop_images/sederplate.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-3",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "featured_collection_XKkdHp": {
+    "featured_collection_xAHjR6": {
       "type": "featured-collection",
       "settings": {
-        "title": "Shop Shofars",
+        "title": "SHOFARS FROM ISRAEL",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -192,25 +199,25 @@
         "columns_desktop": 5,
         "full_width": false,
         "show_view_all": true,
-        "view_all_style": "link",
+        "view_all_style": "outline",
         "enable_desktop_slider": false,
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "image_ratio": "square",
         "image_shape": "default",
-        "show_secondary_image": true,
+        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": true,
+        "quick_add": "standard",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 28,
+        "padding_bottom": 4
       }
     },
-    "featured_collection_P34KD3": {
+    "featured_collection_zdGzQU": {
       "type": "featured-collection",
       "settings": {
-        "title": "Shop Mezuzah",
+        "title": "HANDCRAFTED MEZUZAHS",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -220,252 +227,102 @@
         "columns_desktop": 5,
         "full_width": false,
         "show_view_all": true,
-        "view_all_style": "link",
+        "view_all_style": "outline",
         "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
         "image_shape": "default",
-        "show_secondary_image": true,
+        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": true,
+        "quick_add": "standard",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 28,
+        "padding_bottom": 4
       }
     },
-    "collection_list_bdxV4L": {
+    "collection_list_6F9RBW": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_cpExtG": {
+        "featured_collection_MJGgCD": {
           "type": "featured_collection",
           "settings": {
-            "collection": "books-bibles-bibles"
+            "collection": "gifts-clothing-accessories-scarves-hats",
+            "collection_title": "Women's Headwear"
           }
         },
-        "featured_collection_xCk9NF": {
+        "featured_collection_LNNjiX": {
           "type": "featured_collection",
           "settings": {
-            "collection": "olive-wood-home-decor"
+            "collection": "olive-wood",
+            "collection_title": "Olive Wood"
           }
         },
-        "featured_collection_gL9JwV": {
+        "featured_collection_rpYECN": {
           "type": "featured_collection",
           "settings": {
-            "collection": "food-seasoning-olive-oil"
+            "collection": "food-seasoning-olive-oil",
+            "collection_title": "Seasoning & Oil"
+          }
+        },
+        "featured_collection_CbfnAh": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "jewelry-hers",
+            "collection_title": "Jewelry for Her"
+          }
+        },
+        "featured_collection_bMVLfL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "nav-bath-body",
+            "collection_title": "Bath & Body"
+          }
+        },
+        "featured_collection_T9NCrV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "nav-books-bibles",
+            "collection_title": "Books & Bibles"
+          }
+        },
+        "featured_collection_gFwdz7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "nav-ceramics",
+            "collection_title": "Ceramics"
+          }
+        },
+        "featured_collection_UaLw4T": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "judaica-shofars",
+            "collection_title": "Shofars"
           }
         }
       },
       "block_order": [
-        "featured_collection_cpExtG",
-        "featured_collection_xCk9NF",
-        "featured_collection_gL9JwV"
+        "featured_collection_MJGgCD",
+        "featured_collection_LNNjiX",
+        "featured_collection_rpYECN",
+        "featured_collection_CbfnAh",
+        "featured_collection_bMVLfL",
+        "featured_collection_T9NCrV",
+        "featured_collection_gFwdz7",
+        "featured_collection_UaLw4T"
       ],
       "settings": {
-        "title": "",
+        "title": "Our Collections",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "",
+        "columns_desktop": 4,
+        "color_scheme": "scheme-3",
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 36,
+        "padding_top": 12,
         "padding_bottom": 36
-      }
-    },
-    "featured_collection_8KeCd9": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Must Have Study Material",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "books-bibles-study",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "link",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "featured_collection_GNLDt3": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Shop Prayer Shawls",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "judaica-prayer-shawls",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "link",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "featured_collection_XkTBjV": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Up to 70% OFF!",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "bargains",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "link",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_nHyC9D": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_xYADa9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3846_copy.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Eilat Floating Circle Earrings",
-            "link": "shopify://products/floating-circle-earrings"
-          }
-        },
-        "column_3M6qR7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3973_copy.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Mustard Seed Necklace",
-            "link": "shopify://products/mustard-seed-tube-necklace"
-          }
-        },
-        "column_7gk9xn": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/necklace_-1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Western Wall Menorah Necklace",
-            "link": "shopify://products/menorah-on-western-wall"
-          }
-        }
-      },
-      "block_order": [
-        "column_xYADa9",
-        "column_3M6qR7",
-        "column_7gk9xn"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "Trending Jewelry From Israel",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_banner_p8MfkX": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_nhGhh8": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "text_zacY4t": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_Qt3W7d": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_nhGhh8",
-        "text_zacY4t",
-        "buttons_Qt3W7d"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/Welcome_Slider_11_SB_bdfcaa8f-2dae-4090-8154-3842914b90ad.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
       }
     },
     "newsletter_6AcCzp": {
@@ -494,6 +351,7 @@
         "paragraph_bBzV9w",
         "email_form_WtL7fW"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-2",
         "full_width": true,
@@ -503,6 +361,7 @@
     },
     "featured_blog_fmW4cN": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "RECENT POSTS FROM OUR BLOG",
         "heading_size": "h2",
@@ -518,34 +377,50 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_ja3Crg": {
-      "type": "rich-text",
+    "image_banner_ibFCdQ": {
+      "type": "image-banner",
       "blocks": {
-        "heading_ny3aia": {
+        "heading_kQrhma": {
           "type": "heading",
           "settings": {
-            "heading": "Your one stop shop for jewelry and more!",
-            "heading_size": "h2"
+            "heading": "MAKING AN IMPACT",
+            "heading_size": "h2",
+            "heading_color": "#edd6b7"
           }
         },
-        "text_iTaE8h": {
+        "heading_HXRFGh": {
+          "type": "heading",
+          "settings": {
+            "heading": "SINCE 2004",
+            "heading_size": "h0",
+            "heading_color": "#ffffff"
+          }
+        },
+        "text_G4Hpdk": {
           "type": "text",
           "settings": {
-            "text": "<p>HolyLand MarketPlace is your one stop shop for Israeli jewelry, prayer shawls, hebrew - english bibles, star of david jewelry and so much more! Invest in the lives of Jewish believers and buy their products such as grafted-in pendants and necklaces, dead sea skin care products, olive wood cross, menorah or a chanukiah. Made in Israel, stocked in the USA, you will find the best Israeli jewelry, pashmina scarves, scripture scarves, hebrew bible in english, essential oils, holy land gifts and christian gifts right here at Holyland Marketplace. We have messianic gifts, hebrew gifts, holyland gifts, children's gifts, holy products andmuch more. Let's go shopping in Israel!</p>"
+            "text": "HolyLand MarketPlace is a faith-based, non-denominational, and non-profit organization. We are  your one stop shop for Israeli jewelry, prayer shawls, hebrew - english bibles, star of david jewelry and so much more! Invest in the lives of Jewish believers and buy their products such as grafted-in pendants and necklaces, dead sea skin care products, olive wood cross, menorah or a chanukiah. Made in Israel, stocked in the USA, you will find the best Israeli jewelry, pashmina scarves, scripture scarves, hebrew bible in english, essential oils, holy land gifts and christian gifts right here at Holyland Marketplace. We have messianic gifts, hebrew gifts, holyland gifts, children's gifts, holy products and much more. Let's go shopping in Israel!",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "heading_ny3aia",
-        "text_iTaE8h"
+        "heading_kQrhma",
+        "heading_HXRFGh",
+        "text_G4Hpdk"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 16
+        "image": "shopify://shop_images/about-us-banner.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
       }
     }
   },
@@ -553,17 +428,12 @@
     "slideshow_xz6dgG",
     "featured_collection",
     "featured_collection_GU4LgW",
+    "image_with_text_yfWcWY",
+    "featured_collection_xAHjR6",
+    "featured_collection_zdGzQU",
     "collection_list_6F9RBW",
-    "featured_collection_XKkdHp",
-    "featured_collection_P34KD3",
-    "collection_list_bdxV4L",
-    "featured_collection_8KeCd9",
-    "featured_collection_GNLDt3",
-    "featured_collection_XkTBjV",
-    "multicolumn_nHyC9D",
-    "image_banner_p8MfkX",
     "newsletter_6AcCzp",
     "featured_blog_fmW4cN",
-    "rich_text_ja3Crg"
+    "image_banner_ibFCdQ"
   ]
 }

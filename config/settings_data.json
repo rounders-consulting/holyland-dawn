@@ -1,18 +1,18 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/HLMP_2022_Logo_w_SOAM_13f9e305-c286-414b-9be3-5be177286c6b.png",
-    "logo_width": 300,
-    "favicon": "shopify:\/\/shop_images\/hl-favicon-white.png",
-    "type_header_font": "bitter_n4",
+    "logo": "shopify://shop_images/hlmp-logo-2025.png",
+    "logo_width": 400,
+    "favicon": "shopify://shop_images/favicon.png",
+    "type_header_font": "century_gothic_n4",
     "heading_scale": 100,
     "type_body_font": "lato_n4",
     "body_scale": 100,
@@ -30,7 +30,7 @@
     "buttons_shadow_blur": 5,
     "variant_pills_border_thickness": 1,
     "variant_pills_border_opacity": 55,
-    "variant_pills_radius": 40,
+    "variant_pills_radius": 0,
     "variant_pills_shadow_opacity": 0,
     "variant_pills_shadow_horizontal_offset": 0,
     "variant_pills_shadow_vertical_offset": 4,
@@ -56,7 +56,7 @@
     "collection_card_style": "standard",
     "collection_card_image_padding": 0,
     "collection_card_text_alignment": "center",
-    "collection_card_color_scheme": "scheme-1",
+    "collection_card_color_scheme": "scheme-2",
     "collection_card_border_thickness": 0,
     "collection_card_border_opacity": 10,
     "collection_card_corner_radius": 0,
@@ -102,28 +102,28 @@
     "drawer_shadow_horizontal_offset": 0,
     "drawer_shadow_vertical_offset": 4,
     "drawer_shadow_blur": 5,
-    "badge_position": "bottom right",
-    "badge_corner_radius": 40,
+    "badge_position": "top left",
+    "badge_corner_radius": 0,
     "sale_badge_color_scheme": "scheme-5",
-    "sold_out_badge_color_scheme": "scheme-3",
-    "social_facebook_link": "https:\/\/www.facebook.com\/holylandmarketplace\/",
-    "social_instagram_link": "https:\/\/www.instagram.com\/holylandmarketplace",
-    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCT8TCyQi2s4htU28gAWBmhw\/videos",
+    "sold_out_badge_color_scheme": "scheme-cc36846d-cd74-4587-9674-668b56c03177",
+    "social_facebook_link": "https://www.facebook.com/holylandmarketplace/",
+    "social_instagram_link": "https://www.instagram.com/holylandmarketplace",
+    "social_youtube_link": "https://www.youtube.com/channel/UCT8TCyQi2s4htU28gAWBmhw/videos",
     "social_tiktok_link": "",
     "social_twitter_link": "",
     "social_snapchat_link": "",
-    "social_pinterest_link": "https:\/\/www.pinterest.ca\/holyland_marketplace\/",
+    "social_pinterest_link": "https://www.pinterest.ca/holyland_marketplace/",
     "social_tumblr_link": "",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
     "currency_code_enabled": true,
-    "cart_type": "notification",
+    "cart_type": "drawer",
     "show_vendor": false,
     "show_cart_note": true,
     "cart_drawer_collection": "new",
-    "checkout_logo_image": "shopify:\/\/shop_images\/HLMP_2022_Logo_w_SOAM_13f9e305-c286-414b-9be3-5be177286c6b.png",
+    "checkout_logo_image": "shopify://shop_images/HLMP_2022_Logo_w_SOAM_13f9e305-c286-414b-9be3-5be177286c6b.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
     "checkout_accent_color": "#80abc9",
@@ -142,16 +142,14 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "color_schemes": {
       "scheme-1": {
         "settings": {
           "background": "#ffffff",
           "background_gradient": "",
-          "text": "#121212",
-          "button": "#113a60",
+          "text": "#092841",
+          "button": "#092841",
           "button_label": "#ffffff",
           "secondary_button_label": "#113a60",
           "shadow": "#121212"
@@ -159,45 +157,45 @@
       },
       "scheme-2": {
         "settings": {
-          "background": "#f3f3f3",
+          "background": "#faf4ec",
           "background_gradient": "",
-          "text": "#121212",
-          "button": "#121212",
-          "button_label": "#f3f3f3",
-          "secondary_button_label": "#121212",
+          "text": "#092841",
+          "button": "#092841",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#113a60",
           "shadow": "#121212"
         }
       },
       "scheme-3": {
         "settings": {
-          "background": "#242833",
+          "background": "#dccec3",
           "background_gradient": "",
-          "text": "#ffffff",
-          "button": "#ffffff",
-          "button_label": "#000000",
-          "secondary_button_label": "#ffffff",
+          "text": "#092841",
+          "button": "#092841",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#092841",
           "shadow": "#121212"
         }
       },
       "scheme-4": {
         "settings": {
-          "background": "#121212",
+          "background": "#3e2f28",
           "background_gradient": "",
           "text": "#ffffff",
           "button": "#ffffff",
-          "button_label": "#121212",
+          "button_label": "#3e2f28",
           "secondary_button_label": "#ffffff",
-          "shadow": "#121212"
+          "shadow": "#3e2f28"
         }
       },
       "scheme-5": {
         "settings": {
-          "background": "#779c7e",
+          "background": "#b00c13",
           "background_gradient": "",
           "text": "#ffffff",
-          "button": "#ffffff",
-          "button_label": "#113a60",
-          "secondary_button_label": "#ffffff",
+          "button": "rgba(0,0,0,0)",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#b00c13",
           "shadow": "#121212"
         }
       },
@@ -214,12 +212,23 @@
       },
       "scheme-2334e1bb-b126-4ccc-a390-00b834accc20": {
         "settings": {
-          "background": "#ffffff",
+          "background": "#092841",
           "background_gradient": "",
-          "text": "#121212",
-          "button": "#113a60",
-          "button_label": "#ffffff",
-          "secondary_button_label": "#113a60",
+          "text": "#edd6b7",
+          "button": "#dccec3",
+          "button_label": "#113a60",
+          "secondary_button_label": "#dccec3",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-cc36846d-cd74-4587-9674-668b56c03177": {
+        "settings": {
+          "background": "#a5acb1",
+          "background_gradient": "",
+          "text": "#ebeef2",
+          "button": "#092841",
+          "button_label": "#a5acb1",
+          "secondary_button_label": "#a5acb1",
           "shadow": "#121212"
         }
       }

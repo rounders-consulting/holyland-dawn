@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -8,67 +17,41 @@
         "footer-0": {
           "type": "link_list",
           "settings": {
-            "heading": "Information",
-            "menu": "footer"
+            "heading": "HLMP",
+            "menu": "hlmp"
           }
         },
         "footer-1": {
           "type": "link_list",
           "settings": {
-            "heading": "Customer Service",
-            "menu": "customer-service"
+            "heading": "HELP",
+            "menu": "help"
           }
         },
         "link_list_X4kiEU": {
           "type": "link_list",
           "settings": {
-            "heading": "My Account",
-            "menu": "my-account"
-          }
-        },
-        "footer-2": {
-          "type": "text",
-          "settings": {
-            "heading": "Contact Us",
-            "subtext": "<p>Monday through Friday<br\/>9:00 am - 5:00 pm EDT<br\/>800-279-6531<br\/><a href=\"mailto:service@holylandmarketplace.com\" target=\"_blank\" title=\"mailto:service@holylandmarketplace.com\">service@holylandmarketplace.com<br\/><\/a>6355 N Courtenay Pkwy<br\/>Merritt Island, FL 32953  USA<\/p>"
-          }
-        },
-        "image_QikjUC": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ECFA_Seal_Header.png",
-            "image_link": "https:\/\/www.ecfa.org\/MemberProfile.aspx?ID=39425",
-            "image_width": 100,
-            "alignment": "center"
-          }
-        },
-        "text_PTtwTr": {
-          "type": "text",
-          "settings": {
-            "heading": "",
-            "subtext": "<p>Copyright ©2024 Seed of Abraham Ministries, Inc.<br\/>All Rights Reserved | Copyright & Terms<\/p>"
+            "heading": "MORE INFO",
+            "menu": "more-info"
           }
         }
       },
       "block_order": [
         "footer-0",
         "footer-1",
-        "link_list_X4kiEU",
-        "footer-2",
-        "image_QikjUC",
-        "text_PTtwTr"
+        "link_list_X4kiEU"
       ],
       "settings": {
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-4",
         "newsletter_enable": true,
-        "newsletter_heading": "Subscribe to our emails",
-        "enable_follow_on_shop": true,
+        "newsletter_heading": "<p style=\"margin-top:0;font-size:13px;\"><span style=\"color:#edd6b7;text-transform:uppercase;font-weight:bold;\">Want to know How you can help?</span> Sign up\nto learn more about our vendors from\nIsrael and how you can support them.</p>",
+        "enable_follow_on_shop": false,
         "show_social": true,
         "enable_country_selector": true,
         "enable_language_selector": false,
         "payment_enable": true,
         "show_policy": false,
-        "margin_top": 48,
+        "margin_top": 0,
         "padding_top": 36,
         "padding_bottom": 36
       }

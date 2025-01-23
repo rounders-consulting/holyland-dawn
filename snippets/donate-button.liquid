@@ -1,4 +1,4 @@
-<div class="donate-button page-width">
+<div class="donate-button page-width small-hide grid-icons">
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
     <input name="cmd" type="hidden" value="_s-xclick"> 
     <input name="hosted_button_id" type="hidden" value="C47ED6DSY7GKE"> 
@@ -9,14 +9,24 @@
 
 <style>
   .donate-button  {
-    padding:4px 50px 0;
+    padding:0px 50px 0 0;
     position:relative;
-    text-align:right;    
+    text-align:left; 
+    width:100%; 
   }
-  .header {padding-top:0 ;}
-  @media screen and (max-width: 750px) {
+  .donate-button.grid-icons {
+      grid-area:left-icons;
+  }
+  .menu-drawer__donate-container {
+    display:flex;
+    justify-content:space-between;
+  }
+
+  @media screen and (max-width: 767px) {
+    .donate-button.small-hide {display:none;}
     .donate-button {
       padding-right:10px;
+      width:auto;
     }
   }
 </style>

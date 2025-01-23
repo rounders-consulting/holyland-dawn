@@ -14,38 +14,30 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_ngBfQy": {
-          "type": "announcement",
-          "settings": {
-            "text": "FREE SHIPPING in the US on Orders Over $99 * restrictions apply",
-            "link": ""
-          }
-        },
-        "announcement_ebT3PF": {
-          "type": "announcement",
-          "settings": {
-            "text": "FREE SHIPPING to Canada on Orders $300 or more * restrictions apply",
-            "link": ""
-          }
-        },
         "announcement_AAaTWy": {
           "type": "announcement",
           "settings": {
-            "text": "We Are a Registered Non-Profit Organization",
+            "text": "WE ARE A REGISTERED NON-PROFIT ORGANIZATION",
             "link": ""
+          }
+        },
+        "announcement_ngBfQy": {
+          "type": "announcement",
+          "settings": {
+            "text": "FREE SHIPPING ON US ORDERS OVER $99 & CANADIAN ODERS OVER $300 *",
+            "link": "shopify://pages/free-shipping-policy"
           }
         }
       },
       "block_order": [
-        "announcement_ngBfQy",
-        "announcement_ebT3PF",
-        "announcement_AAaTWy"
+        "announcement_AAaTWy",
+        "announcement_ngBfQy"
       ],
       "settings": {
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-2334e1bb-b126-4ccc-a390-00b834accc20",
         "show_line_separator": false,
         "show_social": false,
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 5,
         "enable_country_selector": false,
         "enable_language_selector": false
@@ -57,12 +49,13 @@
         "logo_position": "top-center",
         "menu": "main-menu",
         "menu_type_desktop": "mega",
-        "sticky_header_type": "on-scroll-up",
+        "sticky_header_type": "always",
         "show_line_separator": true,
-        "color_scheme": "scheme-1",
-        "menu_color_scheme": "",
+        "color_scheme": "scheme-2",
+        "menu_color_scheme": "scheme-2",
         "enable_country_selector": false,
-        "enable_language_selector": true,
+        "enable_language_selector": false,
+        "enable_customer_avatar": true,
         "mobile_logo_position": "center",
         "margin_bottom": 0,
         "padding_top": 20,
