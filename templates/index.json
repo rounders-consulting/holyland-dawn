@@ -145,22 +145,30 @@
         "text_xHMzDd": {
           "type": "text",
           "settings": {
-            "text": "<h2>ISRAELI MADE</h2>",
+            "text": "<h2>A TIME TO</h2>",
             "text_style": "body"
           }
         },
         "heading_QxUgV3": {
           "type": "heading",
           "settings": {
-            "heading": "SEDER PLATES",
+            "heading": "GATHER TOGETHER",
             "heading_size": "h1"
+          }
+        },
+        "caption_xVQmqk": {
+          "type": "caption",
+          "settings": {
+            "caption": "There’s no better way to bring people together than around the dinner table.\"",
+            "text_style": "subtitle",
+            "text_size": "medium"
           }
         },
         "button_T4CHAH": {
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify://collections/holiday-passover-seder-plates",
+            "button_link": "shopify://collections/nav-food",
             "button_style_secondary": false
           }
         }
@@ -168,10 +176,11 @@
       "block_order": [
         "text_xHMzDd",
         "heading_QxUgV3",
+        "caption_xVQmqk",
         "button_T4CHAH"
       ],
       "settings": {
-        "image": "shopify://shop_images/sederplate.jpg",
+        "image": "shopify://shop_images/collection-gather.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
