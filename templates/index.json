@@ -268,6 +268,13 @@
             "collection_title": "Anointing oils"
           }
         },
+        "featured_collection_UaLw4T": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "judaica-shofars",
+            "collection_title": "Shofars"
+          }
+        },
         "featured_collection_rpYECN": {
           "type": "featured_collection",
           "settings": {
@@ -302,24 +309,17 @@
             "collection": "nav-ceramics",
             "collection_title": "Ceramics"
           }
-        },
-        "featured_collection_UaLw4T": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "judaica-shofars",
-            "collection_title": "Shofars"
-          }
         }
       },
       "block_order": [
         "featured_collection_MJGgCD",
         "featured_collection_LNNjiX",
+        "featured_collection_UaLw4T",
         "featured_collection_rpYECN",
         "featured_collection_CbfnAh",
         "featured_collection_bMVLfL",
         "featured_collection_T9NCrV",
-        "featured_collection_gFwdz7",
-        "featured_collection_UaLw4T"
+        "featured_collection_gFwdz7"
       ],
       "settings": {
         "title": "Our Collections",
