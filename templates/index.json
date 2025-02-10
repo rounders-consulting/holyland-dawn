@@ -114,12 +114,12 @@
     "featured_collection_GU4LgW": {
       "type": "featured-collection",
       "settings": {
-        "title": "HANUKKAH GIFTS FROM ISRAEL",
+        "title": "CELEBRATE & REFLECT",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "holiday-hanukkah",
+        "collection": "gifts-home-candlesticks-candles",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
