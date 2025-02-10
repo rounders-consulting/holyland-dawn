@@ -86,12 +86,12 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "STAFF FAVOURITES",
+        "title": "MARK THE NEW MONTH",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "sale-front-page",
+        "collection": "judaica-shofars",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
