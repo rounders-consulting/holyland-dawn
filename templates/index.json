@@ -12,15 +12,15 @@
     "slideshow_xz6dgG": {
       "type": "slideshow",
       "blocks": {
-        "slide_YG9grP": {
+        "slide_paYK8P": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/hlmp-move-sale.jpg",
+            "image": "shopify://shop_images/hlmp-newmoon1.jpg",
             "heading": "",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/20-off-storewide",
+            "link": "shopify://pages/free-shipping-policy",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -30,15 +30,15 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_paYK8P": {
+        "slide_YG9grP": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/hlmp-free-shipping-v2.jpg",
+            "image": "shopify://shop_images/hlmp-whSale.jpg",
             "heading": "",
-            "heading_size": "h2",
+            "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://pages/free-shipping-policy",
+            "link": "shopify://collections/20-off-storewide",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -68,8 +68,8 @@
         }
       },
       "block_order": [
-        "slide_YG9grP",
         "slide_paYK8P",
+        "slide_YG9grP",
         "slide_wbUrKr"
       ],
       "settings": {
