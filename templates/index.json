@@ -152,14 +152,14 @@
         "heading_QxUgV3": {
           "type": "heading",
           "settings": {
-            "heading": "GATHER TOGETHER",
+            "heading": "LEARN TOGETHER",
             "heading_size": "h1"
           }
         },
         "caption_xVQmqk": {
           "type": "caption",
           "settings": {
-            "caption": "There’s no better way to bring people together than around the dinner table.\"",
+            "caption": "Let family time be a moment of reflection, wisdom, and connection.",
             "text_style": "subtitle",
             "text_size": "medium"
           }
@@ -168,7 +168,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify://collections/nav-food",
+            "button_link": "shopify://collections/nav-books-bibles",
             "button_style_secondary": false
           }
         }
@@ -180,7 +180,7 @@
         "button_T4CHAH"
       ],
       "settings": {
-        "image": "shopify://shop_images/collection-gather.jpg",
+        "image": "shopify://shop_images/books-bibles_b1fb7518-5eb5-4af6-9f35-2d97baf140dc.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
