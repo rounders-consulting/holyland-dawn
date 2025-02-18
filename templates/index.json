@@ -86,12 +86,12 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "MARK THE NEW MONTH",
+        "title": "RENEWING YOUR LOVE",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "judaica-shofars",
+        "collection": "jewelry-with-religious-symbolism",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -114,12 +114,12 @@
     "featured_collection_GU4LgW": {
       "type": "featured-collection",
       "settings": {
-        "title": "CELEBRATE & REFLECT",
+        "title": "RENEWING YOUR COMMITMENT",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "gifts-home-candlesticks-candles",
+        "collection": "olive-wood-miscellaneous-mezuzahs",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -198,12 +198,12 @@
     "featured_collection_xAHjR6": {
       "type": "featured-collection",
       "settings": {
-        "title": "WORSHIP WITH MUSIC",
+        "title": "CONSECRATION FOR A FRESH START",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "gifts-other-music-cd",
+        "collection": "gifts-other-anointing-oils",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -226,12 +226,12 @@
     "featured_collection_zdGzQU": {
       "type": "featured-collection",
       "settings": {
-        "title": "BEGIN WITH PRAYER",
+        "title": "NEW PERSPECTIVE & UNDERSTANDING",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "judaica-prayer-shawls",
+        "collection": "books-bibles-collections-devotionals-journals",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
