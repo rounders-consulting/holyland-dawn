@@ -83,118 +83,6 @@
         "accessibility_info": "Holyland Marketplace Welcomes You"
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "RENEWING YOUR LOVE",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "jewelry-with-religious-symbolism",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "standard",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 28,
-        "padding_bottom": 4
-      }
-    },
-    "featured_collection_GU4LgW": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "RENEWING YOUR COMMITMENT",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "mezuzahs",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "standard",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 28,
-        "padding_bottom": 4
-      }
-    },
-    "image_with_text_yfWcWY": {
-      "type": "image-with-text",
-      "blocks": {
-        "text_xHMzDd": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>A TIME TO</h2>",
-            "text_style": "body"
-          }
-        },
-        "heading_QxUgV3": {
-          "type": "heading",
-          "settings": {
-            "heading": "LEARN TOGETHER",
-            "heading_size": "h1"
-          }
-        },
-        "caption_xVQmqk": {
-          "type": "caption",
-          "settings": {
-            "caption": "Let family time be a moment of reflection, wisdom, and connection.",
-            "text_style": "subtitle",
-            "text_size": "medium"
-          }
-        },
-        "button_T4CHAH": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOP NOW",
-            "button_link": "shopify://collections/nav-books-bibles",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_xHMzDd",
-        "heading_QxUgV3",
-        "caption_xVQmqk",
-        "button_T4CHAH"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/books-bibles_b1fb7518-5eb5-4af6-9f35-2d97baf140dc.jpg",
-        "height": "medium",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "bottom",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-3",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured_collection_xAHjR6": {
       "type": "featured-collection",
       "settings": {
@@ -232,6 +120,118 @@
         "show_description": false,
         "description_style": "body",
         "collection": "books-bibles-collections-devotionals-journals",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 28,
+        "padding_bottom": 4
+      }
+    },
+    "image_with_text_yfWcWY": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_xHMzDd": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>CELEBRATE</h2>",
+            "text_style": "body"
+          }
+        },
+        "heading_QxUgV3": {
+          "type": "heading",
+          "settings": {
+            "heading": "PURIM",
+            "heading_size": "h1"
+          }
+        },
+        "caption_xVQmqk": {
+          "type": "caption",
+          "settings": {
+            "caption": "March 13-14 is a time of celebration, feasting, and generosity and we've got everything you need to make Purim a special time!",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        },
+        "button_T4CHAH": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify://collections/celebrate-purim-with-joy-gifts-festive-foods",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_xHMzDd",
+        "heading_QxUgV3",
+        "caption_xVQmqk",
+        "button_T4CHAH"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/purim-square.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-3",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_GU4LgW": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "A COMMITMENT OF FAITH",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "mezuzahs",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 28,
+        "padding_bottom": 4
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "RENEWING YOUR LOVE",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "jewelry-with-religious-symbolism",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -435,11 +435,11 @@
   },
   "order": [
     "slideshow_xz6dgG",
-    "featured_collection",
-    "featured_collection_GU4LgW",
-    "image_with_text_yfWcWY",
     "featured_collection_xAHjR6",
     "featured_collection_zdGzQU",
+    "image_with_text_yfWcWY",
+    "featured_collection_GU4LgW",
+    "featured_collection",
     "collection_list_6F9RBW",
     "newsletter_6AcCzp",
     "featured_blog_fmW4cN",
