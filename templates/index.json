@@ -51,7 +51,7 @@
         "slide_YG9grP": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/warehousesale2-2025-short.jpg",
+            "image": "shopify://shop_images/upto70off-2025.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -111,15 +111,15 @@
         "padding_bottom": 4
       }
     },
-    "featured_collection_zdGzQU": {
+    "featured_collection_nT7KPh": {
       "type": "featured-collection",
       "settings": {
-        "title": "FIND WHAT YOU NEED - AT UP TO 70% OFF",
+        "title": "MARKING THE NEW MONTH",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "20-off-storewide",
+        "collection": "judaica-shofars",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -139,15 +139,15 @@
         "padding_bottom": 4
       }
     },
-    "featured_collection_nT7KPh": {
+    "featured_collection_zdGzQU": {
       "type": "featured-collection",
       "settings": {
-        "title": "MARKING THE NEW MONTH",
+        "title": "FIND WHAT YOU NEED - AT UP TO 70% OFF",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "judaica-shofars",
+        "collection": "20-off-storewide",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
