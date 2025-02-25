@@ -86,12 +86,12 @@
     "featured_collection_xAHjR6": {
       "type": "featured-collection",
       "settings": {
-        "title": "CONSECRATION FOR A FRESH START",
+        "title": "WELCOMING RENEWAL",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "gifts-other-anointing-oils",
+        "collection": "gifts-home-candlesticks-candles",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -226,7 +226,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "RENEWING YOUR LOVE",
+        "title": "A GIFT THEY WILL TREASURE",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
