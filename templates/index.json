@@ -196,7 +196,7 @@
           "type": "button",
           "settings": {
             "button_label": "WATCH THE VIDEO",
-            "button_link": "shopify://pages/passover-essentials-journey",
+            "button_link": "shopify://pages/passover-starter-collection",
             "button_style_secondary": false
           }
         }
