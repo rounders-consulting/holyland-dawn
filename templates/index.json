@@ -139,36 +139,29 @@
         "padding_bottom": 4
       }
     },
-    "video_TDHVcV": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https://vimeo.com/925070867",
-        "cover_image": "shopify://shop_images/Passover_Essentials.png",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_yfWcWY": {
       "type": "image-with-text",
       "blocks": {
         "text_xHMzDd": {
           "type": "text",
           "settings": {
-            "text": "<h2>ISRAELI MADE</h2>",
+            "text": "<h2>HOW TO CELEBRATE</h2>",
             "text_style": "body"
           }
         },
         "heading_QxUgV3": {
           "type": "heading",
           "settings": {
-            "heading": "SEDER PLATES",
+            "heading": "PASSOVER",
             "heading_size": "h1"
+          }
+        },
+        "caption_iQqBN4": {
+          "type": "caption",
+          "settings": {
+            "caption": "Tom Bradford Explains what you'll need to celebrate Passover in a Biblically oriented way.",
+            "text_style": "subtitle",
+            "text_size": "medium"
           }
         },
         "button_T4CHAH": {
@@ -183,6 +176,7 @@
       "block_order": [
         "text_xHMzDd",
         "heading_QxUgV3",
+        "caption_iQqBN4",
         "button_T4CHAH"
       ],
       "settings": {
@@ -197,6 +191,21 @@
         "color_scheme": "scheme-3",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video_TDHVcV": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https://vimeo.com/925070867",
+        "cover_image": "shopify://shop_images/Passover_Essentials.png",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -443,8 +452,8 @@
     "slideshow_xz6dgG",
     "featured_collection",
     "featured_collection_GU4LgW",
-    "video_TDHVcV",
     "image_with_text_yfWcWY",
+    "video_TDHVcV",
     "featured_collection_xAHjR6",
     "featured_collection_zdGzQU",
     "collection_list_6F9RBW",
