@@ -15,12 +15,12 @@
         "slide_paYK8P": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/roshchodesh-week3-homepage2b.jpg",
+            "image": "shopify://shop_images/hlmp-passover-sederplate.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/rosh-chodesh",
+            "link": "shopify://collections/holiday-passover",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -33,12 +33,12 @@
         "slide_wbUrKr": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/purim-ready-2025.jpg",
+            "image": "shopify://shop_images/hlmp-passover-games.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/celebrate-purim-with-joy-gifts-festive-foods",
+            "link": "shopify://collections/holiday-passover-kids",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -86,12 +86,12 @@
     "featured_collection_zdGzQU": {
       "type": "featured-collection",
       "settings": {
-        "title": "FIND WHAT YOU NEED - AT UP TO 70% OFF",
+        "title": "SEDER PLATES",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "20-off-storewide",
+        "collection": "holiday-passover-seder-plates",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -114,12 +114,12 @@
     "featured_collection_xAHjR6": {
       "type": "featured-collection",
       "settings": {
-        "title": "PREPARING FOR NISAN",
+        "title": "MATZAH COVERS",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "rosh-chodesh",
+        "collection": "holiday-passover-matzah-covers",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -142,12 +142,12 @@
     "featured_collection_nT7KPh": {
       "type": "featured-collection",
       "settings": {
-        "title": "FOCUS ON PRAYER",
+        "title": "PASSOVER GAMES & TOYS",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "judaica-prayer-shawls-shawls",
+        "collection": "holiday-passover-kids",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -173,21 +173,21 @@
         "text_xHMzDd": {
           "type": "text",
           "settings": {
-            "text": "<h2>CELEBRATE</h2>",
+            "text": "<h2>PREPARING FOR</h2>",
             "text_style": "body"
           }
         },
         "heading_QxUgV3": {
           "type": "heading",
           "settings": {
-            "heading": "PURIM",
+            "heading": "PASSOVER",
             "heading_size": "h1"
           }
         },
         "caption_xVQmqk": {
           "type": "caption",
           "settings": {
-            "caption": "March 13-14 is a time of celebration, feasting, and generosity and we've got everything you need to make Purim a special time!",
+            "caption": "Seed Of Abraham's Tom Bradford Explains what you'll need to celebrate Passover in a Biblically oriented way.",
             "text_style": "subtitle",
             "text_size": "medium"
           }
@@ -195,8 +195,8 @@
         "button_T4CHAH": {
           "type": "button",
           "settings": {
-            "button_label": "SHOP NOW",
-            "button_link": "shopify://collections/celebrate-purim-with-joy-gifts-festive-foods",
+            "button_label": "WATCH THE VIDEO",
+            "button_link": "shopify://pages/passover-essentials-journey",
             "button_style_secondary": false
           }
         }
@@ -208,8 +208,8 @@
         "button_T4CHAH"
       ],
       "settings": {
-        "image": "shopify://shop_images/purim-square.jpg",
-        "height": "medium",
+        "image": "shopify://shop_images/Passover_Essentials.png",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "bottom",
@@ -226,12 +226,12 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "THE FEAST OF ESTHER - A TIME FOR JOY",
+        "title": "KIDDUSH CUPS",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "celebrate-purim-with-joy-gifts-festive-foods",
+        "collection": "holiday-sabbath-kiddush-cup",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -254,12 +254,12 @@
     "featured_collection_GU4LgW": {
       "type": "featured-collection",
       "settings": {
-        "title": "OLIVE WOOD FROM ISRAEL",
+        "title": "PASSOVER HAGGADAH",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "olive-wood-serving",
+        "collection": "passover-books",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
