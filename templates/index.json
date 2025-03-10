@@ -168,7 +168,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify://collections/holiday-passover-seder-plates",
+            "button_link": "shopify://pages/passover-essentials-journey",
             "button_style_secondary": false
           }
         }
@@ -180,8 +180,8 @@
         "button_T4CHAH"
       ],
       "settings": {
-        "image": "shopify://shop_images/sederplate.jpg",
-        "height": "medium",
+        "image": "shopify://shop_images/Passover_Essentials.png",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "bottom",
@@ -191,21 +191,6 @@
         "color_scheme": "scheme-3",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video_TDHVcV": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https://vimeo.com/925070867",
-        "cover_image": "shopify://shop_images/Passover_Essentials.png",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -453,7 +438,6 @@
     "featured_collection",
     "featured_collection_GU4LgW",
     "image_with_text_yfWcWY",
-    "video_TDHVcV",
     "featured_collection_xAHjR6",
     "featured_collection_zdGzQU",
     "collection_list_6F9RBW",
