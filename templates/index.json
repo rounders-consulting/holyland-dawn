@@ -83,15 +83,15 @@
         "accessibility_info": "Holyland Marketplace Welcomes You"
       }
     },
-    "featured_collection_zdGzQU": {
+    "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "SEDER PLATES",
+        "title": "KIDDUSH CUPS",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "holiday-passover-seder-plates",
+        "collection": "holiday-sabbath-kiddush-cup",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -111,15 +111,15 @@
         "padding_bottom": 4
       }
     },
-    "featured_collection_xAHjR6": {
+    "featured_collection_GU4LgW": {
       "type": "featured-collection",
       "settings": {
-        "title": "MATZAH COVERS",
+        "title": "FAITH-INSPIRED WALL ART",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "holiday-passover-matzah-covers",
+        "collection": "gifts-wall-art",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -129,7 +129,7 @@
         "color_scheme": "scheme-1",
         "image_ratio": "square",
         "image_shape": "default",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
         "quick_add": "standard",
@@ -223,15 +223,15 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection": {
+    "featured_collection_zdGzQU": {
       "type": "featured-collection",
       "settings": {
-        "title": "KIDDUSH CUPS",
+        "title": "INSPIRATIONAL BOOKMARKS",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "holiday-sabbath-kiddush-cup",
+        "collection": "gifts-gift-ideas-bookmarks",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -251,15 +251,15 @@
         "padding_bottom": 4
       }
     },
-    "featured_collection_GU4LgW": {
+    "featured_collection_xAHjR6": {
       "type": "featured-collection",
       "settings": {
-        "title": "PASSOVER HAGGADAH",
+        "title": "MATZAH COVERS",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "passover-books",
+        "collection": "holiday-passover-matzah-covers",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -269,7 +269,7 @@
         "color_scheme": "scheme-1",
         "image_ratio": "square",
         "image_shape": "default",
-        "show_secondary_image": true,
+        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "quick_add": "standard",
@@ -463,12 +463,12 @@
   },
   "order": [
     "slideshow_xz6dgG",
-    "featured_collection_zdGzQU",
-    "featured_collection_xAHjR6",
-    "featured_collection_nT7KPh",
-    "image_with_text_yfWcWY",
     "featured_collection",
     "featured_collection_GU4LgW",
+    "featured_collection_nT7KPh",
+    "image_with_text_yfWcWY",
+    "featured_collection_zdGzQU",
+    "featured_collection_xAHjR6",
     "collection_list_6F9RBW",
     "newsletter_6AcCzp",
     "featured_blog_fmW4cN",
