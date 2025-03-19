@@ -11,6 +11,15 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "custom_liquid_K7gj7E": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"background:#FAF4EC;padding:20px;margin:0;text-align:center;\"><h2 style=\"color:#092841;letter-spacing:.2em;\">GET AN ADDITIONAL <span style=\"font-weight:bold;color:#990000;font-size: 1.4em;\">20% OFF</span> YOUR ORDER AT CHECKOUT!!</h2></div>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -58,6 +67,7 @@
     }
   },
   "order": [
+    "custom_liquid_K7gj7E",
     "footer"
   ]
 }
