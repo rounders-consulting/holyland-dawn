@@ -27,11 +27,19 @@
             "text": "FREE SHIPPING ON US ORDERS OVER $99 & CANADIAN ORDERS OVER $300 *",
             "link": "shopify://pages/free-shipping-policy"
           }
+        },
+        "announcement_jCpMjc": {
+          "type": "announcement",
+          "settings": {
+            "text": "GET AN ADDITIONAL 20% OFF AT CHECKOUT!",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "announcement_AAaTWy",
-        "announcement_ngBfQy"
+        "announcement_ngBfQy",
+        "announcement_jCpMjc"
       ],
       "settings": {
         "color_scheme": "scheme-2334e1bb-b126-4ccc-a390-00b834accc20",
