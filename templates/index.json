@@ -285,8 +285,8 @@
         "featured_collection_MJGgCD": {
           "type": "featured_collection",
           "settings": {
-            "collection": "books-bibles-bibles-complete-jewish-bible",
-            "collection_title": "Complete Jewish Bible"
+            "collection": "nav-books-bibles",
+            "collection_title": "Bibles"
           }
         },
         "featured_collection_LNNjiX": {
