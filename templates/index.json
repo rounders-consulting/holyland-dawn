@@ -30,24 +30,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_wbUrKr": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/passover-week2-homepage-gallery.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/gifts-wall-art",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_YG9grP": {
           "type": "slide",
           "settings": {
@@ -65,12 +47,30 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_wbUrKr": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/passover-week2-homepage-gallery.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/gifts-wall-art",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_paYK8P",
-        "slide_wbUrKr",
-        "slide_YG9grP"
+        "slide_YG9grP",
+        "slide_wbUrKr"
       ],
       "settings": {
         "layout": "full_bleed",
