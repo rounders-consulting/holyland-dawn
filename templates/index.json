@@ -254,12 +254,12 @@
     "featured_collection_zdGzQU": {
       "type": "featured-collection",
       "settings": {
-        "title": "MATZAH COVERS -<em> Don't forget, you get another 20% off at checkout!</em>",
+        "title": "BIBLE COVERS -<em> Don't forget, you get another 20% off at checkout!</em>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "holiday-passover-matzah-covers",
+        "collection": "books-bibles-accessories-bible-covers",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
