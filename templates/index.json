@@ -112,34 +112,6 @@
         "padding_bottom": 4
       }
     },
-    "featured_collection_GU4LgW": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "SHOFARS - <em>NOW 20-50% OFF</em>",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "judaica-shofars",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "standard",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 28,
-        "padding_bottom": 4
-      }
-    },
     "featured_collection_nT7KPh": {
       "type": "featured-collection",
       "settings": {
@@ -149,6 +121,34 @@
         "show_description": false,
         "description_style": "body",
         "collection": "books-bibles-bibles-complete-jewish-bible",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 28,
+        "padding_bottom": 4
+      }
+    },
+    "featured_collection_zdGzQU": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "BIBLE COVERS -<em> SAVE 20%</em>",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "books-bibles-accessories-bible-covers",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -224,15 +224,15 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_xAHjR6": {
+    "featured_collection_GU4LgW": {
       "type": "featured-collection",
       "settings": {
-        "title": "MEANINGFUL MUGS - <em>With an extra 20% off at checkout!</em>",
+        "title": "SHOFARS - <em>NOW 20-50% OFF</em>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "coffee-mug",
+        "collection": "judaica-shofars",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -242,7 +242,7 @@
         "color_scheme": "scheme-1",
         "image_ratio": "square",
         "image_shape": "default",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
         "quick_add": "standard",
@@ -252,15 +252,15 @@
         "padding_bottom": 4
       }
     },
-    "featured_collection_zdGzQU": {
+    "featured_collection_xAHjR6": {
       "type": "featured-collection",
       "settings": {
-        "title": "BIBLE COVERS -<em> SAVE 20% at checkout!</em>",
+        "title": "MEANINGFUL MUGS - <em>With an extra 20% off at checkout!</em>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "books-bibles-accessories-bible-covers",
+        "collection": "coffee-mug",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -465,11 +465,11 @@
   "order": [
     "slideshow_xz6dgG",
     "featured_collection",
-    "featured_collection_GU4LgW",
     "featured_collection_nT7KPh",
-    "image_with_text_yfWcWY",
-    "featured_collection_xAHjR6",
     "featured_collection_zdGzQU",
+    "image_with_text_yfWcWY",
+    "featured_collection_GU4LgW",
+    "featured_collection_xAHjR6",
     "collection_list_6F9RBW",
     "newsletter_6AcCzp",
     "featured_blog_fmW4cN",
