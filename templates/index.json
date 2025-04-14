@@ -171,24 +171,24 @@
     "image_with_text_yfWcWY": {
       "type": "image-with-text",
       "blocks": {
-        "text_xHMzDd": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>PREPARING FOR</h2>",
-            "text_style": "body"
-          }
-        },
         "heading_QxUgV3": {
           "type": "heading",
           "settings": {
-            "heading": "PASSOVER",
+            "heading": "BRING Peace & Purpose",
             "heading_size": "h1"
+          }
+        },
+        "text_xHMzDd": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>TO EVERY POUR</h2>",
+            "text_style": "body"
           }
         },
         "caption_xVQmqk": {
           "type": "caption",
           "settings": {
-            "caption": "Seed Of Abraham's Tom Bradford Explains what you'll need to celebrate Passover in a Biblically oriented way.",
+            "caption": "Beautifully crafted ceramic teapots feature hand-picked Bible verses and faith-inspired designs.",
             "text_style": "subtitle",
             "text_size": "medium"
           }
@@ -196,20 +196,20 @@
         "button_T4CHAH": {
           "type": "button",
           "settings": {
-            "button_label": "WATCH THE VIDEO",
-            "button_link": "shopify://pages/passover-starter-collection",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify://collections/tea-pots",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "text_xHMzDd",
         "heading_QxUgV3",
+        "text_xHMzDd",
         "caption_xVQmqk",
         "button_T4CHAH"
       ],
       "settings": {
-        "image": "shopify://shop_images/video-passover-cover.jpg",
+        "image": "shopify://shop_images/teapot.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
