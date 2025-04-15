@@ -197,7 +197,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify://collections/tea-pots",
+            "button_link": "shopify://collections/teapots-of-faith-comfort",
             "button_style_secondary": false
           }
         }
