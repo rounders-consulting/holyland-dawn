@@ -173,21 +173,21 @@
         "heading_QxUgV3": {
           "type": "heading",
           "settings": {
-            "heading": "BRING Peace & Purpose",
+            "heading": "52 Hebrew Words",
             "heading_size": "h1"
           }
         },
         "text_xHMzDd": {
           "type": "text",
           "settings": {
-            "text": "<h2>TO EVERY POUR</h2>",
+            "text": "<h2>STUDY OF HEBREW WORDS</h2>",
             "text_style": "body"
           }
         },
         "caption_xVQmqk": {
           "type": "caption",
           "settings": {
-            "caption": "Beautifully crafted ceramic teapots feature hand-picked Bible verses and faith-inspired designs.",
+            "caption": "An outstanding reference tool and study guide. The words are written in Hebrew and explained in English. Each word is given an in-depth definition, explanation, historic use, and complemented by a stunning photograph. ",
             "text_style": "subtitle",
             "text_size": "medium"
           }
@@ -208,7 +208,7 @@
         "button_T4CHAH"
       ],
       "settings": {
-        "image": "shopify://shop_images/teapot.webp",
+        "image": "shopify://shop_images/52hebrewWords.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
