@@ -86,7 +86,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "AHAVA BEAUTY - <em>NOW 20-55% OFF</em>",
+        "title": "AHAVA BEAUTY - <em>Up to 50% OFF</em>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -114,12 +114,12 @@
     "featured_collection_nT7KPh": {
       "type": "featured-collection",
       "settings": {
-        "title": "COMPLETE JEWISH BIBLE - <em>SAVE 20-30%</em>",
+        "title": "Earrings - <em>SAVE up to 50%</em>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "books-bibles-bibles-complete-jewish-bible",
+        "collection": "jewelry-hers-earrings",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
