@@ -142,7 +142,7 @@
     "featured_collection_zdGzQU": {
       "type": "featured-collection",
       "settings": {
-        "title": "BIBLE COVERS -<em> SAVE 20%</em>",
+        "title": "BIBLE COVERS -<em> SAVE up to 50%</em>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -226,12 +226,12 @@
     "featured_collection_xAHjR6": {
       "type": "featured-collection",
       "settings": {
-        "title": "MEANINGFUL MUGS - <em>With an extra 20% off at checkout!</em>",
+        "title": "Teapots - SAVE up to 50%",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "coffee-mug",
+        "collection": "teapots-of-faith-comfort",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -254,12 +254,12 @@
     "featured_collection_GU4LgW": {
       "type": "featured-collection",
       "settings": {
-        "title": "SHOFARS - <em>NOW 20-50% OFF</em>",
+        "title": "Rings - <em>SAVE up to 50% OFF</em>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "judaica-shofars",
+        "collection": "jewelry-hers-rings",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
