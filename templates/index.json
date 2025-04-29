@@ -33,7 +33,7 @@
         "slide_paYK8P": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/MothersDay-perfume-home.webp",
+            "image": "shopify://shop_images/MothersDay-perfume-home2.webp",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -51,12 +51,12 @@
         "slide_wbUrKr": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/mezuzahs-2025.jpg",
+            "image": "shopify://shop_images/MothersDay-teapots-home.webp",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/judaica-mezuzahs",
+            "link": "shopify://collections/teapots-of-faith-comfort",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
