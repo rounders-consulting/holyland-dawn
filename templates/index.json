@@ -196,7 +196,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify://collections/teapots-of-faith-comfort",
+            "button_link": "shopify://products/52-hebrew-words",
             "button_style_secondary": false
           }
         }
