@@ -320,8 +320,8 @@
         "featured_collection_bMVLfL": {
           "type": "featured_collection",
           "settings": {
-            "collection": "books-bibles-collections-devotionals-journals",
-            "collection_title": "Devotionals & Journals"
+            "collection": "journals",
+            "collection_title": "Journals"
           }
         },
         "featured_collection_T9NCrV": {
