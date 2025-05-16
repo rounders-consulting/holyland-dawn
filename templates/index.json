@@ -32,14 +32,13 @@
         },
         "slide_wbUrKr": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/MothersDay-teapots-home.webp",
+            "image": "shopify://shop_images/fathersDay-ahava.webp",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/teapots-of-faith-comfort",
+            "link": "shopify://collections/bath-body-ahava-mens",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
