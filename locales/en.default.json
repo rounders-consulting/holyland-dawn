@@ -543,7 +543,9 @@
         "errors": {
           "tip": {
             "not_accepted_by_shop": "Shop does not accept donations.",
-            "only_one_tip_line_allowed": "Multiple donation lines are not supported."
+            "only_one_tip_line_allowed": "Multiple donation lines are not supported.",
+            "tips_not_allowed_for_b2b": "Donations are not allowed in B2B stores.",
+            "currency_change_reset": "Donation has been reset due to currency change."
           }
         }
       }
