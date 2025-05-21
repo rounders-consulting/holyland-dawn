@@ -537,7 +537,7 @@
   "shopify": {
     "checkout": {
       "order_summary": {
-        "tip_label": "Donation to HolyLand Marketplace"
+        "tip_label": "Donation"
       },
       "general": {
         "errors": {
