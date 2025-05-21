@@ -537,7 +537,7 @@
   "shopify": {
     "checkout": {
       "order_summary": {
-        "tip_label": "Donate to our Ministries"
+        "tip_label": "Donation to HolyLand Marketplace"
       },
       "general": {
         "errors": {
@@ -545,9 +545,18 @@
             "not_accepted_by_shop": "Shop does not accept donations.",
             "only_one_tip_line_allowed": "Multiple donation lines are not supported.",
             "tips_not_allowed_for_b2b": "Donations are not allowed in B2B stores.",
-            "currency_change_reset": "Donation has been reset due to currency change."
+            "currency_change_reset": "Donation has been reset due to currency change.",
+            "tips_not_allowed_for_deferred_purchase_options": "Donations are not yet supported for deffered purchase options"
           }
         }
+      },
+      "tips": {
+        "title": "Add Donation",
+        "presets_description": "Select a donation percentage",
+        "custom_label": "Custom donation",
+        "add_tip": "Add donation",
+        "update_tip": "Update donation",
+        "preset_label": "{{ donation_percent }}%"
       }
     }
   }
