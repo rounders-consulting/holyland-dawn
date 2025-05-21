@@ -538,6 +538,14 @@
     "checkout": {
       "order_summary": {
         "tip_label": "Donate to our Ministries"
+      },
+      "general": {
+        "errors": {
+          "tip": {
+            "not_accepted_by_shop": "Shop does not accept donations.",
+            "only_one_tip_line_allowed": "Multiple donation lines are not supported."
+          }
+        }
       }
     }
   }
