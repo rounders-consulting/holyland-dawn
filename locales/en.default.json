@@ -557,7 +557,7 @@
         "add_tip": "Add donation",
         "update_tip": "Update donation",
         "preset_label": "{{ donation_percent }}%",
-        "description": "Invest in the lives of Jewish believers"
+        "description": "Help make an impact"
       }
     }
   }
