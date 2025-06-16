@@ -86,12 +86,12 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "GIFT IDEAS FOR FATHER'S DAY",
+        "title": "MEN'S & WOMEN'S FRAGRANCES",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "for-him",
+        "collection": "bath-body-fragrances",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -114,12 +114,12 @@
     "featured_collection_nT7KPh": {
       "type": "featured-collection",
       "settings": {
-        "title": "JEWELRY FOR DAD - <em>SAVE up to 30%</em>",
+        "title": "JEWELRY - <em>SAVE up to 30%</em>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "jewelry-his",
+        "collection": "nav-jewelry",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -142,12 +142,12 @@
     "featured_collection_zdGzQU": {
       "type": "featured-collection",
       "settings": {
-        "title": "PRAYER SHAWLS -<em> Now up to 35% Off</em>",
+        "title": "EXCLUSIVE WALL ART",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "judaica-prayer-shawls",
+        "collection": "wall-art-1",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -226,12 +226,12 @@
     "featured_collection_xAHjR6": {
       "type": "featured-collection",
       "settings": {
-        "title": "JOURNALS & DEVOTIONALS FOR HIM",
+        "title": "PRAYER JOURNALS",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "devotionals-journals-for-men",
+        "collection": "journals",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
