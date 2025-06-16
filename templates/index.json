@@ -15,12 +15,12 @@
         "slide_paYK8P": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/fathersDay-generic.webp",
+            "image": "shopify://shop_images/mezuzahs-2025.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/for-him",
+            "link": "shopify://collections/mezuzah",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -33,12 +33,12 @@
         "slide_wbUrKr": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/fathersDay-ahava.webp",
+            "image": "shopify://shop_images/ahava-spring.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/bath-body-ahava-mens",
+            "link": "shopify://collections/bath-body-ahava",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
