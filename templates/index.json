@@ -142,12 +142,12 @@
     "featured_collection_zdGzQU": {
       "type": "featured-collection",
       "settings": {
-        "title": "EXCLUSIVE WALL ART",
+        "title": "FOOD GIFT SETS",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "wall-art-1",
+        "collection": "food-gift-sets",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
