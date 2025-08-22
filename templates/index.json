@@ -12,15 +12,15 @@
     "slideshow_xz6dgG": {
       "type": "slideshow",
       "blocks": {
-        "slide_paYK8P": {
+        "slide_wbUrKr": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/summerSabbath-homepage.webp",
+            "image": "shopify://shop_images/hlmp-jewelry-homepage-2025.webp",
             "heading": "",
-            "heading_size": "h2",
+            "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/holiday-sabbath",
+            "link": "shopify://collections/nav-jewelry",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -30,15 +30,15 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_wbUrKr": {
+        "slide_paYK8P": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/ahava-spring.jpg",
+            "image": "shopify://shop_images/summerSabbath-homepage.webp",
             "heading": "",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/bath-body-ahava",
+            "link": "shopify://collections/holiday-sabbath",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -68,8 +68,8 @@
         }
       },
       "block_order": [
-        "slide_paYK8P",
         "slide_wbUrKr",
+        "slide_paYK8P",
         "slide_YG9grP"
       ],
       "settings": {
