@@ -12,6 +12,24 @@
     "slideshow_xz6dgG": {
       "type": "slideshow",
       "blocks": {
+        "slide_YG9grP": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/hlmp-yomTeruah-2025.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/judaica-shofars",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_wbUrKr": {
           "type": "slide",
           "settings": {
@@ -47,30 +65,12 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_YG9grP": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/fathersDay-shawls.webp",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/judaica-prayer-shawls",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
+        "slide_YG9grP",
         "slide_wbUrKr",
-        "slide_paYK8P",
-        "slide_YG9grP"
+        "slide_paYK8P"
       ],
       "settings": {
         "layout": "full_bleed",
