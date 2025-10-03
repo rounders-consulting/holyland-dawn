@@ -143,12 +143,12 @@
     "featured_collection_GU4LgW": {
       "type": "featured-collection",
       "settings": {
-        "title": "BIBLES",
+        "title": "ARMENIAN CERAMICS - <em>SAVE up to 40%</em>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "books-bibles-bibles",
+        "collection": "ceramics-armenian-ceramics",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
