@@ -14,14 +14,13 @@
       "blocks": {
         "slide_YG9grP": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/hlmp-homepage-syomkippur.webp",
+            "image": "shopify://shop_images/hlmp-banner-sukkot2025.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/gifts-home-candlesticks-candles",
+            "link": "shopify://collections/judaica-prayer-shawls",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
