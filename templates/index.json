@@ -30,6 +30,24 @@
             "text_alignment_mobile": "center"
           }
         },
+        "slide_paYK8P": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/hlmp-armenian-sukkot-2025.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/ceramics-armenian-ceramics",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_wbUrKr": {
           "type": "slide",
           "settings": {
@@ -47,30 +65,12 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_paYK8P": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/summerSabbath-homepage.webp",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/holiday-sabbath",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
         "slide_YG9grP",
-        "slide_wbUrKr",
-        "slide_paYK8P"
+        "slide_paYK8P",
+        "slide_wbUrKr"
       ],
       "settings": {
         "layout": "full_bleed",
