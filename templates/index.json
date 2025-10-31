@@ -14,7 +14,6 @@
       "blocks": {
         "slide_f3wYLb": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Red_Black_and_Yellow_Modern_Black_Friday_Sale_Banner_Landscape.png",
             "heading": "",
@@ -33,6 +32,7 @@
         },
         "slide_YG9grP": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/hlmp-banner-sukkot2025.jpg",
             "heading": "",
@@ -51,6 +51,7 @@
         },
         "slide_paYK8P": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/hlmp-armenian-sukkot-2025.jpg",
             "heading": "",
@@ -69,6 +70,7 @@
         },
         "slide_wbUrKr": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/hlmp-olivewood-sukkot-2025.jpg",
             "heading": "",
