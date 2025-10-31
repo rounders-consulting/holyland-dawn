@@ -248,34 +248,6 @@
         "padding_bottom": 4
       }
     },
-    "featured_collection_xAHjR6": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "HAND WOVEN TALLIT - <em>SAVE up to 40%</em>",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "judaica-prayer-shawls-gabrieli-hand-woven",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "standard",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 28,
-        "padding_bottom": 4
-      }
-    },
     "image_with_text_yfWcWY": {
       "type": "image-with-text",
       "blocks": {
@@ -330,6 +302,34 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "featured_collection_xAHjR6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "HAND WOVEN TALLIT - <em>SAVE up to 40%</em>",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "judaica-prayer-shawls-gabrieli-hand-woven",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 28,
+        "padding_bottom": 4
       }
     },
     "featured_collection_zdGzQU": {
@@ -605,10 +605,10 @@
     "featured_collection_TeMm39",
     "featured_collection_tQC6fA",
     "featured_collection_QRYYq4",
+    "image_with_text_yfWcWY",
     "featured_collection_GU4LgW",
     "featured_collection_nT7KPh",
     "featured_collection_xAHjR6",
-    "image_with_text_yfWcWY",
     "featured_collection_zdGzQU",
     "collection_list_6F9RBW",
     "featured_collection_7BMWX6",
