@@ -16,14 +16,14 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/HLMP_Holiday_Storewide_Sale_2025_Final_for_Post_on_HLMP.jpg",
-            "heading": "Storewide Sale",
+            "heading": "",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "subheading": "",
+            "button_label": "",
             "link": "shopify://collections/holiday-gift-deals-2025",
             "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
+            "box_align": "bottom-center",
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-1",
@@ -32,6 +32,7 @@
         },
         "slide_f3wYLb": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/HLMP_-_Black_Friday_-_Red_Black_and_Yellow_Modern_Banner_Landscape_2.png",
             "heading": "",
