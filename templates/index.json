@@ -12,6 +12,24 @@
     "slideshow_xz6dgG": {
       "type": "slideshow",
       "blocks": {
+        "slide_tK8PRt": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/HLMP_Holiday_Storewide_Sale_2025_Final_for_Post_on_HLMP.jpg",
+            "heading": "Storewide Sale",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "shopify://collections/holiday-gift-deals-2025",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_f3wYLb": {
           "type": "slide",
           "settings": {
@@ -89,6 +107,7 @@
         }
       },
       "block_order": [
+        "slide_tK8PRt",
         "slide_f3wYLb",
         "slide_YG9grP",
         "slide_paYK8P",
