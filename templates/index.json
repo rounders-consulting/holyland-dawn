@@ -218,8 +218,8 @@
         "heading_QxUgV3": {
           "type": "heading",
           "settings": {
-            "heading": "52 Hebrew Words",
-            "heading_size": "h1"
+            "heading": "52 Names of God",
+            "heading_size": "h0"
           }
         },
         "text_xHMzDd": {
@@ -232,7 +232,7 @@
         "caption_xVQmqk": {
           "type": "caption",
           "settings": {
-            "caption": "An outstanding reference tool and study guide. The words are written in Hebrew and explained in English. Each word is given an in-depth definition, explanation, historic use, and complemented by a stunning photograph. ",
+            "caption": "An outstanding reference tool and study guide. The names are written in Hebrew and explained in English. Each name is given an in-depth definition, explanation, historic use, and complemented by a stunning photograph. ",
             "text_style": "subtitle",
             "text_size": "medium"
           }
@@ -241,7 +241,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify://products/52-hebrew-words",
+            "button_link": "shopify://products/52-names-of-god-in-hebrew-every-christian-should-know-stone-gray-faux-leather-gift-book",
             "button_style_secondary": false
           }
         }
@@ -253,7 +253,7 @@
         "button_T4CHAH"
       ],
       "settings": {
-        "image": "shopify://shop_images/52hebrewWords.jpg",
+        "image": "shopify://shop_images/GB282_6--featureB.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
