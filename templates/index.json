@@ -32,9 +32,8 @@
         },
         "slide_f3wYLb": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/HLMP_-_Black_Friday_-_Red_Black_and_Yellow_Modern_Banner_Landscape_2.png",
+            "image": "shopify://shop_images/Website_Banner.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
