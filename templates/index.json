@@ -12,24 +12,6 @@
     "slideshow_xz6dgG": {
       "type": "slideshow",
       "blocks": {
-        "slide_f3wYLb": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Website_Banner.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "https://holylandmarketplace.com/collections/black-friday-2025",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_tK8PRt": {
           "type": "slide",
           "settings": {
@@ -41,6 +23,24 @@
             "link": "shopify://collections/20-off-storewide",
             "button_style_secondary": false,
             "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_f3wYLb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Website_Banner.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "https://holylandmarketplace.com/collections/black-friday-2025",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
@@ -107,8 +107,8 @@
         }
       },
       "block_order": [
-        "slide_f3wYLb",
         "slide_tK8PRt",
+        "slide_f3wYLb",
         "slide_YG9grP",
         "slide_paYK8P",
         "slide_wbUrKr"
