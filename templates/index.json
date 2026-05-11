@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/HLMP_Spring_Sale_Website_Banner.png",
             "heading": "",
-            "heading_size": "h1",
+            "heading_size": "hxl",
             "subheading": "",
             "button_label": "",
             "link": "shopify://collections/20-off-storewide",
