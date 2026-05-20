@@ -12,24 +12,6 @@
     "slideshow_xz6dgG": {
       "type": "slideshow",
       "blocks": {
-        "slide_tK8PRt": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/HLMP_Spring_Sale_Website_Banner.png",
-            "heading": "",
-            "heading_size": "hxl",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/20-off-storewide",
-            "button_style_secondary": false,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_YG9grP": {
           "type": "slide",
           "settings": {
@@ -41,6 +23,24 @@
             "link": "shopify://collections/books-bibles-bibles-complete-jewish-bible",
             "button_style_secondary": false,
             "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_tK8PRt": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/HLMP_Spring_Sale_Website_Banner.png",
+            "heading": "",
+            "heading_size": "hxl",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/20-off-storewide",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
@@ -88,8 +88,8 @@
         }
       },
       "block_order": [
-        "slide_tK8PRt",
         "slide_YG9grP",
+        "slide_tK8PRt",
         "slide_paYK8P",
         "slide_wbUrKr"
       ],
