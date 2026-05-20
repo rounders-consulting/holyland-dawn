@@ -35,7 +35,7 @@
           "settings": {
             "image": "shopify://shop_images/Complete_Jewish_Bible_Banner.png",
             "heading": "",
-            "heading_size": "h1",
+            "heading_size": "hxxl",
             "subheading": "",
             "button_label": "",
             "link": "shopify://collections/judaica-prayer-shawls",
