@@ -9,121 +9,6 @@
  */
 {
   "sections": {
-    "slideshow_xz6dgG": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_3VFqYe": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Complete_Jewish_Bible_Banner.png",
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_tK8PRt": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/HLMP_Spring_Sale_Website_Banner.png",
-            "heading": "",
-            "heading_size": "hxl",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/20-off-storewide",
-            "button_style_secondary": false,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_YG9grP": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/hlmp-banner-sukkot2025.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/judaica-prayer-shawls",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_paYK8P": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/hlmp-armenian-sukkot-2025.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/ceramics-armenian-ceramics",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_wbUrKr": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/hlmp-olivewood-sukkot-2025.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/olive-wood-serving-kitchen",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_3VFqYe",
-        "slide_tK8PRt",
-        "slide_YG9grP",
-        "slide_paYK8P",
-        "slide_wbUrKr"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "dots",
-        "auto_rotate": true,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": false,
-        "accessibility_info": "Holyland Marketplace Welcomes You"
-      }
-    },
     "featured_collection_qXxnxF": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
@@ -708,7 +593,6 @@
     }
   },
   "order": [
-    "slideshow_xz6dgG",
     "featured_collection_qXxnxF",
     "featured_collection_xAHjR6",
     "featured_collection_7BMWX6",
