@@ -30,29 +30,11 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_tK8PRt": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/HLMP_Holiday_Storewide_Sale_2026_70_Off.png",
-            "heading": "",
-            "heading_size": "h0",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/20-off-storewide",
-            "button_style_secondary": false,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_paYK8P": {
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/hlmp-armenian-sukkot-2025.jpg",
+            "image": "shopify://shop_images/HLMP_Holiday_Storewide_Sale_2026_70_Off.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -89,7 +71,6 @@
       },
       "block_order": [
         "slide_YG9grP",
-        "slide_tK8PRt",
         "slide_paYK8P",
         "slide_wbUrKr"
       ],
