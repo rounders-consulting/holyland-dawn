@@ -32,11 +32,10 @@
         },
         "slide_paYK8P": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/HLMP_Holiday_Storewide_Sale_2026_70_Off.png",
             "heading": "",
-            "heading_size": "h2",
+            "heading_size": "h1",
             "subheading": "",
             "button_label": "",
             "link": "shopify://collections/ceramics-armenian-ceramics",
