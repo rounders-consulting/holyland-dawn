@@ -48,24 +48,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_MBACdn": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_Jun_26_2026_09_40_57_AM_90ed0697-5ac9-4fbf-8b6f-266bc72f8e99.png",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "Shop All Anointing Oil",
-            "link": "shopify://collections/ein-gedi-anointing-oil",
-            "button_style_secondary": false,
-            "box_align": "bottom-right",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_wbUrKr": {
           "type": "slide",
           "disabled": true,
@@ -89,7 +71,6 @@
       "block_order": [
         "slide_paYK8P",
         "slide_YG9grP",
-        "slide_MBACdn",
         "slide_wbUrKr"
       ],
       "settings": {
