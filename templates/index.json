@@ -375,7 +375,7 @@
         "featured_collection_MJGgCD": {
           "type": "featured_collection",
           "settings": {
-            "collection": "books-bibles-bibles",
+            "collection": "bible",
             "collection_title": "All Bibles"
           }
         },
