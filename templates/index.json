@@ -14,6 +14,7 @@
       "blocks": {
         "slide_xmKQFa": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "heading": "Image slide",
             "heading_size": "h1",
