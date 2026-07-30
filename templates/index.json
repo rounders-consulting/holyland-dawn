@@ -14,6 +14,7 @@
       "blocks": {
         "slide_paYK8P": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Website_Banner_Summer_Savings_2048_x_600.png",
             "heading": "",
