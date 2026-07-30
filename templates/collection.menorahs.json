@@ -17,6 +17,37 @@
         "color_scheme": "scheme-1"
       }
     },
+    "rich_text_kmC7i7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_AjgGAN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Menorahs for Tradition, Worship & Celebration",
+            "heading_size": "h1"
+          }
+        },
+        "text_MKDRKY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Explore traditional and decorative menorahs for Hanukkah, worship, meaningful home décor, and thoughtful Judaica gifts. Discover classic brass designs, artistic styles, and menorahs inspired by the heritage of Israel.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_AjgGAN",
+        "text_MKDRKY"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -40,6 +71,7 @@
   },
   "order": [
     "banner",
+    "rich_text_kmC7i7",
     "product-grid"
   ]
 }
