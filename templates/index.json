@@ -12,15 +12,14 @@
     "slideshow_xz6dgG": {
       "type": "slideshow",
       "blocks": {
-        "slide_JhjAei": {
+        "slide_xmKQFa": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Prayer_Shawl_Banner.png",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
-            "button_label": "Shop Prayer Shawls",
-            "link": "shopify://collections/tallit-prayer-shawl-all",
+            "button_label": "Button label",
+            "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -71,7 +70,7 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/hlmp-olivewood-sukkot-2025.jpg",
+            "image": "shopify://shop_images/Prayer_Shawl_Banner.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -88,7 +87,7 @@
         }
       },
       "block_order": [
-        "slide_JhjAei",
+        "slide_xmKQFa",
         "slide_paYK8P",
         "slide_YG9grP",
         "slide_wbUrKr"
