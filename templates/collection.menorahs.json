@@ -48,6 +48,60 @@
         "padding_bottom": 52
       }
     },
+    "multicolumn_qRDn8x": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_97QLWK": {
+          "type": "column",
+          "settings": {
+            "title": "Hanukkah Menorahs",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_F96zNt": {
+          "type": "column",
+          "settings": {
+            "title": "Seven-Branch Menorahs",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8nge9G": {
+          "type": "column",
+          "settings": {
+            "title": "Brass Menorahs",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_97QLWK",
+        "column_F96zNt",
+        "column_8nge9G"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Shop Menorahs by Type",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -72,6 +126,7 @@
   "order": [
     "banner",
     "rich_text_kmC7i7",
+    "multicolumn_qRDn8x",
     "product-grid"
   ]
 }
