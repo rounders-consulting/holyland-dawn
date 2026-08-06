@@ -74,8 +74,9 @@
         "column_8nge9G": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/MN283-6.25-Polished-Brass-Temple-Menorah-1.webp",
             "title": "Brass Menorahs",
-            "text": "",
+            "text": "<p>Classic brass menorahs in traditional and decorative designs for the home.</p>",
             "link_label": "",
             "link": ""
           }
