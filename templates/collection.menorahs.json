@@ -64,8 +64,9 @@
         "column_F96zNt": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/MN826-5.5-Polished-Brass-Menorah-1.webp",
             "title": "Seven-Branch Menorahs",
-            "text": "",
+            "text": "<p>Traditional seven-branched menorahs inspired by the ancient Temple menorah.</p>",
             "link_label": "",
             "link": ""
           }
