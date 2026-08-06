@@ -124,12 +124,75 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collapsible_content_RMfcDX": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_NM8kMm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the difference between a menorah and a hanukkiah?",
+            "icon": "check_mark",
+            "row_content": "<p>A traditional menorah has seven branches and is associated with the ancient Temple in Jerusalem. A hanukkiah is the nine-branched Hanukkah menorah used during the eight nights of Hanukkah, with one additional light called the shamash.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_3kPKbf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_TWxzFT": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_ULeYqL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_NM8kMm",
+        "collapsible_row_3kPKbf",
+        "collapsible_row_TWxzFT",
+        "collapsible_row_ULeYqL"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "Menorah & Hanukkiah Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "banner",
     "rich_text_kmC7i7",
     "multicolumn_qRDn8x",
-    "product-grid"
+    "product-grid",
+    "collapsible_content_RMfcDX"
   ]
 }
