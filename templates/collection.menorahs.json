@@ -186,6 +186,49 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_MipFar": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HPTCxd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Menorahs and Hanukkiahs for Your Home",
+            "heading_size": "h1"
+          }
+        },
+        "text_KyHdDw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Explore our collection of traditional and decorative menorahs, including nine-branched Hanukkah menorahs—also known as hanukkiahs—and seven-branched Temple-style menorahs. Choose from classic brass finishes, artistic designs, compact styles, and meaningful Judaica gifts.<br/><br/>The seven-branched menorah is associated with the ancient Temple in Jerusalem and remains a recognized symbol of Jewish heritage. A Hanukkah menorah, or hanukkiah, has nine lights: eight for the nights of Hanukkah and an additional light known as the shamash.<br/><br/>When choosing a menorah, review the number of branches, dimensions, material, finish, and candle or oil-cup compatibility shown on the individual product page.</p>"
+          }
+        },
+        "button_hqRR8w": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HPTCxd",
+        "text_KyHdDw",
+        "button_hqRR8w"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -193,6 +236,7 @@
     "rich_text_kmC7i7",
     "multicolumn_qRDn8x",
     "product-grid",
-    "collapsible_content_RMfcDX"
+    "collapsible_content_RMfcDX",
+    "rich_text_MipFar"
   ]
 }
