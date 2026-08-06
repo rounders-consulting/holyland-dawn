@@ -140,9 +140,9 @@
         "collapsible_row_3kPKbf": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How many branches does a Hanukkah menorah have?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>A Hanukkah menorah, also called a hanukkiah, has nine branches. Eight lights represent the eight nights of Hanukkah, and the ninth light is the shamash used to light the others.</p>",
             "page": ""
           }
         },
