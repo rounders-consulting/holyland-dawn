@@ -1,24 +1,35 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
+    "custom_liquid_yeU7RV": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\">\n  <h1 class=\"h1\" style=\"text-align: center;\">About Us</h1>\n</div>",
+        "color_scheme": "",
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
     "rich_text_G7TeTq": {
       "type": "rich-text",
       "blocks": {
-        "heading_nzYwKF": {
-          "type": "heading",
-          "settings": {
-            "heading": "About Us",
-            "heading_size": "h1"
-          }
-        },
         "text_QVQ74d": {
           "type": "text",
           "settings": {
-            "text": "<p>Holyland Marketplace has been dedicated to supporting the Jewish people since 2004. As a faith-based, non-denominational, and non-profit organization, we are incorporated in the State of Florida and registered with the IRS as a 501 c3 non-profit charitable corporation.<\/p><p>Our sole purpose is to demonstrate Christian and Messianic support and comfort for the Jewish people of Israel by providing a market and sales channel for their quality products. We source our products from talented and industrious Israelis who craft, produce, or distribute them. We purchase these products outright and ship them from Israel to our central Florida warehouse. Our dedicated staff ensures that all orders are processed accurately, items are fully inspected for quality, and are shipped in a timely manner.<\/p><p>Our warehouse and shipping facilities in Florida are provided at no charge. The proceeds from our sales are used to help our many Israeli vendors expand their businesses, employ more people, produce new and different items for our customers' enjoyment, and support Jewish families in the Holyland. We do not use the profits from our sales to fund any of our other four ministries.<\/p><p>At Holyland Marketplace, we are committed to providing exceptional service and high-quality products while supporting the Jewish people of Israel.<\/p>"
+            "text": "<p>Holyland Marketplace has been dedicated to supporting the Jewish people since 2004. As a faith-based, non-denominational, and non-profit organization, we are incorporated in the State of Florida and registered with the IRS as a 501 c3 non-profit charitable corporation.</p><p>Our sole purpose is to demonstrate Christian and Messianic support and comfort for the Jewish people of Israel by providing a market and sales channel for their quality products. We source our products from talented and industrious Israelis who craft, produce, or distribute them. We purchase these products outright and ship them from Israel to our central Florida warehouse. Our dedicated staff ensures that all orders are processed accurately, items are fully inspected for quality, and are shipped in a timely manner.</p><p>Our warehouse and shipping facilities in Florida are provided at no charge. The proceeds from our sales are used to help our many Israeli vendors expand their businesses, employ more people, produce new and different items for our customers' enjoyment, and support Jewish families in the Holyland. We do not use the profits from our sales to fund any of our other four ministries.</p><p>At Holyland Marketplace, we are committed to providing exceptional service and high-quality products while supporting the Jewish people of Israel.</p>"
           }
         }
       },
       "block_order": [
-        "heading_nzYwKF",
         "text_QVQ74d"
       ],
       "settings": {
@@ -36,8 +47,8 @@
         "heading": "Our Vision & Mission",
         "heading_size": "h1",
         "enable_video_looping": false,
-        "video_url": "https:\/\/youtu.be\/NAfNyI-bBK0?si=pxXPJn6COdUJ8sGi",
-        "cover_image": "shopify:\/\/shop_images\/youtube_tom.jpg",
+        "video_url": "https://youtu.be/NAfNyI-bBK0?si=pxXPJn6COdUJ8sGi",
+        "cover_image": "shopify://shop_images/youtube_tom.jpg",
         "description": "Video detailing the origins of Holyland Marketplace",
         "full_width": false,
         "color_scheme": "",
@@ -58,13 +69,12 @@
         "paragraph_8bdjik": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
           }
         },
         "email_form_be4b9f": {
           "type": "email_form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -85,21 +95,21 @@
         "heading_zxdC3n": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Charitable Donations are greatly welcomed!<\/strong>",
+            "heading": "<strong>Charitable Donations are greatly welcomed!</strong>",
             "heading_size": "h1"
           }
         },
         "text_TXAHbm": {
           "type": "text",
           "settings": {
-            "text": "<p>All donations go directly to add more Israeli vendors, buy more Israeli products, and to support their families in time of need.<\/p>"
+            "text": "<p>All donations go directly to add more Israeli vendors, buy more Israeli products, and to support their families in time of need.</p>"
           }
         },
         "button_YMp49b": {
           "type": "button",
           "settings": {
             "button_label": "Donate Now!",
-            "button_link": "https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_s-xclick&hosted_button_id=C47ED6DSY7GKE",
+            "button_link": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C47ED6DSY7GKE",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -134,7 +144,7 @@
         "text_jG4aLF": {
           "type": "text",
           "settings": {
-            "text": "<p>Here is a link to a truly unique Bible Study Website that has a heart for Israel, a trust in Our Messiah, and a desire to teach the truth of God’s Word. We think you will enjoy it.<\/p>",
+            "text": "<p>Here is a link to a truly unique Bible Study Website that has a heart for Israel, a trust in Our Messiah, and a desire to teach the truth of God’s Word. We think you will enjoy it.</p>",
             "text_style": "body"
           }
         },
@@ -142,7 +152,7 @@
           "type": "button",
           "settings": {
             "button_label": "Explore Now!",
-            "button_link": "https:\/\/torahclass.com",
+            "button_link": "https://torahclass.com",
             "button_style_secondary": false
           }
         }
@@ -153,7 +163,7 @@
         "button_Fi7Tic"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Torah_Class_Logo_2021.png",
+        "image": "shopify://shop_images/Torah_Class_Logo_2021.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -178,6 +188,7 @@
     }
   },
   "order": [
+    "custom_liquid_yeU7RV",
     "rich_text_G7TeTq",
     "video_CzYTm4",
     "newsletter_7gertA",
