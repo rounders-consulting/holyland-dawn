@@ -238,64 +238,8 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "section_color_scheme": "scheme-2334e1bb-b126-4ccc-a390-00b834accc20",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_yfWcWY": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_QxUgV3": {
-          "type": "heading",
-          "settings": {
-            "heading": "52 Names of God",
-            "heading_size": "h0"
-          }
-        },
-        "text_xHMzDd": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>EVERY CHRISTIAN SHOULD KNOW</h2>",
-            "text_style": "body"
-          }
-        },
-        "caption_xVQmqk": {
-          "type": "caption",
-          "settings": {
-            "caption": "An outstanding reference tool and study guide. The names are written in Hebrew and explained in English. Each name is given an in-depth definition, explanation, historic use, and complemented by a stunning photograph. ",
-            "text_style": "subtitle",
-            "text_size": "medium"
-          }
-        },
-        "button_T4CHAH": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOP NOW",
-            "button_link": "shopify://products/52-names-of-god-in-hebrew-every-christian-should-know-stone-gray-faux-leather-gift-book",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_QxUgV3",
-        "text_xHMzDd",
-        "caption_xVQmqk",
-        "button_T4CHAH"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/GB282_6--featureB.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "bottom",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-3",
-        "color_scheme": "scheme-3",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -356,6 +300,62 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_yfWcWY": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_QxUgV3": {
+          "type": "heading",
+          "settings": {
+            "heading": "52 Names of God",
+            "heading_size": "h0"
+          }
+        },
+        "text_xHMzDd": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>EVERY CHRISTIAN SHOULD KNOW</h2>",
+            "text_style": "body"
+          }
+        },
+        "caption_xVQmqk": {
+          "type": "caption",
+          "settings": {
+            "caption": "An outstanding reference tool and study guide. The names are written in Hebrew and explained in English. Each name is given an in-depth definition, explanation, historic use, and complemented by a stunning photograph. ",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        },
+        "button_T4CHAH": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify://products/52-names-of-god-in-hebrew-every-christian-should-know-stone-gray-faux-leather-gift-book",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QxUgV3",
+        "text_xHMzDd",
+        "caption_xVQmqk",
+        "button_T4CHAH"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/GB282_6--featureB.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-3",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
