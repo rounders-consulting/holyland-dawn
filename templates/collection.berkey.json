@@ -114,8 +114,9 @@
         "column_fhNJqd": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/Imperial_Berkey.webp",
+            "title": "Imperial Berkey® System",
+            "text": "<p>Large-capacity 4.5-gallon gravity-fed system for 4–8 people. Comes standard with 2 Black Berkey® Elements and can be expanded to 4 or 6 elements for greater filtration capacity.</p>",
             "link_label": "",
             "link": ""
           }
