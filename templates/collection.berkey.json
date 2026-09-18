@@ -71,6 +71,34 @@
     "multicolumn_KctynV": {
       "type": "multicolumn",
       "blocks": {
+        "column_AEtNJP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Go_Berkey.webp",
+            "title": "Go Berkey® Kit",
+            "text": "<p>Compact gravity-fed filtration for 1–2 people. Holds 1 quart and filters up to 1 gallon per hour. Ideal for personal use, travel, and smaller spaces.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_eaHmmE": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EXiGRm": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_9fR3Bg": {
           "type": "column",
           "settings": {
@@ -100,6 +128,9 @@
         }
       },
       "block_order": [
+        "column_AEtNJP",
+        "column_eaHmmE",
+        "column_EXiGRm",
         "column_9fR3Bg",
         "column_fhNJqd",
         "column_hEnXxc"
