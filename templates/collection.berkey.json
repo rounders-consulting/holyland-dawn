@@ -317,15 +317,6 @@
     "collapsible_content_HBFjJb": {
       "type": "collapsible-content",
       "blocks": {
-        "collapsible_row_MhcH8Y": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "How does a Berkey® water filter work?",
-            "icon": "check_mark",
-            "row_content": "<p>Berkey® systems use gravity to move water from the upper chamber through the filter elements into the lower chamber. No electricity or permanent plumbing is required, making the system simple to use on a countertop or other stable surface.</p>",
-            "page": ""
-          }
-        },
         "collapsible_row_MKrBVa": {
           "type": "collapsible_row",
           "settings": {
@@ -352,13 +343,52 @@
             "row_content": "<p>No. Berkey® gravity-fed systems do not require electricity, water pressure, or permanent plumbing. Water is poured into the upper chamber and gravity moves it through the filtration elements into the lower chamber for dispensing.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_MhcH8Y": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does a Berkey® water filter work?",
+            "icon": "check_mark",
+            "row_content": "<p>Berkey® systems use gravity to move water from the upper chamber through the filter elements into the lower chamber. No electricity or permanent plumbing is required, making the system simple to use on a countertop or other stable surface.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_mgJPEL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can Black Berkey® Elements be cleaned?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes. Black Berkey® Elements can be cleaned during their service life when flow begins to slow. Berkey recommends replacing them at approximately 3,000 gallons per element, or 6,000 gallons per set of two, depending on source-water quality and usage.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_EErzWY": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are Berkey® PF-2 elements used for?",
+            "icon": "check_mark",
+            "row_content": "<p>Berkey® PF-2 Fluoride and Arsenic Reduction Elements are optional secondary filters designed to work with Black Berkey® Elements. They attach beneath the Black Berkey® Elements in the lower chamber and are intended for added fluoride and arsenic reduction.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_yjUdFC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I maintain a Berkey® system?",
+            "icon": "check_mark",
+            "row_content": "<p>Routine maintenance includes cleaning the lower chamber and spigot, checking the filter elements, and keeping the system free of mineral buildup. Berkey recommends periodic cleaning as needed based on use and water conditions.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
-        "collapsible_row_MhcH8Y",
         "collapsible_row_MKrBVa",
         "collapsible_row_r34nVH",
-        "collapsible_row_YfX7zM"
+        "collapsible_row_YfX7zM",
+        "collapsible_row_MhcH8Y",
+        "collapsible_row_mgJPEL",
+        "collapsible_row_EErzWY",
+        "collapsible_row_yjUdFC"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
