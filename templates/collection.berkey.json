@@ -300,6 +300,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/rv-system-shot-940x940__55709.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
