@@ -84,8 +84,9 @@
         "column_eaHmmE": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/Travel_Berkey.webp",
+            "title": "Travel Berkey® System",
+            "text": "<p>Compact 1.5-gallon gravity-fed system for 1–3 people. Produces up to 2.75 gallons per hour with 2 Black Berkey® Elements. A strong fit for everyday use, smaller households, RVs, and travel.</p>",
             "link_label": "",
             "link": ""
           }
