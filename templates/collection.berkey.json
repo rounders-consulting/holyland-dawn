@@ -124,8 +124,9 @@
         "column_hEnXxc": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/Crown_Berkey.webp",
+            "title": "Crown Berkey™ System",
+            "text": "<p>Berkey’s largest 6-gallon gravity-fed system for 6–12 people. Comes standard with 2 Black Berkey® Elements and can be expanded up to 8 elements for higher-capacity household and group use.</p>",
             "link_label": "",
             "link": ""
           }
