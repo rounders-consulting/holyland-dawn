@@ -14,6 +14,7 @@
       "blocks": {
         "slide_cFBbR4": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Black_Friday_in_September_is_COMING.png",
             "heading": "",
