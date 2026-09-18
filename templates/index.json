@@ -665,6 +665,54 @@
         "stack_images_on_mobile": true,
         "show_text_below": false
       }
+    },
+    "image_with_text_jxEd3A": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_e7mFim": {
+          "type": "heading",
+          "settings": {
+            "heading": "Berkey® Water Filtration for Home & Homestead",
+            "heading_size": "h1"
+          }
+        },
+        "text_N6KPDf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover gravity-fed Berkey® water filtration systems for everyday household use, homesteading, travel, and greater self-reliance. No electricity or permanent plumbing required—just practical filtration in sizes for individuals, families, and larger households.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_GRFMMe": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop → Berkey Water Filters",
+            "button_link": "shopify://collections/berkey-water-filters",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_e7mFim",
+        "text_N6KPDf",
+        "button_GRFMMe"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/ChatGPT_Image_Sep_18_2026_07_08_35_AM_c61ad634-9e0d-4be4-99f9-b08886f8d80b.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -685,6 +733,7 @@
     "featured_collection_HbnmUj",
     "newsletter_6AcCzp",
     "featured_blog_fmW4cN",
-    "image_banner_ibFCdQ"
+    "image_banner_ibFCdQ",
+    "image_with_text_jxEd3A"
   ]
 }
