@@ -412,32 +412,20 @@
         "heading_b87N6p": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Berkey® Gravity-Fed Water Filtration for Home & Homestead",
             "heading_size": "h1"
           }
         },
         "text_wCK3Wb": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "button_48DCXz": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>Berkey® gravity-fed water filtration systems offer a practical way to keep filtered drinking water available for everyday household use. Because the stainless-steel systems operate without electricity or permanent plumbing, they are well suited for kitchens, homesteads, cabins, RVs, and households interested in greater self-reliance.<br/><br/>HolyLand Marketplace carries Berkey® systems in a range of capacities, from compact personal and travel options to larger systems designed for households with greater daily water needs. Choosing the right Berkey depends on household size, available counter space, water usage, and desired filtration capacity.<br/><br/>A Berkey system is also supported by a range of replacement filters and accessories. Black Berkey® Elements provide the primary filtration stage, while compatible PF-2 elements can be added for targeted fluoride and arsenic reduction. Replacement spigots, water-view and sight-glass spigots, base stands, and filter-priming tools can help maintain and customize your system over time.<br/><br/>For households focused on homesteading, practical preparedness, or simply reducing dependence on complicated equipment, gravity-fed filtration provides a straightforward approach: fill the upper chamber, allow gravity to move the water through the filter elements, and dispense filtered water from the lower chamber.</p>"
           }
         }
       },
       "block_order": [
         "heading_b87N6p",
-        "text_wCK3Wb",
-        "button_48DCXz"
+        "text_wCK3Wb"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -446,7 +434,7 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 36,
-        "padding_bottom": 52
+        "padding_bottom": 36
       }
     }
   },
