@@ -104,8 +104,9 @@
         "column_9fR3Bg": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/Royal_Berkey.webp",
+            "title": "Royal Berkey® System",
+            "text": "<p>Roomy 3.25-gallon gravity-fed system for larger household needs. Comes standard with 2 Black Berkey® Elements and can be expanded to 4 elements for faster filtration.</p>",
             "link_label": "",
             "link": ""
           }
