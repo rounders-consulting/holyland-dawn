@@ -329,27 +329,27 @@
         "collapsible_row_MKrBVa": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Which Berkey® system size should I choose?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Choose a system based on how many people will use it, how much filtered water your household typically needs, and how much countertop space you have available. Smaller systems such as the Go and Travel Berkey® are suited to lighter use, while Big, Royal, Imperial, and Crown systems provide progressively more capacity for larger households and higher daily demand.</p>",
             "page": ""
           }
         },
         "collapsible_row_r34nVH": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How often do Black Berkey® Elements need to be replaced?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Black Berkey® Elements are designed for long service life and can be cleaned during use. Berkey recommends replacement at approximately 3,000 gallons per element, or about 6,000 gallons for a set of two, although actual service life can vary depending on source-water quality and usage.</p>",
             "page": ""
           }
         },
         "collapsible_row_YfX7zM": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Do Berkey® systems require electricity or plumbing?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>No. Berkey® gravity-fed systems do not require electricity, water pressure, or permanent plumbing. Water is poured into the upper chamber and gravity moves it through the filtration elements into the lower chamber for dispensing.</p>",
             "page": ""
           }
         }
