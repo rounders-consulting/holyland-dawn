@@ -189,34 +189,6 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_GU4LgW": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Anointing Oils - Save up to 40%",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "anointing-oil",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "standard",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 28,
-        "padding_bottom": 4
-      }
-    },
     "image_with_text_jxEd3A": {
       "type": "image-with-text",
       "blocks": {
@@ -263,6 +235,34 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "featured_collection_GU4LgW": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Anointing Oils - Save up to 40%",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "anointing-oil",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 28,
+        "padding_bottom": 4
       }
     },
     "featured_collection_VXBEzj": {
@@ -523,12 +523,12 @@
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "title": "Deals on Bracelets",
+        "title": "Black Friday Gift Bundles",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "holiday-gift-deals-on-bracelets",
+        "collection": "black-friday-gift-bundles",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
@@ -736,18 +736,18 @@
   },
   "order": [
     "slideshow_xz6dgG",
+    "featured_collection_QRYYq4",
     "featured_collection_qXxnxF",
     "featured_collection_xAHjR6",
     "featured_collection_7BMWX6",
-    "featured_collection_GU4LgW",
     "image_with_text_jxEd3A",
+    "featured_collection_GU4LgW",
     "featured_collection_VXBEzj",
     "featured_collection_ViXBTb",
     "image_with_text_yfWcWY",
     "featured_collection_nT7KPh",
     "featured_collection_JUhPmP",
     "collection_list_6F9RBW",
-    "featured_collection_QRYYq4",
     "featured_collection_tQC6fA",
     "featured_collection_TeMm39",
     "featured_collection_HbnmUj",
