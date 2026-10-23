@@ -15,7 +15,7 @@
         "slide_CWzkHg": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Black_Friday_in_October_Full_Sale_Hero_Graphic_426ddbe2-c524-4a31-9d8f-fce9af912b03.png",
+            "image": "shopify://shop_images/Shopify_Banner_Black_Friday.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -101,6 +101,35 @@
         "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Holyland Marketplace Welcomes You"
+      }
+    },
+    "featured_collection_QRYYq4": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "Black Friday Gift Bundles",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "black-friday-gift-bundles",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_collection_qXxnxF": {
@@ -516,35 +545,6 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 12,
-        "padding_bottom": 36
-      }
-    },
-    "featured_collection_QRYYq4": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
-      "settings": {
-        "title": "Black Friday Gift Bundles",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "black-friday-gift-bundles",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
         "padding_bottom": 36
       }
     },
