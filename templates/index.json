@@ -12,6 +12,24 @@
     "slideshow_xz6dgG": {
       "type": "slideshow",
       "blocks": {
+        "slide_ABYpiw": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Black_Friday_Sale_Shop_Early_Banner.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/black-friday-gift-bundles",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_CWzkHg": {
           "type": "slide",
           "settings": {
@@ -87,6 +105,7 @@
         }
       },
       "block_order": [
+        "slide_ABYpiw",
         "slide_CWzkHg",
         "slide_gC9ePc",
         "slide_paYK8P",
