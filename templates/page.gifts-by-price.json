@@ -15,9 +15,78 @@
         "padding_top": 28,
         "padding_bottom": 52
       }
+    },
+    "multicolumn_a4bbXg": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Uiz6qn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Mediterranean_Olive-Themed_Gift_Display.png",
+            "title": "Gifts Under $10",
+            "text": "<p>Small gifts can still have great meaning. Discover affordable keepsakes, stocking stuffers, faith-inspired gifts, and thoughtful little treasures.</p>",
+            "link_label": "",
+            "link": "shopify://collections/gifts-under-10"
+          }
+        },
+        "column_nDq67M": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Mediterranean_Faith_Gift_Set_Display.png",
+            "title": "Gifts Under $20",
+            "text": "<p>Find meaningful gifts at an easy-to-give price, with options for friends, family, teachers, groups, and more.</p>",
+            "link_label": "",
+            "link": "shopify://collections/gifts-under-20"
+          }
+        },
+        "column_JAwqrL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Jerusalem-Inspired_Jewish_Still_Life.png",
+            "title": "Gifts Under $50",
+            "text": "<p>Explore special gifts from the Holy Land, including Judaica, books, home décor, jewelry, gifts of faith, and more.</p>",
+            "link_label": "",
+            "link": "shopify://collections/gifts-under-50"
+          }
+        },
+        "column_eeYhCj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Complete_Jewish_Bible_Judaica_Gift_Set.png",
+            "title": "Gifts Under $100",
+            "text": "<p>Looking for something extra special? Browse distinctive Holy Land gifts for meaningful occasions and memorable giving.</p>",
+            "link_label": "",
+            "link": "shopify://collections/gifts-under-100"
+          }
+        }
+      },
+      "block_order": [
+        "column_Uiz6qn",
+        "column_nDq67M",
+        "column_JAwqrL",
+        "column_eeYhCj"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Gifts for Every Budget",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "multicolumn_a4bbXg"
   ]
 }
