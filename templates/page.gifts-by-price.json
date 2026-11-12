@@ -34,7 +34,7 @@
           "settings": {
             "image": "shopify://shop_images/Mediterranean_Faith_Gift_Set_Display.png",
             "title": "Gifts Under $20",
-            "text": "<p>Find meaningful gifts for friends, family, teachers, groups, and more—all at an easy-to-give price.</p>",
+            "text": "<p>Find meaningful gifts for friends, family, teachers, groups, and more—all at an easy-to-give price for thoughtful occasions.</p>",
             "link_label": "Shop Gifts Under $20",
             "link": "shopify://collections/gifts-under-20"
           }
@@ -44,7 +44,7 @@
           "settings": {
             "image": "shopify://shop_images/Jerusalem-Inspired_Jewish_Still_Life.png",
             "title": "Gifts Under $50",
-            "text": "<p>Explore special gifts from the Holy Land, including Judaica, books, home décor, jewelry, and gifts of faith.</p>",
+            "text": "<p>Explore special gifts from the Holy Land, including Judaica, books, home décor, jewelry, and gifts of faith for meaningful giving.</p>",
             "link_label": "Shop Gifts Under $50",
             "link": "shopify://collections/gifts-under-50"
           }
