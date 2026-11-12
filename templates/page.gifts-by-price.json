@@ -25,7 +25,7 @@
             "image": "shopify://shop_images/Mediterranean_Olive-Themed_Gift_Display.png",
             "title": "Gifts Under $10",
             "text": "<p>Small gifts can still have great meaning. Discover affordable keepsakes, stocking stuffers, faith-inspired gifts, and thoughtful little treasures.</p>",
-            "link_label": "",
+            "link_label": "Shop Gifts Under $10",
             "link": "shopify://collections/gifts-under-10"
           }
         },
@@ -35,7 +35,7 @@
             "image": "shopify://shop_images/Mediterranean_Faith_Gift_Set_Display.png",
             "title": "Gifts Under $20",
             "text": "<p>Find meaningful gifts at an easy-to-give price, with options for friends, family, teachers, groups, and more.</p>",
-            "link_label": "",
+            "link_label": "Shop Gifts Under $20",
             "link": "shopify://collections/gifts-under-20"
           }
         },
@@ -45,7 +45,7 @@
             "image": "shopify://shop_images/Jerusalem-Inspired_Jewish_Still_Life.png",
             "title": "Gifts Under $50",
             "text": "<p>Explore special gifts from the Holy Land, including Judaica, books, home décor, jewelry, gifts of faith, and more.</p>",
-            "link_label": "",
+            "link_label": "Shop Gifts Under $50",
             "link": "shopify://collections/gifts-under-50"
           }
         },
@@ -55,7 +55,7 @@
             "image": "shopify://shop_images/Complete_Jewish_Bible_Judaica_Gift_Set.png",
             "title": "Gifts Under $100",
             "text": "<p>Looking for something extra special? Browse distinctive Holy Land gifts for meaningful occasions and memorable giving.</p>",
-            "link_label": "",
+            "link_label": "Shop Gifts Under $100",
             "link": "shopify://collections/gifts-under-100"
           }
         }
