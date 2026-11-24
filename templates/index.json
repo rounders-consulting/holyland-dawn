@@ -201,6 +201,7 @@
         "column_iibYag",
         "column_Qiiwx7"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "<strong>&nbsp;Gifts for Every Budget</strong>",
@@ -213,6 +214,58 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_xb6xJf": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_mtfY6a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gifts-under-10",
+            "collection_title": ""
+          }
+        },
+        "featured_collection_PgrrpR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gifts-under-20",
+            "collection_title": ""
+          }
+        },
+        "featured_collection_4Hek7F": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gifts-under-50",
+            "collection_title": ""
+          }
+        },
+        "featured_collection_BB9NAB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gifts-under-100",
+            "collection_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_mtfY6a",
+        "featured_collection_PgrrpR",
+        "featured_collection_4Hek7F",
+        "featured_collection_BB9NAB"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Gifts for Every Budget",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -825,6 +878,7 @@
     "slideshow_xz6dgG",
     "featured_collection_QRYYq4",
     "multicolumn_W7WTjF",
+    "collection_list_xb6xJf",
     "featured_collection_qXxnxF",
     "featured_collection_xAHjR6",
     "featured_collection_7BMWX6",
