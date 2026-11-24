@@ -289,7 +289,7 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "&nbsp;<strong>Gifts for Every Budget</strong>&nbsp;",
+        "title": "<strong>&nbsp;Gifts for Every Budget</strong>",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -297,7 +297,7 @@
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
-        "button_link": "shopify://pages/gifts-by-price",
+        "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
