@@ -180,6 +180,34 @@
         "padding_bottom": 36
       }
     },
+    "featured_collection_xAHjR6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "PRAYER SHAWLS - <em>SAVE up to 55%</em>",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "tallit",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 28,
+        "padding_bottom": 4
+      }
+    },
     "multicolumn_W7WTjF": {
       "type": "multicolumn",
       "blocks": {
@@ -246,34 +274,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "featured_collection_xAHjR6": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "PRAYER SHAWLS - <em>SAVE up to 55%</em>",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "tallit",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "standard",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 28,
-        "padding_bottom": 4
       }
     },
     "featured_collection_7BMWX6": {
@@ -825,9 +825,9 @@
     "slideshow_xz6dgG",
     "featured_collection_QRYYq4",
     "featured_collection_qXxnxF",
-    "multicolumn_W7WTjF",
     "featured_collection_xAHjR6",
     "featured_collection_7BMWX6",
+    "multicolumn_W7WTjF",
     "image_with_text_jxEd3A",
     "featured_collection_GU4LgW",
     "featured_collection_VXBEzj",
