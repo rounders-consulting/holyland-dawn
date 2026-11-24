@@ -246,7 +246,7 @@
             "image": "shopify://shop_images/Mediterranean_Olive-Themed_Gift_Display.png",
             "title": "",
             "text": "<p>Shop meaningful gifts under $10, including scripture gifts, bookmarks, olive wood keepsakes, soaps and more. Affordable gifts inspired by the Holy Land.</p>",
-            "link_label": "",
+            "link_label": "Shop Gifts under $10",
             "link": "shopify://collections/gifts-under-10"
           }
         },
@@ -256,7 +256,7 @@
             "image": "shopify://shop_images/Mediterranean_Faith_Gift_Set_Display.png",
             "title": "",
             "text": "<p>Find thoughtful Christian gifts from $10 to under $20, including prayer shawls, Hebrew books, Judaica, mugs and meaningful gifts inspired by Israel.</p>",
-            "link_label": "",
+            "link_label": "Shop Gifts under $20",
             "link": "shopify://collections/gifts-under-20"
           }
         },
@@ -266,7 +266,7 @@
             "image": "shopify://shop_images/Jerusalem-Inspired_Jewish_Still_Life.png",
             "title": "",
             "text": "<p>Discover meaningful Christian gifts under $50. Shop Bibles, shofars, Judaica, jewelry, prayer shawls and thoughtful gifts from the Holy Land.</p>",
-            "link_label": "",
+            "link_label": "Shop Gifts under $50",
             "link": "shopify://collections/gifts-under-50"
           }
         },
@@ -276,7 +276,7 @@
             "image": "shopify://shop_images/Complete_Jewish_Bible_Judaica_Gift_Set.png",
             "title": "",
             "text": "<p>Shop meaningful Christian gifts over $50 and under $100, including shofars, jewelry, Bibles, menorahs and distinctive gifts inspired by the Holy Land.</p>",
-            "link_label": "",
+            "link_label": "Shop Gifts under $100",
             "link": "shopify://collections/gifts-under-100"
           }
         }
@@ -296,7 +296,7 @@
         "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Shop Gifts by Price",
+        "button_label": "",
         "button_link": "shopify://pages/gifts-by-price",
         "color_scheme": "",
         "columns_mobile": "1",
