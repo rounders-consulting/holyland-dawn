@@ -151,6 +151,74 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_W7WTjF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_HaTiHq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Mediterranean_Olive-Themed_Gift_Display.png",
+            "title": "",
+            "text": "<p>Shop meaningful gifts under $10, including scripture gifts, bookmarks, olive wood keepsakes, soaps and more. Affordable gifts inspired by the Holy Land.</p>",
+            "link_label": "Shop Gifts under $10",
+            "link": "shopify://collections/gifts-under-10"
+          }
+        },
+        "column_zUfXdX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Mediterranean_Faith_Gift_Set_Display.png",
+            "title": "",
+            "text": "<p>Find thoughtful Christian gifts from $10 to under $20, including prayer shawls, Hebrew books, Judaica, mugs and meaningful gifts inspired by Israel.</p>",
+            "link_label": "Shop Gifts under $20",
+            "link": "shopify://collections/gifts-under-20"
+          }
+        },
+        "column_iibYag": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Jerusalem-Inspired_Jewish_Still_Life.png",
+            "title": "",
+            "text": "<p>Discover meaningful Christian gifts under $50. Shop Bibles, shofars, Judaica, jewelry, prayer shawls and thoughtful gifts from the Holy Land.</p>",
+            "link_label": "Shop Gifts under $50",
+            "link": "shopify://collections/gifts-under-50"
+          }
+        },
+        "column_Qiiwx7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Complete_Jewish_Bible_Judaica_Gift_Set.png",
+            "title": "",
+            "text": "<p>Shop meaningful Christian gifts over $50 and under $100, including shofars, jewelry, Bibles, menorahs and distinctive gifts inspired by the Holy Land.</p>",
+            "link_label": "Shop Gifts under $100",
+            "link": "shopify://collections/gifts-under-100"
+          }
+        }
+      },
+      "block_order": [
+        "column_HaTiHq",
+        "column_zUfXdX",
+        "column_iibYag",
+        "column_Qiiwx7"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>&nbsp;Gifts for Every Budget</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection_qXxnxF": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
@@ -232,74 +300,6 @@
         "show_rating": false,
         "quick_add": "none",
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_W7WTjF": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_HaTiHq": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Mediterranean_Olive-Themed_Gift_Display.png",
-            "title": "",
-            "text": "<p>Shop meaningful gifts under $10, including scripture gifts, bookmarks, olive wood keepsakes, soaps and more. Affordable gifts inspired by the Holy Land.</p>",
-            "link_label": "Shop Gifts under $10",
-            "link": "shopify://collections/gifts-under-10"
-          }
-        },
-        "column_zUfXdX": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Mediterranean_Faith_Gift_Set_Display.png",
-            "title": "",
-            "text": "<p>Find thoughtful Christian gifts from $10 to under $20, including prayer shawls, Hebrew books, Judaica, mugs and meaningful gifts inspired by Israel.</p>",
-            "link_label": "Shop Gifts under $20",
-            "link": "shopify://collections/gifts-under-20"
-          }
-        },
-        "column_iibYag": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Jerusalem-Inspired_Jewish_Still_Life.png",
-            "title": "",
-            "text": "<p>Discover meaningful Christian gifts under $50. Shop Bibles, shofars, Judaica, jewelry, prayer shawls and thoughtful gifts from the Holy Land.</p>",
-            "link_label": "Shop Gifts under $50",
-            "link": "shopify://collections/gifts-under-50"
-          }
-        },
-        "column_Qiiwx7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Complete_Jewish_Bible_Judaica_Gift_Set.png",
-            "title": "",
-            "text": "<p>Shop meaningful Christian gifts over $50 and under $100, including shofars, jewelry, Bibles, menorahs and distinctive gifts inspired by the Holy Land.</p>",
-            "link_label": "Shop Gifts under $100",
-            "link": "shopify://collections/gifts-under-100"
-          }
-        }
-      },
-      "block_order": [
-        "column_HaTiHq",
-        "column_zUfXdX",
-        "column_iibYag",
-        "column_Qiiwx7"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "<strong>&nbsp;Gifts for Every Budget</strong>",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
@@ -824,10 +824,10 @@
   "order": [
     "slideshow_xz6dgG",
     "featured_collection_QRYYq4",
+    "multicolumn_W7WTjF",
     "featured_collection_qXxnxF",
     "featured_collection_xAHjR6",
     "featured_collection_7BMWX6",
-    "multicolumn_W7WTjF",
     "image_with_text_jxEd3A",
     "featured_collection_GU4LgW",
     "featured_collection_VXBEzj",
